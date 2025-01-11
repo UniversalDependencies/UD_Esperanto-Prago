@@ -1,17 +1,17 @@
 #sent_id = 1
 #text = Manifesto de Prago de la movado por la internacia lingvo Esperanto
 #text_en = Prague Manifesto of the movement for the international language Esperanto
-1	Manifesto	manifesto	NOUN	_	Case=Nom|Number=Sing	0	root		
-2	de	de	ADP	_	_	3	case		
-3	Prago	Prago	PROPN	_	Case=Nom|Number=Sing	1	nmod		
-4	de	de	ADP	_	_	6	case		
-5	la	la	DET	_	Definite=Def|PronType=Art	6	det		
-6	movado	movado	NOUN	_	Case=Nom|Number=Sing	3	nmod		
-7	por	por	ADP	_	_	10	case		
-8	la	la	DET	_	Definite=Def|PronType=Art	10	det		
-9	internacia	internacia	ADJ	_	Case=Nom|Number=Sing|Degree=Pos	10	amod		
-10	linvgo	lingvo	NOUN	_	Case=Nom|Number=Sing	6	nmod		
-11	Esperanto	Esperanto	PROPN	_	Case=Nom|Number=Sing	10	appos		
+1	Manifesto	manifesto	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
+2	de	de	ADP	_	_	3	case	_	_
+3	Prago	Prago	PROPN	_	Case=Nom|Number=Sing	1	nmod	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	la	la	DET	_	Definite=Def|PronType=Art	6	det	_	_
+6	movado	movado	NOUN	_	Case=Nom|Number=Sing	3	nmod	_	_
+7	por	por	ADP	_	_	10	case	_	_
+8	la	la	DET	_	Definite=Def|PronType=Art	10	det	_	_
+9	internacia	internacia	ADJ	_	Case=Nom|Number=Sing|Degree=Pos	10	amod	_	_
+10	linvgo	lingvo	NOUN	_	Case=Nom|Number=Sing	6	nmod	_	_
+11	Esperanto	Esperanto	PROPN	_	Case=Nom|Number=Sing	10	appos	_	_
 #sent_id = 2
 #text = Ni, anoj de la tutmonda movado por la progresigo de Esperanto, direktas ĉi tiun manifeston al ĉiuj registaroj, internaciaj organizaĵoj, kaj homoj de bona volo, deklaras nian intencon firmvole plu labori por la celoj ĉi tie esprimitaj, kaj invitas ĉiun unuopan organizaĵon kaj homon aliĝi al nia strebado.
 #text_en = We, members of the worldwide movement for the promotion of Esperanto, address this Manifesto to all governments, international organizations and people of good will; declare our unshakeable commitment to the objectives set out here; and call on all organizations and individuals to join us in working for these goals.
