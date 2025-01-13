@@ -1,6 +1,6 @@
-#sent_id = 1
-#text = Manifesto de Prago de la movado por la internacia lingvo Esperanto
-#text_en = Prague Manifesto of the movement for the international language Esperanto
+# sent_id = 1
+# text = Manifesto de Prago de la movado por la internacia lingvo Esperanto
+# text_en = Prague Manifesto of the movement for the international language Esperanto
 1	Manifesto	manifesto	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
 2	de	de	ADP	_	_	3	case	_	_
 3	Prago	Prago	PROPN	_	Case=Nom|Number=Sing	1	nmod	_	_
@@ -9,7 +9,7 @@
 6	movado	movado	NOUN	_	Case=Nom|Number=Sing	3	nmod	_	_
 7	por	por	ADP	_	_	10	case	_	_
 8	la	la	DET	_	Definite=Def|PronType=Art	10	det	_	_
-9	internacia	internacia	ADJ	_	Case=Nom|Number=Sing|Degree=Pos	10	amod	_	_
+9	internacia	internacia	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	10	amod	_	_
 10	linvgo	lingvo	NOUN	_	Case=Nom|Number=Sing	6	nmod	_	_
 11	Esperanto	Esperanto	PROPN	_	Case=Nom|Number=Sing	10	appos	_	_
 
