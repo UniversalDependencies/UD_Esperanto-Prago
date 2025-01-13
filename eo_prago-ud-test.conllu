@@ -10,7 +10,7 @@
 7	por	por	ADP	_	_	10	case	_	_
 8	la	la	DET	_	Definite=Def|PronType=Art	10	det	_	_
 9	internacia	internacia	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	10	amod	_	_
-10	lingvo	lingvo	NOUN	_	Case=Nom|Number=Sing	6	nmod	_	SpaceAfter=No
+10	lingvo	lingvo	NOUN	_	Case=Nom|Number=Sing	6	nmod	_	_
 11	Esperanto	Esperanto	PROPN	_	Case=Nom|Number=Sing	10	appos	_	_
 
 # sent_id = 2
@@ -598,8 +598,12 @@
 19	por	por	ADP	_	_	20	mark	_	_
 20	alproprigi	alproprigi	VERB	_	VerbForm=Inf	18	acl	_	_
 21	duan	dua	ADJ	_	Case=Acc|Degree=Pos|Number=Sing	22	amod	_	_
-22	lingvon	lingvo	NOUN	_	Case=Acc|Number=Sing	20	obj	_	SpaceAfter=No
-23	.	.	PUNCT	_	_	2	punct	_	_
+22	lingvon	lingvo	NOUN	_	Case=Acc|Number=Sing	20	obj	_	_
+23	ĝis	ĝis	ADP	_	_	26	case	_	_
+24	alta	alta	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	26	amod	_	_
+25	komunika	komunika	_	Case=Nom|Degree=Pos|Number=Sing	26	amod	_	_
+26	nivelo	nivelo	NOUN	_	Case=Nom|Number=Sing	20	nmod	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 29
 # text = Ni estas movado por la provizo de tiu ŝanco.
