@@ -10,7 +10,7 @@
 7	por	por	ADP	_	_	10	case	_	_
 8	la	la	DET	_	Definite=Def|PronType=Art	10	det	_	_
 9	internacia	internacia	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	10	amod	_	_
-10	linvgo	lingvo	NOUN	_	Case=Nom|Number=Sing	6	nmod	_	SpaceAfter=No
+10	lingvo	lingvo	NOUN	_	Case=Nom|Number=Sing	6	nmod	_	SpaceAfter=No
 11	Esperanto	Esperanto	PROPN	_	Case=Nom|Number=Sing	10	appos	_	_
 
 # sent_id = 2
@@ -38,14 +38,14 @@
 20	registaroj	registaro	NOUN	_	Case=Nom|Number=Plur	14	obl	_	SpaceAfter=No
 21	,	,	PUNCT	_	_	20	punct	_	_
 22	internaciaj	internacia	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	23	amod	_	_
-23	organizaĵoj	organizaĵo	NOUN	_	Case=Nom|Number=Plur	20	conj	_	_
-24	,	,	PUNCT	_	_	23	punct	_	SpaceAfter=No
+23	organizaĵoj	organizaĵo	NOUN	_	Case=Nom|Number=Plur	20	conj	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	23	punct	_	_
 25	kaj	kaj	CCONJ	_	_	26	cc	_	_
 26	homoj	homo	NOUN	_	Case=Nom|Number=Plur	23	conj	_	_
 27	de	de	ADP	_	_	29	case	_	_
 28	bona	bona	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	29	amod	_	_
-29	volo	volo	NOUN	_	Case=Nom|Number=Sing	26	nmod	_	_
-30	,	,	PUNCT	_	_	29	punct	_	SpaceAfter=No
+29	volo	volo	NOUN	_	Case=Nom|Number=Sing	26	nmod	_	SpaceAfter=No
+30	,	,	PUNCT	_	_	29	punct	_	_
 31	deklaras	deklari	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	14	conj	_	_
 32	nian	ni	PRON	_	Case=Acc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	33	nmod:poss	_	_
 33	intencon	intenco	NOUN	_	Case=Acc|Number=Sing	31	obj	_	_
@@ -57,8 +57,8 @@
 39	celoj	celo	NOUN	_	Case=Nom|Number=Plur	36	obl	_	_
 40	ĉi	ĉi	PART	_	_	42	part	_	_
 41	tie	tie	ADV	_	_	42	advmod	_	_
-42	esprimitaj	esprimi	VERB	_	Case=Nom|Number=Plur|Tense=Pst|VerbForm=Par|Voice=Pass	39	acl	_	_
-43	,	,	PUNCT	_	_	42	punct	_	SpaceAfter=No
+42	esprimitaj	esprimi	VERB	_	Case=Nom|Number=Plur|Tense=Pst|VerbForm=Par|Voice=Pass	39	acl	_	SpaceAfter=No
+43	,	,	PUNCT	_	_	42	punct	_	_
 44	kaj	kaj	CCONJ	_	_	45	cc	_	_
 45	invitas	inviti	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	31	conj	_	_
 46	ĉiun	ĉiu	DET	_	Case=Acc|Number=Sing|PronType=Tot	48	det	_	_
