@@ -13,15 +13,15 @@
 10	linvgo	lingvo	NOUN	_	Case=Nom|Number=Sing	6	nmod	_	_
 11	Esperanto	Esperanto	PROPN	_	Case=Nom|Number=Sing	10	appos	_	_
 
-#sent_id = 2
-#text = Ni, anoj de la tutmonda movado por la progresigo de Esperanto, direktas ĉi tiun manifeston al ĉiuj registaroj, internaciaj organizaĵoj, kaj homoj de bona volo, deklaras nian intencon firmvole plu labori por la celoj ĉi tie esprimitaj, kaj invitas ĉiun unuopan organizaĵon kaj homon aliĝi al nia strebado.
-#text_en = We, members of the worldwide movement for the promotion of Esperanto, address this Manifesto to all governments, international organizations and people of good will; declare our unshakeable commitment to the objectives set out here; and call on all organizations and individuals to join us in working for these goals.
+# sent_id = 2
+# text = Ni, anoj de la tutmonda movado por la progresigo de Esperanto, direktas ĉi tiun manifeston al ĉiuj registaroj, internaciaj organizaĵoj, kaj homoj de bona volo, deklaras nian intencon firmvole plu labori por la celoj ĉi tie esprimitaj, kaj invitas ĉiun unuopan organizaĵon kaj homon aliĝi al nia strebado.
+# text_en = We, members of the worldwide movement for the promotion of Esperanto, address this Manifesto to all governments, international organizations and people of good will; declare our unshakeable commitment to the objectives set out here; and call on all organizations and individuals to join us in working for these goals.
 1	Ni	ni	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	14	nsubj	_	_
 2	,	,	PUNCT	_	_	1	punct	_	_
 3	anoj	ano	NOUN	_	Case=Nom|Number=Plur	1	appos	_	_
 4	de	de	ADP	_	_	7	case	_	_
 5	la	la	DET	_	Definite=Def|PronType=Art	7	det	_	_
-6	tutmonda	tutmonda	ADJ	_	Case=Nom|Number=Sing|Degree=Pos	7	amod	_	_
+6	tutmonda	tutmonda	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	7	amod	_	_
 7	movado	movado	NOUN	_	Case=Nom|Number=Sing	3	nmod	_	_
 8	por	por	ADP	_	_	10	case	_	_
 9	la	la	DET	_	Definite=Def|PronType=Art	10	det	_	_
@@ -37,13 +37,13 @@
 19	ĉiuj	ĉiu	DET	_	Case=Nom|Number=Plur|PronType=Tot	20	det	_	_
 20	registaroj	registaro	NOUN	_	Case=Nom|Number=Plur	14	obl	_	_
 21	,	,	PUNCT	_	_	20	punct	_	_
-22	internaciaj	internacia	ADJ	_	Case=Nom|Number=Plur|Degree=Pos	23	amod	_	_
+22	internaciaj	internacia	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	23	amod	_	_
 23	organizaĵoj	organizaĵo	NOUN	_	Case=Nom|Number=Plur	20	conj	_	_
 24	,	,	PUNCT	_	_	23	punct	_	_
 25	kaj	kaj	CCONJ	_	_	26	cc	_	_
 26	homoj	homo	NOUN	_	Case=Nom|Number=Plur	23	conj	_	_
 27	de	de	ADP	_	_	29	case	_	_
-28	bona	bona	ADJ	_	Case=Nom|Number=Sing|Degree=Pos	29	amod	_	_
+28	bona	bona	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	29	amod	_	_
 29	volo	volo	NOUN	_	Case=Nom|Number=Sing	26	nmod	_	_
 30	,	,	PUNCT	_	_	29	punct	_	_
 31	deklaras	deklari	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	14	conj	_	_
@@ -72,9 +72,9 @@
 54	strebado	strebado	NOUN	_	Case=Nom|Number=Sing	51	obl	_	_
 55	.	.	PUNCT	_	_	14	punct	_	_
 
-#sent_id = 3
-#text = Lanĉita en 1887 kiel projekto de helplingvo por internacia komunikado, kaj rapide evoluinta en vivoplenan, nuancoriĉan lingvon, Esperanto jam de pli ol jarcento funkcias por kunligi homojn trans lingvaj kaj kulturaj baroj.
-#text_en = For more than a century Esperanto, which was launched in 1887 as a project for an auxiliary language for international communication and quickly developed into a rich living language in its own right, has functioned as a means of bringing people together across the barriers of language and culture.
+# sent_id = 3
+# text = Lanĉita en 1887 kiel projekto de helplingvo por internacia komunikado, kaj rapide evoluinta en vivoplenan, nuancoriĉan lingvon, Esperanto jam de pli ol jarcento funkcias por kunligi homojn trans lingvaj kaj kulturaj baroj.
+# text_en = For more than a century Esperanto, which was launched in 1887 as a project for an auxiliary language for international communication and quickly developed into a rich living language in its own right, has functioned as a means of bringing people together across the barriers of language and culture.
 1	Lanĉita	Lanĉi	VERB	_	VerbForm=Par|Tense=Pst|Voice=Pass|Number=Sing	27	advcl	_	_
 2	en	en	ADP	_	_	3	case	_	_
 3	1887	dek ok cent ok dek sep 	NUM	_	_	1	obl	_	_
@@ -83,7 +83,7 @@
 6	de	de	ADP	_	_	7	case	_	_
 7	helplingvo	helplingvo	NOUN	_	Case=Nom|Number=Sing	5	nmod	_	_
 8	por	por	ADP	_	_	10	case	_	_
-9	internacia	internacia	ADJ	_	Case=Nom|Number=Sing|Degree=Pos	10	amod	_	_
+9	internacia	internacia	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	10	amod	_	_
 10	komunikado	komunikado	NOUN	_	Case=Nom|Number=Sing	7	nmod	_	_
 11	,	,	PUNCT	_	_	10	punct	_	_
 12	kaj	kaj	CCONJ	_	_	14	cc	_	_
@@ -106,15 +106,15 @@
 29	kunligi	kunligi	VERB	_	VerbForm=Inf	27	xcomp	_	_
 30	homojn	homo	NOUN	_	Case=Acc|Number=Plur	29	obj	_	_
 31	trans	trans	ADP	_	_	35	case	_	_
-32	lingvaj	lingva	ADJ	_	Case=Nom|Number=Plur|Degree=Pos	35	amod	_	_
+32	lingvaj	lingva	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	35	amod	_	_
 33	kaj	kaj	CCONJ	_	_	34	cc	_	_
-34	kulturaj	kultura	ADJ	_	Case=Nom|Number=Plur|Degree=Pos	32	conj	_	_
+34	kulturaj	kultura	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	32	conj	_	_
 35	baroj	baro	NOUN	_	Case=Nom|Number=Plur	29	nmod	_	_
 36	.	.	PUNCT	_	_	27	punct	_	_
 
-#sent_id = 4
-#text = Intertempe la celoj de ĝiaj parolantoj ne perdis gravecon kaj aktualecon.
-#text_en = The aims that inspire the users of Esperanto are still as important and relevant as ever.
+# sent_id = 4
+# text = Intertempe la celoj de ĝiaj parolantoj ne perdis gravecon kaj aktualecon.
+# text_en = The aims that inspire the users of Esperanto are still as important and relevant as ever.
 1	Intertempe	Intertempe	ADV	_	_	8	advmod	_	_
 2	la	la	DET	_	Definite=Def|PronType=Art	3	det	_	_
 3	celoj	celo	NOUN	_	Case=Nom|Number=Plur	8	nsubj	_	_
@@ -128,16 +128,16 @@
 11	aktualecon	aktualeco	NOUN	_	Case=Acc|Number=Sing	9	conj	_	_
 12	.	.	PUNCT	_	_	8	punct	_	_
 
-#sent_id = 5
-#text = Nek la tutmonda uzado de kelkaj naciaj lingvoj, nek progresoj en la komunikad-tekniko, nek la malkovro de novaj metodoj de lingvo-instruado verŝajne realigos jenajn principojn, kiujn ni konsideras esencaj por justa kaj efika lingva ordo.
-#text_en = Neither the worldwide use of a few national languages, nor advances in communications technology, nor the development of new methods of language teaching is likely to result in a fair and effective language order based on the following principles, which we hold to be essential.
+# sent_id = 5
+# text = Nek la tutmonda uzado de kelkaj naciaj lingvoj, nek progresoj en la komunikad-tekniko, nek la malkovro de novaj metodoj de lingvo-instruado verŝajne realigos jenajn principojn, kiujn ni konsideras esencaj por justa kaj efika lingva ordo.
+# text_en = Neither the worldwide use of a few national languages, nor advances in communications technology, nor the development of new methods of language teaching is likely to result in a fair and effective language order based on the following principles, which we hold to be essential.
 1	Nek	Nek	CCONJ	_	_	4	cc:preconj	_	_
 2	la	la	DET	_	Definite=Def|PronType=Art	4	det	_	_
-3	tutmonda	tutmonda	ADJ	_	Case=Nom|Number=Sing|Degree=Pos	4	amod	_	_
+3	tutmonda	tutmonda	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	4	amod	_	_
 4	uzado	uzado	NOUN	_	Case=Nom|Number=Sing	25	nsubj	_	_
 5	de	de	ADP	_	_	8	case	_	_
 6	kelkaj	kelka	DET	_	Definite=Ind|PronType=Art	8	det	_	_
-7	naciaj	nacia	ADJ	_	Case=Nom|Number=Plur|Degree=Pos	8	amod	_	_
+7	naciaj	nacia	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	8	amod	_	_
 8	lingvoj	lingvo	NOUN	_	Case=Nom|Number=Plur	4	nmod	_	_
 9	,	,	PUNCT	_	_	8	punct	_	_
 10	nek	nek	CCONJ	_	_	11	cc:preconj	_	_
@@ -150,7 +150,7 @@
 17	la	la	DET	_	Definite=Def|PronType=Art	18	det	_	_
 18	malkovro	malkovro	NOUN	_	Case=Nom|Number=Sing	11	conj	_	_
 19	de	de	ADP	_	_	21	case	_	_
-20	novaj	nova	ADJ	_	Case=Nom|Number=Plur|Degree=Pos	21	amod	_	_
+20	novaj	nova	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	21	amod	_	_
 21	metodoj	metodo	NOUN	_	Case=Nom|Number=Plur	18	nmod	_	_
 22	de	de	ADP	_	_	23	case	_	_
 23	lingvo-instruado	lingvo-instruado	NOUN	_	Case=Nom|Number=Sing	21	nmod	_	_
@@ -162,27 +162,27 @@
 29	kiujn	kiu	PRON	_	PronType=Rel|Case=Acc|Number=Plur	31	obj	_	_
 30	ni	ni	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	31	nsubj	_	_
 31	konsideras	konsideri	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	27	acl:relcl	_	_
-32	esencaj	esenca	ADJ	_	Case=Nom|Number=Plur|Degree=Pos	31	xcomp	_	_
+32	esencaj	esenca	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	31	xcomp	_	_
 33	por	por	ADP	_	_	38	case	_	_
-34	justa	justa	ADJ	_	Case=Nom|Number=Sing|Degree=Pos	38	amod	_	_
+34	justa	justa	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	38	amod	_	_
 35	kaj	kaj	CCONJ	_	_	36	cc	_	_
-36	efika	efika	ADJ	_	Case=Nom|Number=Sing|Degree=Pos	34	conj	_	_
-37	lingva	lingva	ADJ	_	Case=Nom|Number=Sing|Degree=Pos	38	amod	_	_
+36	efika	efika	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	34	conj	_	_
+37	lingva	lingva	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	38	amod	_	_
 38	ordo	ordo	NOUN	_	Case=Nom|Number=Sing	32	nmod	_	_
 39	.	.	PUNCT	_	_	25	punct	_	_
 
-#sent_id = 6
-#text = 1. DEMOKRATIO.
-#text_en = 1. DEMOCRACY.
+# sent_id = 6
+# text = 1. DEMOKRATIO.
+# text_en = 1. DEMOCRACY.
 1	1	1	NUM	_	_	3	nmod	_	_
 2	.	.	PUNCT	_	_	1	punct	_	_
 3	DEMOKRATIO	demokratio	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-#sent_id = 7
-#text = Komunika sistemo kiu tutvive privilegias iujn homojn sed postulas de aliaj ke ili investu jarojn da penoj por atingi malpli altan gradon de kapablo, estas fundamente maldemokratia.
-#text_en = Any system of communication which confers lifelong privileges on some while requiring others to devote years of effort to achieving a lesser degree of competence is fundamentally antidemocratic.
-1	Komunika	Komunika	ADJ	_	Case=Nom|Number=Sing|Degree=Pos	2	amod	_	_
+# sent_id = 7
+# text = Komunika sistemo kiu tutvive privilegias iujn homojn sed postulas de aliaj ke ili investu jarojn da penoj por atingi malpli altan gradon de kapablo, estas fundamente maldemokratia.
+# text_en = Any system of communication which confers lifelong privileges on some while requiring others to devote years of effort to achieving a lesser degree of competence is fundamentally antidemocratic.
+1	Komunika	Komunika	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	2	amod	_	_
 2	sistemo	sistemo	NOUN	_	Case=Nom|Number=Sing	28	nsubj	_	_
 3	kiu	kiu	PRON	_	PronType=Rel|Case=Nom|Number=Sing	5	nsubj	_	_
 4	tutvive	tutvive	ADV	_	_	5	advmod	_	_
@@ -192,7 +192,7 @@
 8	sed	sed	SCONJ	_	_	9	mark	_	_
 9	postulas	postuli	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	5	conj	_	_
 10	de	de	ADP	_	_	11	case	_	_
-11	aliaj	alia	ADJ	_	Case=Nom|Number=Plur|Degree=Pos	9	obl	_	_
+11	aliaj	alia	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	9	obl	_	_
 12	ke	ke	SCONJ	_	_	14	mark	_	_
 13	ili	ili	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	14	nsubj	_	_
 14	investu	investi	VERB	_	Mood=Sub|VerbForm=Fin	9	ccomp	_	_
@@ -209,12 +209,12 @@
 25	,	,	PUNCT	_	_	24	punct	_	_
 26	estas	esti	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	28	aux	_	_
 27	fundamente	fundamente	ADV	_	_	28	advmod	_	_
-28	maldemokratia	maldemokratia	ADJ	_	Case=Nom|Number=Sing|Degree=Pos	0	ROOT	_	_
+28	maldemokratia	maldemokratia	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	0	ROOT	_	_
 29	.	.	PUNCT	_	_	28	punct	_	_
 
-#sent_id = 8
-#text = Kvankam, kiel ĉiu lingvo, Esperanto ne estas perfekta, ĝi ege superas ĉiun rivalon en la sfero de egaleca tutmonda komunikado.
-#text_en = While Esperanto, like any language, is not perfect, it far outstrips other languages as a means of egalitarian communication on a world scale.
+# sent_id = 8
+# text = Kvankam, kiel ĉiu lingvo, Esperanto ne estas perfekta, ĝi ege superas ĉiun rivalon en la sfero de egaleca tutmonda komunikado.
+# text_en = While Esperanto, like any language, is not perfect, it far outstrips other languages as a means of egalitarian communication on a world scale.
 1	Kvankam	Kvankam	SCONJ	_	_	14	mark	_	_
 2	,	,	PUNCT	_	_	1	punct	_	_
 3	kiel	kiel	ADP	_	_	5	case	_	_
@@ -224,7 +224,7 @@
 7	Esperanto	Esperanto	PROPN	_	Case=Nom|Number=Sing	10	nsubj	_	_
 8	ne	ne	ADV	_	_	9	advmod	_	_
 9	estas	esti	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	10	aux	_	_
-10	perfekta	perfekta	ADJ	_	Case=Nom|Number=Sing|Degree=Pos	14	advcl	_	_
+10	perfekta	perfekta	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	14	advcl	_	_
 11	,	,	PUNCT	_	_	10	punct	_	_
 12	ĝi	ĝi	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
 13	ege	ege	ADV	_	_	14	advmod	_	_
@@ -235,21 +235,21 @@
 18	la	la	DET	_	Definite=Def|PronType=Art	19	det	_	_
 19	sfero	sfero	NOUN	_	Case=Nom|Number=Sing	16	nmod	_	_
 20	de	de	ADP	_	_	23	case	_	_
-21	egaleca	egaleca	ADJ	_	Case=Nom|Number=Sing|Degree=Pos	23	amod	_	_
-22	tutmonda	tutmonda	ADJ	_	Case=Nom|Number=Sing|Degree=Pos	23	amod	_	_
+21	egaleca	egaleca	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	23	amod	_	_
+22	tutmonda	tutmonda	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	23	amod	_	_
 23	komunikado	komunikado	NOUN	_	Case=Nom|Number=Sing	19	nmod	_	_
 24	.	.	PUNCT	_	_	14	punct	_	_
 
-#sent_id = 9
-#text = Ni asertas ke lingva malegaleco sekvigas komunikan malegalecon je ĉiuj niveloj, inkluzive de la internacia nivelo.
-#text_en = We maintain that language inequality gives rise to communicative inequality at all levels, including the international level.
+# sent_id = 9
+# text = Ni asertas ke lingva malegaleco sekvigas komunikan malegalecon je ĉiuj niveloj, inkluzive de la internacia nivelo.
+# text_en = We maintain that language inequality gives rise to communicative inequality at all levels, including the international level.
 1	Ni	ni	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
 2	asertas	aserti	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	ke	ke	SCONJ	_	_	6	mark	_	_
-4	lingva	lingva	ADJ	_	Case=Nom|Number=Sing|Degree=Pos	5	amod	_	_
+4	lingva	lingva	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	5	amod	_	_
 5	malegaleco	malegaleco	NOUN	_	Case=Nom|Number=Sing	6	nsubj	_	_
 6	sekvigas	sekvigi	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
-7	komunikan	komunika	ADJ	_	Case=Nom|Number=Sing|Degree=Pos	8	amod	_	_
+7	komunikan	komunika	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	8	amod	_	_
 8	malegalecon	malegaleco	NOUN	_	Case=Acc|Number=Sing	6	obj	_	_
 9	je	je	ADP	_	_	11	case	_	_
 10	ĉiuj	ĉiu	DET	_	Case=Nom|Number=Plur|PronType=Tot	11	det	_	_
@@ -258,48 +258,48 @@
 13	inkluzive	inkluzive	ADV	_	_	11	advmod	_	_
 14	de	de	ADP	_	_	17	case	_	_
 15	la	la	DET	_	Definite=Def|PronType=Art	17	det	_	_
-16	internacia	internacia	ADJ	_	Case=Nom|Number=Sing|Degree=Pos	17	amod	_	_
+16	internacia	internacia	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	17	amod	_	_
 17	nivelo	nivelo	NOUN	_	Case=Nom|Number=Sing	13	nmod	_	_
 18	.	.	PUNCT	_	_	2	punct	_	_
 
-#sent_id = 10
-#text = Ni estas movado por demokratia komunikado.
-#text_en = We are a movement for democratic communication.
+# sent_id = 10
+# text = Ni estas movado por demokratia komunikado.
+# text_en = We are a movement for democratic communication.
 1	Ni	ni	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
 2	estas	esti	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	_
 3	movado	movado	NOUN	_	Case=Nom|Number=Sing	0	ROOT	_	_
 4	por	por	ADP	_	_	6	case	_	_
-5	demokratia	demokratia	ADJ	_	Case=Nom|Number=Sing|Degree=Pos	6	amod	_	_
+5	demokratia	demokratia	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	6	amod	_	_
 6	komunikado	komunikado	NOUN	_	Case=Nom|Number=Sing	3	nmod	_	_
 7	.	.	PUNCT	_	_	3	punct	_	_
 
-#sent_id = 11
-#text = 2. TRANSNACIA EDUKADO.
-#text_en = 2. GLOBAL EDUCATION
+# sent_id = 11
+# text = 2. TRANSNACIA EDUKADO.
+# text_en = 2. GLOBAL EDUCATION
 1	2	2	NUM	_	_	4	nmod	_	_
 2	.	.	PUNCT	_	_	1	punct	_	_
-3	TRANSNACIA	transnacia	ADJ	_	Case=Nom|Number=Sing|Degree=Pos	4	amod	_	_
+3	TRANSNACIA	transnacia	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	4	amod	_	_
 4	EDUKADO	edukado	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-#sent_id =12							
-#text = Ĉiu etna lingvo estas ligita al difinita kulturo kaj naci(ar)o.
-#text_en = All ethnic languages are bound to certain cultures and nations.
+# sent_id =12							
+# text = Ĉiu etna lingvo estas ligita al difinita kulturo kaj naci(ar)o.
+# text_en = All ethnic languages are bound to certain cultures and nations.
 1	Ĉiu	ĉiu	DET	_	Case=Nom|Number=Sing|PronType=Tot	3	det	_	_
-2	etna	etna	ADJ	_	Case=Nom|Number=Sing|Degree=Pos	3	adj	_	_
+2	etna	etna	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	3	adj	_	_
 3	lingvo	lingvo	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	_
 4	estas	esti	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	_
 5	ligita	ligi	VERB	_	VerbForm=Par|Tense=Pst|Voice=Pass|Number=Sing	0	ROOT	_	_
 6	al	al	ADP	_	_	8	case	_	_
-7	difinita	difinita	ADJ	_	Case=Nom|Number=Sing|Degree=Pos	8	amod	_	_
+7	difinita	difinita	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	8	amod	_	_
 8	kulturo	kulturo	NOUN	_	Case=Nom|Number=Sing	5	obl	_	_
 9	kaj	kaj	CCONJ	_	_	10	cc	_	_
 10	naci(ar)o	naci(ar)o	NOUN	_	Case=Nom|Number=Sing	8	conj	_	_
 11	.	.	PUNCT	_	_	5	punct	_	_
 
-#sent_id = 13
-#text = Ekzemple, la lernejano kiu studas la anglan lernas pri la kulturo, geografio kaj politiko de la anglalingvaj landoj, precipe Usono kaj Britio.
-#text_en = For example, the child who learns English learns about the culture, geography and political systems of the English-speaking world, primarily the United States and the United Kingdom.
+# sent_id = 13
+# text = Ekzemple, la lernejano kiu studas la anglan lernas pri la kulturo, geografio kaj politiko de la anglalingvaj landoj, precipe Usono kaj Britio.
+# text_en = For example, the child who learns English learns about the culture, geography and political systems of the English-speaking world, primarily the United States and the United Kingdom.
 1	Ekzemple	ekzemple	ADV	_	_	9	advmod	_	_
 2	,	,	PUNCT	_	_	1	punct	_	_
 3	la	la	DET	_	Definite=Def|PronType=Art	4	det	_	_
@@ -318,7 +318,7 @@
 16	politiko	politiko	NOUN	_	Case=Nom|Number=Sing	14	conj	_	_
 17	de	de	ADP	_	_	20	case	_	_
 18	la	la	DET	_	Definite=Def|PronType=Art	20	det	_	_
-19	anglalingvaj	anglalingva	ADJ	_	Case=Nom|Number=Plur|Degree=Pos	20	amod	_	_
+19	anglalingvaj	anglalingva	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	20	amod	_	_
 20	landoj	lando	NOUN	_	Case=Nom|Number=Plur	16	nmod	_	_
 21	,	,	PUNCT	_	_	20	punct	_	_
 22	precipe	precipe	ADV	_	_	20	advmod	_	_
@@ -327,9 +327,9 @@
 25	Britio	Britio	NOUN	_	Case=Nom|Number=Sing	23	conj	_	_
 26	.	.	PUNCT	_	_	9	punct	_	_
 
-#sent_id = 14							
-#text = La lernejano kiu studas Esperanton lernas pri mondo sen limoj, en kiu ĉiu lando prezentiĝas kiel hejmo.
-#text_en = The child who learns Esperanto learns about a world without borders, where every country is home.
+# sent_id = 14
+# text = La lernejano kiu studas Esperanton lernas pri mondo sen limoj, en kiu ĉiu lando prezentiĝas kiel hejmo.
+# text_en = The child who learns Esperanto learns about a world without borders, where every country is home.
 1	La	la	DET	_	Definite=Def|PronType=Art	2	det	_	_
 2	lernejano	lernejano	NOUN	_	Case=Nom|Number=Sing	6	nsubj	_	_
 3	kiu	kiu	PRON	_	PronType=Rel|Case=Nom|Number=Sing	4	nsubj	_	_
@@ -350,9 +350,9 @@
 18	hejmo	hejmo	NOUN	_	Case=Nom|Number=Sing	16	obl	_	_
 19	.	.	PUNCT	_	_	6	punct	_	_
 
-#sent_id = 15
-#text = Ni asertas, ke la edukado per iu ajn etna lingvo estas ligita al difinita perspektivo pri la mondo.
-#text_en = We maintain that education in any language is bound to a certain view of the world.
+# sent_id = 15
+# text = Ni asertas, ke la edukado per iu ajn etna lingvo estas ligita al difinita perspektivo pri la mondo.
+# text_en = We maintain that education in any language is bound to a certain view of the world.
 1	Ni	ni	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
 2	asertas	aserti	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	ROOT	_	_
 3	,	,	PUNCT	_	_	2	punct	_	_
@@ -362,7 +362,7 @@
 7	per	per	ADP	_	_	11	case	_	_
 8	iu	iu	DET	_	Definite=Indef|PronType=Art	11	det	_	_
 9	ajn	ajn	PART	_	_	8	part	_	_
-10	etna	etna	ADJ	_	Case=Nom|Number=Sing|Degree=Pos	11	amod	_	_
+10	etna	etna	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	11	amod	_	_
 11	lingvo	lingvo	NOUN	_	Case=Nom|Number=Sing	6	nmod	_	_
 12	estas	esti	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	13	aux	_	_
 13	ligita	ligi	VERB	_	VerbForm=Par|Tense=Pst|Voice=Pass|Number=Sing	2	ccomp	_	_
@@ -374,31 +374,31 @@
 19	mondo	mondo	NOUN	_	Case=Nom|Number=Sing	16	nmod	_	_
 20	.	.	PUNCT	_	_	2	punct	_	_
 
-#sent_id = 16
-#text = Ni estas movado de transnacia edukado.
-#text_en = We are a movement for global education.
+# sent_id = 16
+# text = Ni estas movado de transnacia edukado.
+# text_en = We are a movement for global education.
 1	Ni	ni	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
 2	estas	esti	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	_
 3	movado	movado	NOUN	_	Case=Nom|Number=Sing	0	ROOT	_	_
 4	de	de	ADP	_	_	6	case	_	_
-5	transnacia	transnacia	ADJ	_	Case=Nom|Number=Sing|Degree=Pos	6	amod	_	_
+5	transnacia	transnacia	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	6	amod	_	_
 6	edukado	edukado	NOUN	_	Case=Nom|Number=Sing	3	nmod	_	_
 7	.	.	PUNCT	_	_	3	punct	_	_
 
-#sent_id = 17
-#text = 3. PEDAGOGIA EFIKECO.
-#text_en = 3. EFFECTIVE EDUCATION.
+# sent_id = 17
+# text = 3. PEDAGOGIA EFIKECO.
+# text_en = 3. EFFECTIVE EDUCATION.
 1	3	3	NUM	_	_	4	nmod	_	_
 2	.	.	PUNCT	_	_	1	punct	_	_
-3	PEDAGOGIA	pedagogia	ADJ	_	Case=Nom|Number=Sing|Degree=Pos	4	amod	_	_
+3	PEDAGOGIA	pedagogia	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	4	amod	_	_
 4	EFIKECO	efikeco	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-#sent_id = 18
-#text = Nur malgranda procentaĵo el tiuj, kiuj studas fremdan lingvon, ekmastras ĝin.
-#text_en = Only a small percentage of foreign-language students attain fluency in the target language. 
+# sent_id = 18
+# text = Nur malgranda procentaĵo el tiuj, kiuj studas fremdan lingvon, ekmastras ĝin.
+# text_en = Only a small percentage of foreign-language students attain fluency in the target language. 
 1	Nur	nur	ADV	_	_	2	advmod	_	_
-2	malgranda	malgranda	ADJ	_	Case=Nom|Number=Sing|Degree=Pos	3	amod	_	_
+2	malgranda	malgranda	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	3	amod	_	_
 3	procentaĵo	procentaĵo	NOUN	_	Case=Nom|Number=Sing	12	nsubj	_	_
 4	el	el	ADP	_	_	5	case	_	_
 5	tiuj	tiu	PRON	_	Case=Nom|Number=Plur|PronType=Dem	3	nmod	_	_
@@ -412,10 +412,10 @@
 13	ĝin	ĝi	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	12	obj	_	_
 14	.	.	PUNCT	_	_	12	punct	_	_
 
-#sent_id = 19
-#text = Plena posedo de Esperanto eblas eĉ per memstudado.
-#text_en = In Esperanto, fluency is attainable even through home study.
-1	Plena	plena	ADJ	_	Case=Nom|Number=Sing|Degree=Pos	2	amod	_	_
+# sent_id = 19
+# text = Plena posedo de Esperanto eblas eĉ per memstudado.
+# text_en = In Esperanto, fluency is attainable even through home study.
+1	Plena	plena	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	2	amod	_	_
 2	posedo	posedo	NOUN	_	Case=Nom|Number=Sing|	5	nsubj	_	_
 3	de	de	ADP	_	_	4	case	_	_
 4	Esperanto	Esperanto	PROPN	_	Case=Nom|Number=Sing	2	nmod	_	_
@@ -425,13 +425,13 @@
 8	memstudado	memstudado	NOUN	_	Case=Nom|Number=Sing	5	obl	_	_
 9	.	.	PUNCT	_	_	5	punct	_	_
 
-#sent_id = 20
-#text = Diversaj studoj raportis propedeŭtikajn efikojn al la lernado de aliaj lingvoj.
-#text_en = Various studies have shown that Esperanto is useful as a preparation for learning other languages.
-1	Diversaj	diversa	ADJ	_	Case=Nom|Number=Plur|Degree=Pos	2	amod	_	_
+# sent_id = 20
+# text = Diversaj studoj raportis propedeŭtikajn efikojn al la lernado de aliaj lingvoj.
+# text_en = Various studies have shown that Esperanto is useful as a preparation for learning other languages.
+1	Diversaj	diversa	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	2	amod	_	_
 2	studoj	studo	NOUN	_	Case=Nom|Number=Plur	3	nsubj	_	_
 3	raportis	raporti	VERB	_	Mood=Ind|Tense=Pst|VerbForm=Fin	0	ROOT	_	_
-4	propedeŭtikajn	propedeŭtikajn	ADJ	_	Case=Nom|Number=Plur|Degree=Pos	5	amod	_	_
+4	propedeŭtikajn	propedeŭtikajn	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	5	amod	_	_
 5	efikojn	efiko	NOUN	_	Case=Acc|Number=Plur	3	obj	_	_
 6	al	al	ADP	_	_	8	case	_	_
 7	la	la	DET	_	Definite=Def|PronType=Art	8	det	_	_
@@ -441,9 +441,9 @@
 11	lingvoj	lingvo	NOUN	_	Case=Nom|Number=Plur	8	nmod	_	_
 12	.	.	PUNCT	_	_	3	punct	_	_
 
-#sent_id = 21
-#text = Oni ankaŭ rekomendas Esperanton kiel kernan eron en kursoj por la lingva konsciigo de lernantoj.
-#text_en = It has also been recommended as a core element in courses in language awareness.
+# sent_id = 21
+# text = Oni ankaŭ rekomendas Esperanton kiel kernan eron en kursoj por la lingva konsciigo de lernantoj.
+# text_en = It has also been recommended as a core element in courses in language awareness.
 1	Oni	oni	PRON	_	Case=Nom|Num=Plur|Person=3|PronType=Prs	3	nsubj	_	_
 2	ankaŭ	ankaŭ	ADV	_	_	3	advmod	_	_
 3	rekomendas	rekomendi	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	ROOT	_	_
@@ -455,15 +455,15 @@
 9	kursoj	kurso	NOUN	_	Case=Nom|Number=Sing	7	nmod	_	_
 10	por	por	ADP	_	_	13	case	_	_
 11	la	la	DET	_	Definite=Def|PronType=Art	13	det	_	_
-12	lingva	lingva	ADJ	_	Case=Nom|Number=Sing|Degree=Pos	13	amod	_	_
+12	lingva	lingva	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	13	amod	_	_
 13	konsciigo	konsciigo	NOUN	_	Case=Nom|Number=Sing	9	nmod	_	_
 14	de	de	ADP	_	_	15	case	_	_
 15	lernantoj	lernanto	NOUN	_	Case=Nom|Num=Plur	13	nmod	_	_
 16	.	.	PUNCT	_	_	3	punct	_	_
 
-#sent_id = 22
-#text = Ni asertas, ke la malfacileco de la etnaj lingvoj ĉiam prezentos obstaklon por multaj lernantoj, kiuj tamen profitus el la scio de dua lingvo.
-#text_en = We maintain that the difficulties in learning ethnic languages will always be a barrier for many students who would benefit from knowing a second language.
+# sent_id = 22
+# text = Ni asertas, ke la malfacileco de la etnaj lingvoj ĉiam prezentos obstaklon por multaj lernantoj, kiuj tamen profitus el la scio de dua lingvo.
+# text_en = We maintain that the difficulties in learning ethnic languages will always be a barrier for many students who would benefit from knowing a second language.
 1	Ni	ni	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
 2	asertas	aserti	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	ROOT	_	_
 3	,	,	PUNCT	_	_	2	punct	_	_
@@ -472,13 +472,13 @@
 6	malfacileco	malfacileco	NOUN	_	Case=Nom|Number=Sing	12	nsubj	_	_
 7	de	de	ADP	_	_	10	case	_	_
 8	la	la	DET	_	Definite=Def|PronType=Art	10	det	_	_
-9	etnaj	etna	ADJ	_	Case=Nom|Number=Plur|Degree=Pos	10	amod	_	_
+9	etnaj	etna	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	10	amod	_	_
 10	lingvoj	lingvo	NOUN	_	Case=Nom|Number=Plur	6	nmod	_	_
 11	ĉiam	ĉiam	ADV	_	_	12	advmod	_	_
 12	prezentos	prezenti	VERB	_	Mood=Ind|Tense=Fut|VerbForm=Fin	2	ccomp	_	_
 13	obstaklon	obstaklo	NOUN	_	Case=Acc|Number=Sing	12	obj	_	_
 14	por	por	ADP	_	_	16	case	_	_
-15	multaj	multa	ADJ	_	Case=Nom|Number=Plur|Degree=Pos	16	amod	_	_
+15	multaj	multa	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	16	amod	_	_
 16	lernantoj	lernanto	NOUN	_	Case=Nom|Number=Plur	13	nmod	_	_
 17	,	,	PUNCT	_	_	16	punct	_	_
 18	kiuj	kiu	PRON	_	PronType=Rel|Case=Nom|Number=Plur	20	nsubj	_	_
@@ -492,35 +492,35 @@
 26	lingvo	lingvo	NOUN	_	Case=Nom|Number=Sing	23	nmod	_	_
 27	.	.	PUNCT	_	_	2	punct	_	_
 
-#sent_id = 23
-#text = Ni estas movado por efika lingvo-instruado.
-#text_en = We are a movement for effective language learning.
+# sent_id = 23
+# text = Ni estas movado por efika lingvo-instruado.
+# text_en = We are a movement for effective language learning.
 1	Ni	ni	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
 2	estas	esti	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	_
 3	movado	movado	NOUN	_	Case=Nom|Number=Sing	0	ROOT	_	_
 4	por	por	ADP	_	_	6	case	_	_
-5	efika	efika	ADJ	_	Case=Nom|Number=Sing|Degree=Pos	6	amod	_	_
+5	efika	efika	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	6	amod	_	_
 6	lingvo-instruado	lingvo-instruado	NOUN	_	Case=Nom|Number=Sing	3	nmod	_	_
 7	.	.	PUNCT	_	_	3	punct	_	_
 
-#sent_id = 24
-#text = 4. PLURLINGVECO.
-#text_en = 4. MULTILINGUALISM.
+# sent_id = 24
+# text = 4. PLURLINGVECO.
+# text_en = 4. MULTILINGUALISM.
 1	4	4	NUM	_	_	3	nmod	_	_
 2	.	.	PUNCT	_	_	1	punct	_	_
 3	PLURLINGVECO	plurlingveco	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-#sent_id = 25
-#text = La esperanto-komunumo estas unu el malmultaj mondskalaj lingvokomunumoj, kies parolantoj estas senescepte du- aŭ plurlingvaj.
-#text_en = The Esperanto community is almost unique as a worldwide community whose members are universally bilingual or multilingual.
+# sent_id = 25
+# text = La esperanto-komunumo estas unu el malmultaj mondskalaj lingvokomunumoj, kies parolantoj estas senescepte du- aŭ plurlingvaj.
+# text_en = The Esperanto community is almost unique as a worldwide community whose members are universally bilingual or multilingual.
 1	La	la	DET	_	Definite=Def|PronType=Art	2	det	_	_
 2	esperanto-komunumo	esperanto-komunumo	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
 3	estas	esti	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	_
 4	unu	unu	PRON	_	Case=Nom|Number=Sing	0	ROOT	_	_
 5	el	el	ADP	_	_	8	case	_	_
-6	malmultaj	malmulta	ADJ	_	Case=Nom|Number=Plur|Degree=Pos	8	amod	_	_
-7	mondskalaj	mondskala	ADJ	_	Case=Nom|Number=Plur|Degree=Pos	8	amod	_	_
+6	malmultaj	malmulta	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	8	amod	_	_
+7	mondskalaj	mondskala	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	8	amod	_	_
 8	lingvokomunumoj	lingvokomunumo	NOUN	_	Case=Nom|Number=Plur	4	nmod	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	8	punct	_	_
 10	kies	kies	PRON	_	PronType=Rel|Case=Nom|Number=Sing|Poss=Yes	11	nmod:poss	_	_
@@ -529,12 +529,12 @@
 13	senescepte	senescepte	ADV	_	_	16	advmod	_	_
 14	du-	du-	PART	_	_	16	part	_	_
 15	aŭ	aŭ	CCONJ	_	_	16	cc	_	_
-16	plurlingvaj	plurlingva	ADJ	_	Case=Nom|Number=Plur|Degree=Pos	8	acl_relcl	_	SpaceAfter=No
+16	plurlingvaj	plurlingva	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	8	acl_relcl	_	SpaceAfter=No
 17	.	.	PUNCT	_	_	4	punct	_	_
 
-#sent_id = 26
-#text = Ĉiu komunumano akceptis la taskon lerni almenaŭ unu fremdan lingvon ĝis parola grado.
-#text_en = Every member of the community has made the effort to learn at least one foreign language to a communicative level.
+# sent_id = 26
+# text = Ĉiu komunumano akceptis la taskon lerni almenaŭ unu fremdan lingvon ĝis parola grado.
+# text_en = Every member of the community has made the effort to learn at least one foreign language to a communicative level.
 1	Ĉiu	ĉiu	DET	_	Case=Nom|Number=Sing|PronType=Tot	2	det	_	_
 2	komunumano	komunumano	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 3	akceptis	akcepti	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	ROOT	_	_
@@ -546,13 +546,13 @@
 9	fremdan	fremda	ADJ	_	Case=Acc|Number=Sing|Degree=Pos	10	amod	_	_
 10	lingvon	lingvo	NOUN	_	Case=Acc|Number=Sing	6	obj	_	_
 11	ĝis	ĝis	ADP	_	_	13	case	_	_
-12	parola	parola	ADJ	_	Case=Nom|Number=Sing|Degree=Pos	13	amod	_	_
+12	parola	parola	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	13	amod	_	_
 13	grado	grado	NOUN	_	Case=Nom|Number=Sing	10	nmod	_	_
 14	.	.	PUNCT	_	_	3	punct	_	_
 
-#sent_id = 27
-#text = Multokaze tio kondukas al la scio de kaj amo al pluraj lingvoj kaj ĝenerale al pli vasta persona horizonto.
-#text_en = In many cases this leads to a love and knowledge of several languages and to broader personal horizons in general.
+# sent_id = 27
+# text = Multokaze tio kondukas al la scio de kaj amo al pluraj lingvoj kaj ĝenerale al pli vasta persona horizonto.
+# text_en = In many cases this leads to a love and knowledge of several languages and to broader personal horizons in general.
 1	Multokaze	multokaze	ADV	_	_	3	advmod	_	_
 2	tio	tio	PRON	_	Case=Nom|Number=Sing|PronType=Dem	3	nsubj	_	_
 3	kondukas	konduki	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	ROOT	_	_
@@ -563,20 +563,20 @@
 8	kaj	kaj	CCONJ	_	_	9	cc	_	_
 9	amo	amo	NOUN	_	Case=Nom|Number=Sing	6	conj	_	_
 10	al	al	ADP	_	_	12	case	_	_
-11	pluraj	plura	ADJ	_	Case=Nom|Number=Plur|Degree=Pos	12	amod	_	_
+11	pluraj	plura	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	12	amod	_	_
 12	lingvoj	lingvo	NOUN	_	Case=Nom|Number=Sing	9	nmod	_	_
 13	kaj	kaj	CCONJ	_	_	19	cc	_	_
 14	ĝenerale	ĝenerale	ADV	_	_	17	advmod	_	_
 15	al	al	ADP	_	_	19	conj	_	_
 16	pli	pli	ADV	_	_	17	advmod	_	_
-17	vasta	vasta	ADJ	_	Case=Nom|Number=Sing|Degree=Pos	19	amod	_	_
-18	persona	persona	ADJ	_	Case=Nom|Number=Sing|Degree=Pos	19	amod	_	_
+17	vasta	vasta	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	19	amod	_	_
+18	persona	persona	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	19	amod	_	_
 19	horizonto	horizonto	NOUN	_	Case=Nom|Number=Sing	6	obl	_	_
 20	.	.	PUNCT	_	_	3	punct	_	_
 
-#sent_id = 28
-#text = Ni asertas ke la anoj de ĉiuj lingvoj, grandaj kaj malgrandaj, devus disponi pri reala ŝanco por alproprigi duan lingvon ĝis alta komunika nivelo.
-#text_en = We maintain that the speakers of all languages, large and small, should have a real chance of learning a second language to a high communicative level.
+# sent_id = 28
+# text = Ni asertas ke la anoj de ĉiuj lingvoj, grandaj kaj malgrandaj, devus disponi pri reala ŝanco por alproprigi duan lingvon ĝis alta komunika nivelo.
+# text_en = We maintain that the speakers of all languages, large and small, should have a real chance of learning a second language to a high communicative level.
 1	Ni	ni	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
 2	asertas	aserti	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	ROOT	_	_
 3	ke	ke	SCONJ	_	_	14	mark	_	_
@@ -586,14 +586,14 @@
 7	ĉiuj	ĉiu	DET	_	Case=Nom|Number=Plur|PronType=Tot	8	det	_	_
 8	lingvoj	lingvo	NOUN	_	Case=Nom|Number=Plur	5	nmod	_	_
 9	,	,	PUNCT	_	_	8	punct	_	_
-10	grandaj	granda	ADJ	_	Case=Nom|Number=Plur|Degree=Pos	8	amod	_	_
+10	grandaj	granda	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	8	amod	_	_
 11	kaj	kaj	CCONJ	_	_	12	cc	_	_
 12	malgrandaj	malgranda	ADJ	_	Case=Nom|Number=Plur	10	amod	_	_
 13	,	,	PUNCT	_	_	12	punct	_	_
 14	devus	devi	VERB	_	Mood=Sub|VerbForm=Fin	2	ccomp	_	_
 15	disponi	disponi	VERB	_	VerbForm=Inf	14	xcomp	_	_
 16	pri	pri	ADP	_	_	18	case	_	_
-17	reala	reala	ADJ	_	Case=Nom|Number=Sing|Degree=Pos	18	amod	_	_
+17	reala	reala	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	18	amod	_	_
 18	ŝanco	ŝanco	NOUN	_	Case=Nom|Number=Sing	15	nmod	_	_
 19	por	por	ADP	_	_	20	mark	_	_
 20	alproprigi	alproprigi	VERB	_	VerbForm=Inf	18	acl	_	_
@@ -601,9 +601,9 @@
 22	lingvon	lingvo	NOUN	_	Case=Acc|Number=Sing	20	obj	_	_
 23	.	.	PUNCT	_	_	2	punct	_	_
 
-#sent_id = 29
-#text = Ni estas movado por la provizo de tiu ŝanco.
-#text_en = We are a movement for providing that opportunity to all.
+# sent_id = 29
+# text = Ni estas movado por la provizo de tiu ŝanco.
+# text_en = We are a movement for providing that opportunity to all.
 1	Ni	ni	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
 2	estas	esti	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	_
 3	movado	movado	NOUN	_	Case=Nom|Number=Sing	0	ROOT	_	_
@@ -615,20 +615,20 @@
 9	ŝanco	ŝanco	NOUN	_	Case=Nom|Number=Sing	6	nmod	_	_
 10	.	.	PUNCT	_	_	3	punct	_	_
 
-#sent_id = 30
-#text = 5. LINGVAJ RAJTOJ.
-#text_en = 5. LANGUAGE RIGHTS.
+# sent_id = 30
+# text = 5. LINGVAJ RAJTOJ.
+# text_en = 5. LANGUAGE RIGHTS.
 1	5	5	NUM	_	_	4	nmod	_	_
 2	.	.	PUNCT	_	_	1	punct	_	_
-3	LINGVAJ	lingva	ADJ	_	Case=Nom|Number=Plur|Degree=Pos	4	amod	_	_
+3	LINGVAJ	lingva	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	4	amod	_	_
 4	RAJTOJ	rajto	NOUN	_	Case=Nom|Number=Plur	0	root	_	_
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-#sent_id = 31
-#text = La malegala disdivido de potenco inter la lingvoj estas recepto por konstanta lingva malsekureco, aŭ rekta lingva subpremado, ĉe granda parto de la monda loĝantaro.
-#text_en = The unequal distribution of power between languages is a recipe for permanent language insecurity, or outright language oppression, for a large part of the world's population.
+# sent_id = 31
+# text = La malegala disdivido de potenco inter la lingvoj estas recepto por konstanta lingva malsekureco, aŭ rekta lingva subpremado, ĉe granda parto de la monda loĝantaro.
+# text_en = The unequal distribution of power between languages is a recipe for permanent language insecurity, or outright language oppression, for a large part of the world's population.
 1	La	la	DET	_	Definite=Def|PronType=Art	2	det	_	_
-2	malegala	malegala	ADJ	_	Case=Nom|Number=Sing|Degree=Pos	3	amod	_	_
+2	malegala	malegala	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	3	amod	_	_
 3	disdivido	disdivido	NOUN	_	Case=Nom|Number=Sing	10	nsubj	_	_
 4	de	de	ADP	_	_	5	case	_	_
 5	potenco	potenco	NOUN	_	Case=Nom|Number=Sing	3	nmod	_	_
@@ -638,27 +638,27 @@
 9	estas	esti	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	10	aux	_	_
 10	recepto	recepto	NOUN	_	Case=Nom|Number=Sing	0	ROOT	_	_
 11	por	por	ADP	_	_	14	case	_	_
-12	konstanta	konstanta	ADJ	_	Case=Nom|Number=Sing|Degree=Pos	14	amod	_	_
-13	lingva	lingva	ADJ	_	Case=Nom|Number=Sing|Degree=Pos	14	amod	_	_
+12	konstanta	konstanta	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	14	amod	_	_
+13	lingva	lingva	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	14	amod	_	_
 14	malsekureco	malsekureco	NOUN	_	Case=Nom|Number=Sing	10	nmod	_	_
 15	,	,	PUNCT	_	_	14	punct	_	_
 16	aŭ	aŭ	CCONJ	_	_	19	cc	_	_
-17	rekta	rekta	ADJ	_	Case=Nom|Number=Sing|Degree=Pos	19	amod	_	_
-18	lingva	lingva	ADJ	_	Case=Nom|Number=Sing|Degree=Pos	19	amod	_	_
+17	rekta	rekta	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	19	amod	_	_
+18	lingva	lingva	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	19	amod	_	_
 19	subpremado	supbremado	NOUN	_	Case=Nom|Number=Sing	14	conj	_	_
 20	,	,	PUNCT	_	_	19	punct	_	_
 21	ĉe	ĉe	ADP	_	_	23	case	_	_
-22	granda	granda	ADJ	_	Case=Nom|Number=Sing|Degree=Pos	23	amod	_	_
+22	granda	granda	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	23	amod	_	_
 23	parto	parto	NOUN	_	Case=Nom|Number=Sing	14	nmod	_	_
 24	de	de	ADP	_	_	27	case	_	_
 25	la	la	DET	_	Definite=Def|PronType=Art	27	det	_	_
-26	monda	monda	ADJ	_	Case=Nom|Number=Sing|Degree=Pos	27	amod	_	_
+26	monda	monda	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	27	amod	_	_
 27	loĝantaro	loĝantaro	NOUN	_	Case=Nom|Number=Sing	23	nmod	_	_
 28	.	.	PUNCT	_	_	10	punct	_	_
 
-#sent_id = 32
-#text = En la esperanto-komunumo la anoj de lingvoj grandaj kaj malgrandaj, oficialaj kaj neoficialaj, kunvenas sur neŭtrala tereno, dank' al la reciproka volo kompromisi.
-#text_en = In the Esperanto community the speakers of languages large and small, official and unofficial meet on equal terms through a mutual willingness to compromise.
+# sent_id = 32
+# text = En la esperanto-komunumo la anoj de lingvoj grandaj kaj malgrandaj, oficialaj kaj neoficialaj, kunvenas sur neŭtrala tereno, dank' al la reciproka volo kompromisi.
+# text_en = In the Esperanto community the speakers of languages large and small, official and unofficial meet on equal terms through a mutual willingness to compromise.
 1	En	en	ADP	_	_	3	case	_	_
 2	la	la	DET	_	Definite=Def|PronType=Art	3	det	_	_
 3	esperanto-komunumo	esperanto-komunumo	NOUN	_	Case=Nom|Number=Sing	16	nmod	_	_
@@ -666,34 +666,34 @@
 5	anoj	ano	NOUN	_	Case=Nom|Number=Sing	16	nsubj	_	_
 6	de	de	ADP	_	_	7	case	_	_
 7	lingvoj	lingvo	NOUN	_	Case=Nom|Number=Sing	5	nmod	_	_
-8	grandaj	granda	ADJ	_	Case=Nom|Number=Sing|Degree=Pos	7	amod	_	_
+8	grandaj	granda	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	7	amod	_	_
 9	kaj	kaj	CCONJ	_	_	10	cc	_	_
-10	malgrandaj	malgranda	ADJ	_	Case=Nom|Number=Sing|Degree=Pos	8	conj	_	_
+10	malgrandaj	malgranda	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	8	conj	_	_
 11	,	,	PUNCT	_	_	10	punct	_	_
-12	oficialaj	oficiala	ADJ	_	Case=Nom|Number=Sing|Degree=Pos	7	amod	_	_
+12	oficialaj	oficiala	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	7	amod	_	_
 13	kaj	kaj	CCONJ	_	_	14	cc	_	_
-14	neoficialaj	neoficiala	ADJ	_	Case=Nom|Number=Sing|Degree=Pos	12	conj	_	_
+14	neoficialaj	neoficiala	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	12	conj	_	_
 15	,	,	PUNCT	_	_	14	punct	_	_
 16	kunvenas	kunveni	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
 17	sur	sur	ADP	_	_	19	case	_	_
-18	neŭtrala	neŭtrala	ADJ	_	Case=Nom|Number=Sing|Degree=Pos	19	amod	_	_
+18	neŭtrala	neŭtrala	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	19	amod	_	_
 19	tereno	tereno	NOUN	_	Case=Nom|Number=Sing	16	nmod	_	_
 20	,	,	PUNCT	_	_	19	punct	_	_
 21	dank'	danke	ADV	_	_	16	advmod	_	_
 22	al	al	ADP	_	_	25	case	_	_
 23	la	la	DET	_	Definite=Def|PronType=Art	25	det	_	_
-24	reciproka	reciproka	ADJ	_	Case=Nom|Number=Sing|Degree=Pos	25	amod	_	_
+24	reciproka	reciproka	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	25	amod	_	_
 25	volo	volo	NOUN	_	Case=Nom|Number=Sing	21	nmod	_	_
 26	kompromisi	kompromisi	VERB	_	VerbForm=Inf	25	acl	_	_
 27	.	.	PUNCT	_	_	16	punct	_	_
 
-#sent_id = 33
-#text = Tia ekvilibro inter lingvaj rajtoj kaj respondecoj liveras precedencon por evoluigi kaj pritaksi aliajn solvojn al la lingva malegaleco kaj lingvaj konfliktoj.
-#text_en = This balance of language rights and responsibilities provides a benchmark for developing and judging other solutions to language inequality and conflict.
+# sent_id = 33
+# text = Tia ekvilibro inter lingvaj rajtoj kaj respondecoj liveras precedencon por evoluigi kaj pritaksi aliajn solvojn al la lingva malegaleco kaj lingvaj konfliktoj.
+# text_en = This balance of language rights and responsibilities provides a benchmark for developing and judging other solutions to language inequality and conflict.
 1	Tia	tia	DET	_	Case=Nom|Number=Sing|PronType=Dem	2	det	_	_
 2	ekvilibro	ekvilibro	NOUN	_	Case=Nom|Number=Sing	8	nsubj	_	_
 3	inter	inter	ADP	_	_	5	case	_	_
-4	lingvaj	lingva	ADJ	_	Case=Nom|Number=Plur|Degree=Poss	5	amod	_	_
+4	lingvaj	lingva	ADJ	_	Case=Nom|Degree=Pos|Number=Plurs	5	amod	_	_
 5	rajtoj	raito	NOUN	_	Case=Nom|Number=Plur	2	nmod	_	_
 6	kaj	kaj	CCONJ	_	_	7	cc	_	_
 7	respondecoj	respondeco	NOUN	_	Case=Nom|Number=Plur	5	conj	_	_
@@ -707,21 +707,21 @@
 15	solvojn	solvo	NOUN	_	Case=Acc|Number=Plur	13	obj	_	_
 16	al	al	ADP	_	_	19	case	_	_
 17	la	la	DET	_	Definite=Def|PronType=Art	19	det	_	_
-18	lingva	lingva	ADJ	_	Case=Nom|Number=Sing|Degree=Pos	19	amod	_	_
+18	lingva	lingva	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	19	amod	_	_
 19	malegaleco	malegaleco	NOUN	_	Case=Nom|Number=Sing	15	nmod	_	_
 20	kaj	kaj	CCONJ	_	_	22	cc	_	_
-21	lingvaj	lingva	ADJ	_	Case=Nom|Number=Plur|Degree=Pos	22	amod	_	_
+21	lingvaj	lingva	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	22	amod	_	_
 22	konfliktoj	konflikto	NOUN	_	Case=Nom|Number=Sing	19	conj	_	_
 23	.	.	PUNCT	_	_	8	punct	_	_
 
-#sent_id = 34
-#text = Ni asertas, ke la vastaj potencodiferencoj inter la lingvoj subfosas la garantiojn esprimitajn en tiom da internaciaj dokumentoj, de egaleca traktado sendistinge pri la lingvo.
-#text_en = We maintain that the wide variations in power among languages undermine the guarantees, expressed in many international instruments, of equal treatment regardless of language.
+# sent_id = 34
+# text = Ni asertas, ke la vastaj potencodiferencoj inter la lingvoj subfosas la garantiojn esprimitajn en tiom da internaciaj dokumentoj, de egaleca traktado sendistinge pri la lingvo.
+# text_en = We maintain that the wide variations in power among languages undermine the guarantees, expressed in many international instruments, of equal treatment regardless of language.
 1	Ni	ni	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
 2	asertas	aserti	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	,	,	PUNCT	_	_	2	punct	_	_
 4	ke	ke	SCONJ	_	_	10	mark	_	_
-5	vastaj	vasta	ADJ	_	Case=Nom|Number=Plur|Degree=Pos	6	amod	_	_
+5	vastaj	vasta	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	6	amod	_	_
 6	potencodiferencoj	potencodiferenco	NOUN	_	Case=Nom|Number=Plur	10	nsubj	_	_
 7	inter	inter	ADP	_	_	9	case	_	_
 8	la	la	DET	_	Definite=Def|PronType=Art	9	det	_	_
@@ -736,7 +736,7 @@
 17	dokumentoj	dokumento	NOUN	_	Case=Nom|Number=Plur	15	nmod	_	_
 18	,	,	PUNCT	_	_	17	punct	_	_
 19	de	de	ADP	_	_	21	case	_	_
-20	egaleca	egaleca	ADJ	_	Case=Nom|Number=Sing|Degree=Pos	21	amod	_	_
+20	egaleca	egaleca	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	21	amod	_	_
 21	traktado	traktado	NOUN	_	Case=Nom|Number=Sing	12	nmod	_	_
 22	sendistinge	sendistinge	ADV	_	_	20	advmod	_	_
 23	pri	pri	ADP	_	_	25	case	_	_
@@ -744,31 +744,31 @@
 25	lingvo	lingvo	NOUN	_	Case=Nom|Number=Sing	22	nmod	_	_
 26	.	.	PUNCT	_	_	2	punct	_	_
 
-#sent_id = 35
-#text = Ni estas movado por lingvaj rajtoj.
-#text_en = We are a movement for language rights.
+# sent_id = 35
+# text = Ni estas movado por lingvaj rajtoj.
+# text_en = We are a movement for language rights.
 1	Ni	ni	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
 2	estas	esti	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	_
 3	movado	movado	NOUN	_	Case=Nom|Number=Sing	0	ROOT	_	_
 4	por	por	ADP	_	_	6	case	_	_
-5	lingvaj	lingva	ADJ	_	Case=Nom|Number=Plur|Degree=Pos	6	amod	_	_
+5	lingvaj	lingva	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	6	amod	_	_
 6	raitoj	raito	NOUN	_	Case=Nom|Number=Plur	3	nmod	_	_
 7	.	.	PUNCT	_	_	3	punct	_	_
 
-#sent_id = 36
-#text = 6. LINGVA DIVERSECO.
-#text_en = 6. LANGUAGE DIVERSITY
+# sent_id = 36
+# text = 6. LINGVA DIVERSECO.
+# text_en = 6. LANGUAGE DIVERSITY
 1	6	6	NUM	_	_	4	nmod	_	_
 2	.	.	PUNCT	_	_	1	punct	_	_
-3	LINGVA	lingva	ADJ	_	Case=Nom|Number=Sing|Degree=Pos	4	amod	_	_
+3	LINGVA	lingva	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	4	amod	_	_
 4	DIVERSECO	diverseco	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
 5	.	.	PUNCT	_	_	4	punct
 
-#sent_id = 37
-#text = La naciaj registaroj emas konsideri la grandan diversecon de lingvoj en la mondo kiel baron al komunikado kaj evoluigo.
-#text_en = National governments tend to treat the great diversity of languages in the world as a barrier to communication and development.
+# sent_id = 37
+# text = La naciaj registaroj emas konsideri la grandan diversecon de lingvoj en la mondo kiel baron al komunikado kaj evoluigo.
+# text_en = National governments tend to treat the great diversity of languages in the world as a barrier to communication and development.
 1	La	la	DET	_	Definite=Def|PronType=Art	3	det	_	_
-2	naciaj	nacia	ADJ	_	Case=Nom|Number=Plur|Degree=Pos	3	amod	_	_
+2	naciaj	nacia	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	3	amod	_	_
 3	registaroj	registaro	NOUN	_	Case=Nom|Number=Plur	4	nsubj	_	_
 4	emas	emi	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	ROOT	_	_
 5	konsideri	konsideri	VERB	_	VerbForm=Inf	4	xcomp	_	_
@@ -788,9 +788,9 @@
 19	evoluigo	evoluigo	NOUN	_	Case=Nom|Number=Sing	17	conj	_	_
 20	.	.	PUNCT	_	_	4	punct	_	_
 
-#sent_id = 38
-#text = Por la esperanto-komunumo, tamen, la lingva diverseco estas konstanta kaj nemalhavebla fonto de riĉeco.
-#text_en = In the Esperanto community, however, language diversity is experienced as a constant and indispensable source of enrichment.
+# sent_id = 38
+# text = Por la esperanto-komunumo, tamen, la lingva diverseco estas konstanta kaj nemalhavebla fonto de riĉeco.
+# text_en = In the Esperanto community, however, language diversity is experienced as a constant and indispensable source of enrichment.
 1	Por	por	ADP	_	_	3	case	_	_
 2	la	la	DET	_	_	3	det	_	_
 3	esperanto-komunumo	esperanto-komunumo	NOUN	_	Case=Nom|Number=Sing	14	nmod	_	_
@@ -798,20 +798,20 @@
 5	tamen	tamen	ADV	_	_	14	advmod	_	_
 6	,	,	PUNCT	_	_	5	punct	_	_
 7	la	la	DET	_	_	9	det	_	_
-8	lingva	lingva	ADJ	_	Case=Nom|Number=Sing|Degree=Pos	9	amod	_	_
+8	lingva	lingva	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	9	amod	_	_
 9	diverseco	diverseco	NOUN	_	Case=Nom|Number=Sing	14	nsubj	_	_
 10	estas	esti	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	14	aux	_	_
-11	konstanta	konstanta	ADJ	_	Case=Nom|Number=Sing|Degree=Pos	14	amod	_	_
+11	konstanta	konstanta	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	14	amod	_	_
 12	kaj	kaj	CCONJ	_	_	13	cc	_	_
-13	nemalhavebla	nemalhavebla	ADJ	_	Case=Nom|Number=Sing|Degree=Pos	11	conj	_	_
+13	nemalhavebla	nemalhavebla	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	11	conj	_	_
 14	fonto	fonto	NOUN	_	Case=Nom|Number=Sing	0	ROOT	_	_
 15	de	de	ADP	_	_	16	case	_	_
 16	riĉeco	riĉeco	NOUN	_	Case=Nom|Number=Sing	14	nmod	_	_
 17	.	.	PUNCT	_	_	14	punct	_	_
 
-#sent_id = 39
-#text = Sekve, ĉiu lingvo, kiel ĉiu vivaĵospecio, estas valora jam pro si mem kaj inda je protektado kaj subtenado.
-#text_en = Consequently every language, like every biological species, is inherently valuable and worthy of protection and support.
+# sent_id = 39
+# text = Sekve, ĉiu lingvo, kiel ĉiu vivaĵospecio, estas valora jam pro si mem kaj inda je protektado kaj subtenado.
+# text_en = Consequently every language, like every biological species, is inherently valuable and worthy of protection and support.
 1	Sekve	sekve	ADV	_	_	11	advmod	_	_
 2	,	,	PUNCT	_	_	1	punct	_	_
 3	ĉiu	ĉiu	DET	_	Case=Nom|Number=Sing|PronType=Tot	4	det	_	_
@@ -822,22 +822,22 @@
 8	vivaĵospecio	vivaĵospecio	NOUN	_	Case=Nom|Number=Sing	11	nmod	_	_
 9	,	,	PUNCT	_	_	8	punct	_	_
 10	estas	esti	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	11	aux	_	_
-11	valora	valora	ADJ	_	Case=Nom|Number=Sing|Degree=Pos	0	ROOT	_	_
+11	valora	valora	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	0	ROOT	_	_
 12	jam	jam	ADV	_	_	13	advmod	_	_
 13	pro	pro	ADP	_	_	14	case	_	_
 14	si	si	PROP	_	Case=Nom|Number=Sing|PronType=Rcp	11	obl	_	_
-15	mem	mem	ADJ	_	Case=Nom|Number=Sing|Degree=Pos	14	amod	_	_
+15	mem	mem	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	14	amod	_	_
 16	kaj	kaj	CCONJ	_	_	17	cc	_	_
-17	inda	inda	ADJ	_	Case=Nom|Number=Sing|Degree=Pos	11	conj	_	_
+17	inda	inda	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	11	conj	_	_
 18	je	je	ADP	_	_	19	case	_	_
 19	protektado	protektado	NOUN	_	Case=Nom|Number=Sing	17	obl	_	_
 20	kaj	kaj	CCONJ	_	_	21	cc	_	_
 21	subtenado	subtenado	NOUN	_	Case=Nom|Number=Sing	19	conj	_	_
 22	.	.	PUNCT	_	_	11	punct	_	_
 
-#sent_id = 40
-#text = Ni asertas, ke la politiko de komunikado kaj evoluigo, se ĝi ne estas bazita sur respekto al kaj subteno de ĉiuj lingvoj, kondamnas al formorto la plimulton de la lingvoj de la mondo.
-#text_en = We maintain that communication and development policies which are not based on respect and support for all languages amount to a death sentence for the majority of languages in the world.
+# sent_id = 40
+# text = Ni asertas, ke la politiko de komunikado kaj evoluigo, se ĝi ne estas bazita sur respekto al kaj subteno de ĉiuj lingvoj, kondamnas al formorto la plimulton de la lingvoj de la mondo.
+# text_en = We maintain that communication and development policies which are not based on respect and support for all languages amount to a death sentence for the majority of languages in the world.
 1	Ni	ni	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
 2	asertas	aserti	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	,	,	PUNCT	_	_	2	punct	_	_
@@ -853,7 +853,7 @@
 13	ĝi	ĝi	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	_
 14	ne	ne	ADV	_	_	16	neg	_	_
 15	estas	esti	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	16	aux	_	_
-16	bazita	bazita	ADJ	_	Case=Nom|Number=Sing|Degree=Pos	6	amod	_	_
+16	bazita	bazita	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	6	amod	_	_
 17	sur	sur	ADP	_	_	18	case	_	_
 18	respekto	respekto	NOUN	_	Case=Nom|Number=Sing	16	obl	_	_
 19	al	al	ADP	_	_	21	case	_	_
@@ -876,29 +876,29 @@
 36	mondo	mondo	NOUN	_	Case=Nom|Number=Sing	33	nmod	_	_
 37	.	.	PUNCT	_	_	2	punct	_	_
 
-#sent_id = 41
-#text = Ni estas movado por lingva diverseco.
-#text_en = We are a movement for language diversity.
+# sent_id = 41
+# text = Ni estas movado por lingva diverseco.
+# text_en = We are a movement for language diversity.
 1	Ni	ni	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
 2	estas	esti	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	_
 3	movado	movado	NOUN	_	Case=Nom|Number=Sing	0	ROOT	_	_
 4	por	por	ADP	_	_	6	case	_	_
-5	lingva	lingva	ADJ	_	Case=Nom|Number=Sing|Degree=Pos	6	amod	_	_
+5	lingva	lingva	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	6	amod	_	_
 6	diverseco	diverseco	NOUN	_	Case=Nom|Number=Sing	3	nmod	_	_
 7	.	.	PUNCT	_	_	3	punct	_	_
 
-#sent_id = 42
-#text = 7. HOMA EMANCIPIĜO.
-#text_en = 7. HUMAN EMANCIPATION
+# sent_id = 42
+# text = 7. HOMA EMANCIPIĜO.
+# text_en = 7. HUMAN EMANCIPATION
 1	7	7	NUM	_	_	4	nmod	_	_
 2	.	.	PUNCT	_	_	1	punct	_	_
-3	HOMA	homa	ADJ	_	Case=Nom|Number=Sing|Degree=Pos	4	amod	_	_
+3	HOMA	homa	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	4	amod	_	_
 4	EMANCIPIĜO	emancipiĝo	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-#sent_id = 43
-#text = Ĉiu lingvo liberigas kaj malliberigas siajn anojn, donante al ili la povon komuniki inter si, barante la komunikadon kun aliaj.
-#text_en = Every language both liberates and imprisons its users, giving them the ability to communicate among themselves but barring them from communication with others.
+# sent_id = 43
+# text = Ĉiu lingvo liberigas kaj malliberigas siajn anojn, donante al ili la povon komuniki inter si, barante la komunikadon kun aliaj.
+# text_en = Every language both liberates and imprisons its users, giving them the ability to communicate among themselves but barring them from communication with others.
 1	Ĉiu	ĉiu	DET	_	Case=Nom|Number=Sing|PronType=Tot	2	det	_	_
 2	lingvo	lingvo	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 3	liberigas	liberigi	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	ROOT	_	_
@@ -923,12 +923,12 @@
 22	aliaj	alia	Pron	_	Case=Nom|Number=Plur|PronType=Prs	20	nmod	_	_
 23	.	.	PUNCT	_	_	3	punct	_	_
 
-#sent_id = 44
-#text = Planita kiel universala komunikilo, Esperanto estas unu el la grandaj funkciantaj projektoj de la homa emancipiĝo - projekto por ebligi al ĉiu homo partopreni kiel individuo en la homa komunumo, kun firmaj radikoj ĉe sia loka kultura kaj lingva identeco, sed ne limigite de ili.
-#text_en = Designed as a universally accessible means of communication, Esperanto is one of the great functional projects for the emancipation of humankind -- one which aims to let every individual citizen participate fully in the human community, securely rooted in his or her local cultural and language identity yet not limited by it.
+# sent_id = 44
+# text = Planita kiel universala komunikilo, Esperanto estas unu el la grandaj funkciantaj projektoj de la homa emancipiĝo - projekto por ebligi al ĉiu homo partopreni kiel individuo en la homa komunumo, kun firmaj radikoj ĉe sia loka kultura kaj lingva identeco, sed ne limigite de ili.
+# text_en = Designed as a universally accessible means of communication, Esperanto is one of the great functional projects for the emancipation of humankind -- one which aims to let every individual citizen participate fully in the human community, securely rooted in his or her local cultural and language identity yet not limited by it.
 1	Planita	plani	VERB	_	VerbForm=Part|Tense=Pst|Voice=Pass	6	acl	_	_
 2	kiel	kiel	ADP	_	_	4	case	_	_
-3	universala	universala	ADJ	_	Case=Nom|Number=Plur|Degree=Pos	4	amod	_	_
+3	universala	universala	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	4	amod	_	_
 4	komunikilo	komunikilo	NOUN	_	Case=Nom|Number=Plur	1	obl	_	_
 5	,	,	PUNCT	_	_	4	punct	_	_
 6	Esperanto	Esperanto	NOUN	_	Case=Nom|Number=Sing	8	nsubj	_	_
@@ -936,7 +936,7 @@
 8	unu	unu	NUM	_	NumForm=Word|NumType=Card	0	ROOT	_	_
 9	el	el	ADP	_	_	13	case	_	_
 10	la	la	DET	_	Definite=Def|PronType=Art	13	det	_	_
-11	grandaj	granda	ADJ	_	Case=Nom|Number=Plur|Degree=Pos	13	amod	_	_
+11	grandaj	granda	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	13	amod	_	_
 12	funkciantaj	funkci	VERB	_	VerbForm=Part|Tense=Pres|Voice=Act|Number=Plur|Case=Nom	13	amod	_	_
 13	projektoj	projekto	NOUN	_	Case=Nom|Number=Plur	8	nmod	_	_
 14	de	de	ADP	_	_	17	case	_	_
@@ -955,18 +955,18 @@
 27	individuo	individuo	NOUN	_	Case=Nom|Number=Sing	25	obl	_	_
 28	en	en	ADP	_	_	31	case	_	_
 29	la	la	DET	_	Definite=Def|PronType=Art	31	det	_	_
-30	homa	homa	ADJ	_	Case=Nom|Number=Sing|Degree=Pos	31	amod	_	_
+30	homa	homa	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	31	amod	_	_
 31	komunumo	komunumo	NOUN	_	Case=Nom|Number=Sing	25	obl	_	_
 32	,	,	PUNCT	_	_	31	punct	_	_
 33	kun	kun	ADP	_	_	35	case	_	_
-34	firmaj	firma	ADJ	_	Case=Nom|Number=Plur|Degree=Pos	35	amod	_	_
+34	firmaj	firma	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	35	amod	_	_
 35	radikoj	radiko	NOUN	_	Case=Nom|Number=Plur	25	obl	_	_
 36	ĉe	ĉe	ADP	_	_	42	case	_	_
 37	sia	sia	PRON	_	Case=Nom|Number=Sing|PronType=Prs|Reflex=Yes	42	det	_	_
-38	loka	loka	ADJ	_	Case=Nom|Number=Sing|Degree=Pos	42	amod	_	_
-39	kultura	kultura	ADJ	_	Case=Nom|Number=Sing|Degree=Pos	42	amod	_	_
+38	loka	loka	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	42	amod	_	_
+39	kultura	kultura	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	42	amod	_	_
 40	kaj	kaj	CCONJ	_	_	41	cc	_	_
-41	lingva	lingva	ADJ	_	Case=Nom|Number=Sing|Degree=Pos	39	conj	_	_
+41	lingva	lingva	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	39	conj	_	_
 42	identeco	identeco	NOUN	_	Case=Nom|Number=Sing	35	nmod	_	_
 43	,	,	PUNCT	_	_	42	punct	_	_
 44	sed	sed	SCONJ	_	_	46	mark	_	_
@@ -976,18 +976,18 @@
 48	ili	ili	PRON	_	Case=Nom|Number=Plur|PronType=Prs	46	obl	_	_
 49	.	.	PUNCT	_	_	8	punct	_	_
 
-#sent_id = 45
-#text = Ni asertas, ke la ekskluziva uzado de naciaj lingvoj neeviteble starigas barojn al la liberecoj de sinesprimado, komunikado kaj asociiĝo.
-#text_en = We maintain that exclusive reliance on national languages inevitably puts up barriers to the freedoms of expression, communication and association.
+# sent_id = 45
+# text = Ni asertas, ke la ekskluziva uzado de naciaj lingvoj neeviteble starigas barojn al la liberecoj de sinesprimado, komunikado kaj asociiĝo.
+# text_en = We maintain that exclusive reliance on national languages inevitably puts up barriers to the freedoms of expression, communication and association.
 1	Ni	ni	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
 2	asertas	aserti	VERB	_	VerbForm=Fin|Tense=Pres|Mood=Ind	0	ROOT	_	_
 3	,	,	PUNCT	_	_	2	punct	_	_
 4	ke	ke	SCONJ	_	_	12	mark	_	_
 5	la	la	DET	_	Definite=Def|PronType=Art	7	det	_	_
-6	ekskluziva	ekskluziva	ADJ	_	Case=Nom|Number=Sing|Degree=Pos	7	amod	_	_
+6	ekskluziva	ekskluziva	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	7	amod	_	_
 7	uzado	uzado	NOUN	_	Case=Nom|Number=Sing	12	nsubj	_	_
 8	de	de	ADP	_	_	10	case	_	_
-9	naciaj	nacia	ADJ	_	Case=Nom|Number=Plur|Degree=Pos	10	amod	_	_
+9	naciaj	nacia	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	10	amod	_	_
 10	lingvoj	lingvo	NOUN	_	Case=Nom|Number=Plur	7	nmod	_	_
 11	neeviteble	neeviteble	ADV	_	_	12	advmod	_	_
 12	starigas	starigi	VERB	_	VerbForm=Fin|Tense=Pres|Mood=Ind	2	ccomp	_	_
@@ -1003,13 +1003,13 @@
 22	asociiĝo	asociiĝo	NOUN	_	Case=Nom|Number=Sing	20	conj	_	_
 23	.	.	PUNCT	_	_	2	punct	_	_
 
-#sent_id = 46
-#text = Ni estas movado por la homa emancipiĝo.
-#text_en = We are a movement for human emancipation.
+# sent_id = 46
+# text = Ni estas movado por la homa emancipiĝo.
+# text_en = We are a movement for human emancipation.
 1	Ni	ni	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
 2	estas	esti	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	_
 3	movado	movado	NOUN	_	Case=Nom|Number=Sing	0	ROOT	_	_
 4	por	por	ADP	_	_	6	case	_	_
-5	homa	homa	ADJ	_	Case=Nom|Number=Sing|Degree=Pos	6	amod	_	_
+5	homa	homa	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	6	amod	_	_
 6	emancipiĝo	emancipiĝo	NOUN	_	Case=Nom|Number=Sing	3	nmod	_	_
 7	.	.	PUNCT	_	_	3	punct	_	_
