@@ -1,11 +1,11 @@
 # Summary
 
-... 1-2 sentences (see [release checklist](http://universaldependencies.org/release_checklist.html#the-readme-file) for README guidelines) ...
+Universal Dependencies syntax annotation on Manifesto de Prago (Prague Manifesto)
 
 
 # Introduction
 
-...
+Esperanto is a constructed auxiliary language for international communication.
 
 
 # Acknowledgments
