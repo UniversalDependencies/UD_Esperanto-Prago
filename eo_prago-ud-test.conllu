@@ -738,7 +738,7 @@
 15	en	en	ADP	_	_	16	case	_	_
 16	tiom	tiom	PRON	_	PronType=Emp	14	nmod	_	_
 17	da	da	ADP	_	_	18	case	_	_
-18	internaciaj	internacia	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	19	_	_
+18	internaciaj	internacia	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	19	amod	_	_
 19	dokumentoj	dokumento	NOUN	_	Case=Nom|Number=Plur	16	nmod	_	SpaceAfter=No
 20	,	,	PUNCT	_	_	19	punct	_	_
 21	de	de	ADP	_	_	22	case	_	_
@@ -996,7 +996,7 @@
 9	naciaj	nacia	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	10	amod	_	_
 10	lingvoj	lingvo	NOUN	_	Case=Nom|Number=Plur	7	nmod	_	_
 11	neeviteble	neeviteble	ADV	_	_	12	advmod	_	_
-12	starigas	starigi	VERB	_	Tense=Pres|VerbForm=Fin|Mood=Ind	2	ccomp	_	_
+12	starigas	starigi	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
 13	barojn	baro	NOUN	_	Case=Acc|Number=Plur	12	obj	_	_
 14	al	al	ADP	_	_	16	case	_	_
 15	la	la	DET	_	_	16	det	_	_
@@ -1020,3 +1020,4 @@
 6	homa	homa	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	7	amod	_	_
 7	emancipiĝo	emancipiĝo	NOUN	_	Case=Nom|Number=Sing	3	nmod	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	3	punct	_	_
+
