@@ -77,7 +77,7 @@
 # text_en = For more than a century Esperanto, which was launched in 1887 as a project for an auxiliary language for international communication and quickly developed into a rich living language in its own right, has functioned as a means of bringing people together across the barriers of language and culture.
 1	Lanĉita	Lanĉi	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	27	advcl	_	_
 2	en	en	ADP	_	_	3	case	_	_
-3	1887	dek ok cent ok dek sep 	NUM	_	_	1	obl	_	_
+3	1887	1887 	NUM	_	_	1	obl	_	_
 4	kiel	kiel	ADP	_	_	5	case	_	_
 5	projekto	projekto	NOUN	_	Case=Nom|Number=Sing	1	nmod	_	_
 6	de	de	ADP	_	_	7	case	_	_
@@ -120,7 +120,7 @@
 3	celoj	celo	NOUN	_	Case=Nom|Number=Plur	8	nsubj	_	_
 4	de	de	ADP	_	_	6	case	_	_
 5	ĝiaj	ĝi	PRON	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	6	nmod:poss	_	_
-6	parolantoj	paroli	VERB	_	Case=Nom|Number=Plur|VerbForm=Ger|Tense=Pres|Voice=Act	3	nmod	_	_
+6	parolantoj	paroli	VERB	_	Case=Nom|Number=Plur|Tense=Pres|VerbForm=Ger|Voice=Act	3	nmod	_	_
 7	ne	ne	ADV	_	_	8	advmod	_	_
 8	perdis	perdi	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 9	gravecon	graveco	NOUN	_	Case=Acc|Number=Sing	8	obj	_	_
@@ -222,7 +222,7 @@
 5	lingvo	lingvo	NOUN	_	Case=Nom|Number=Sing	10	nmod	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	5	punct	_	_
 7	Esperanto	Esperanto	PROPN	_	Case=Nom|Number=Sing	10	nsubj	_	_
-8	ne	ne	ADV	_	_	9	advmod	_	_
+8	ne	ne	ADV	_	_	10	advmod	_	_
 9	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	10	aux	_	_
 10	perfekta	perfekta	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	14	advcl	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	10	punct	_	_
@@ -286,7 +286,7 @@
 # text = Ĉiu etna lingvo estas ligita al difinita kulturo kaj naci(ar)o.
 # text_en = All ethnic languages are bound to certain cultures and nations.
 1	Ĉiu	ĉiu	DET	_	Case=Nom|Number=Sing|PronType=Tot	3	det	_	_
-2	etna	etna	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	3	adj	_	_
+2	etna	etna	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	3	amod	_	_
 3	lingvo	lingvo	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	_
 4	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	_
 5	ligita	ligi	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
@@ -339,7 +339,7 @@
 7	pri	pri	ADP	_	_	8	case	_	_
 8	mondo	mondo	NOUN	_	Case=Nom|Number=Sing	6	obl	_	_
 9	sen	sen	ADP	_	_	10	case	_	_
-10	limoj	limo	NOUN	_	Case=Nom|Number=Plu	8	nmod	_	SpaceAfter=No
+10	limoj	limo	NOUN	_	Case=Nom|Number=Plur	8	nmod	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	10	punct	_	_
 12	en	en	ADP	_	_	13	case	_	_
 13	kiu	kiu	PRON	_	Case=Nom|Number=Sing|PronType=Rel	16	obl	_	_
@@ -360,11 +360,11 @@
 5	la	la	DET	_	Definite=Def|PronType=Art	6	det	_	_
 6	edukado	edukado	NOUN	_	Case=Nom|Number=Sing	13	nsubj	_	_
 7	per	per	ADP	_	_	11	case	_	_
-8	iu	iu	DET	_	Definite=Indef|PronType=Art	11	det	_	_
+8	iu	iu	DET	_	Definite=Ind|PronType=Art	11	det	_	_
 9	ajn	ajn	PART	_	_	8	advmod	_	_
 10	etna	etna	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	11	amod	_	_
 11	lingvo	lingvo	NOUN	_	Case=Nom|Number=Sing	6	nmod	_	_
-12	estas	esti	AUX	Mood=Ind|Tense=Pres|VerbForm=Fin	13	aux	_	_
+12	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	13	aux	_	_
 13	ligita	ligi	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	2	ccomp	_	_
 14	al	al	ADP	_	_	16	case	_	_
 15	difinita	difini	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	16	amod	_	_
@@ -416,7 +416,7 @@
 # text = Plena posedo de Esperanto eblas eĉ per memstudado.
 # text_en = In Esperanto, fluency is attainable even through home study.
 1	Plena	plena	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	2	amod	_	_
-2	posedo	posedo	NOUN	_	Case=Nom|Number=Sing|	5	nsubj	_	_
+2	posedo	posedo	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	_
 3	de	de	ADP	_	_	4	case	_	_
 4	Esperanto	Esperanto	PROPN	_	Case=Nom|Number=Sing	2	nmod	_	_
 5	eblas	ebli	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -437,17 +437,17 @@
 7	la	la	DET	_	Definite=Def|PronType=Art	8	det	_	_
 8	lernado	lernado	NOUN	_	Case=Nom|Number=Sing	5	nmod	_	_
 9	de	de	ADP	_	_	11	case	_	_
-10	aliaj	alia	ADJ	_	Definite=Indef|Num=Plur|Case=Nom|PronType=Art	11	det	_	_
+10	aliaj	alia	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	11	amod	_	_
 11	lingvoj	lingvo	NOUN	_	Case=Nom|Number=Plur	8	nmod	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 21
 # text = Oni ankaŭ rekomendas Esperanton kiel kernan eron en kursoj por la lingva konsciigo de lernantoj.
 # text_en = It has also been recommended as a core element in courses in language awareness.
-1	Oni	oni	PRON	_	Case=Nom|Num=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+1	Oni	oni	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
 2	ankaŭ	ankaŭ	ADV	_	_	3	advmod	_	_
 3	rekomendas	rekomendi	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	Esperanton	Esperanto	PROPN	_	Case=Acc|Num=Sing	3	obj	_	_
+4	Esperanton	Esperanto	PROPN	_	Case=Acc|Number=Sing	3	obj	_	_
 5	kiel	kiel	ADP	_	_	7	case	_	_
 6	kernan	kerna	ADJ	_	Case=Acc|Degree=Pos|Number=Sing	7	amod	_	_
 7	eron	ero	NOUN	_	Case=Acc|Number=Sing	3	obl	_	_
@@ -481,7 +481,7 @@
 15	multaj	multa	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	16	amod	_	_
 16	lernantoj	lernanto	NOUN	_	Case=Nom|Number=Plur	13	nmod	_	SpaceAfter=No
 17	,	,	PUNCT	_	_	16	punct	_	_
-18	kiuj	kiu	PRON	_	PronType=Rel|Case=Nom|Number=Plur	20	nsubj	_	_
+18	kiuj	kiu	PRON	_	Case=Nom|Number=Plur|PronType=Rel	20	nsubj	_	_
 19	tamen	tamen	ADV	_	_	20	advmod	_	_
 20	profitus	profiti	VERB	_	Mood=Sub|VerbForm=Fin	16	acl:relcl	_	_
 21	el	el	ADP	_	_	23	case	_	_
@@ -523,7 +523,7 @@
 7	mondskalaj	mondskala	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	8	amod	_	_
 8	lingvokomunumoj	lingvokomunumo	NOUN	_	Case=Nom|Number=Plur	4	nmod	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	8	punct	_	_
-10	kies	kies	PRON	_	Case=Nom|Number=Sing|PronType=Rel|Poss=Yes	11	nmod:poss	_	_
+10	kies	kies	PRON	_	Case=Nom|Number=Sing|Poss=Yes|PronType=Rel	11	nmod:poss	_	_
 11	parolantoj	parolanto	NOUN	_	Case=Nom|Number=Plur	16	nsubj	_	_
 12	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	16	aux	_	_
 13	senescepte	senescepte	ADV	_	_	16	advmod	_	_
@@ -567,11 +567,11 @@
 12	lingvoj	lingvo	NOUN	_	Case=Nom|Number=Sing	9	nmod	_	_
 13	kaj	kaj	CCONJ	_	_	19	cc	_	_
 14	ĝenerale	ĝenerale	ADV	_	_	17	advmod	_	_
-15	al	al	ADP	_	_	19	conj	_	_
+15	al	al	ADP	_	_	19	case	_	_
 16	pli	pli	ADV	_	_	17	advmod	_	_
 17	vasta	vasta	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	19	amod	_	_
 18	persona	persona	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	19	amod	_	_
-19	horizonto	horizonto	NOUN	_	Case=Nom|Number=Sing	6	obl	_	SpaceAfter=No
+19	horizonto	horizonto	NOUN	_	Case=Nom|Number=Sing	12	conj	_	SpaceAfter=No
 20	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 28
