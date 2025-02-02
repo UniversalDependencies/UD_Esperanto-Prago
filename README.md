@@ -1,11 +1,10 @@
 # Summary
 
-Universal Dependencies syntax annotation on Manifesto de Prago (Prague Manifesto)
-
+UD Esperanto-Prago is the Universal Dependencies syntax annotation on Manifesto de Prago (Prague Manifesto).
 
 # Introduction
 
-Esperanto is a constructed auxiliary language for international communication.
+Esperanto is a constructed auxiliary language for international communication, createdd by L.L.Zamenhof in 1887.
 
 
 # Acknowledgments
