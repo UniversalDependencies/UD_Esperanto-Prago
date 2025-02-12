@@ -13,7 +13,7 @@ Esperanto is a constructed auxiliary language for international communication, c
 
 ## References
 
-* (citation)
+https://lingvo.org/prago/eo.php
 
 
 # Changelog
