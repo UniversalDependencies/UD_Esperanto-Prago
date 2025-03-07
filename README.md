@@ -33,7 +33,7 @@ UPOS: manual native
 XPOS: not available
 Features: manual native
 Relations: manual native
-Contributors: Masanori, Oya
+Contributors: Oya, Masanori
 Contributing: here
 Contact: masanori_oya2019@meiji.ac.jp
 ===============================================================================
