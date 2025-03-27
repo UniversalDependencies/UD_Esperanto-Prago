@@ -367,7 +367,7 @@
 12	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	13	aux	_	_
 13	ligita	ligi	VERB	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	2	ccomp	_	_
 14	al	al	ADP	_	_	16	case	_	_
-15	difinita	difini	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	16	amod	_	_
+15	difinita	difini	VERB	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	16	amod	_	_
 16	perspektivo	perspektivo	NOUN	_	Case=Nom|Number=Sing	13	obl	_	_
 17	pri	pri	ADP	_	_	19	case	_	_
 18	la	la	DET	_	Definite=Def|PronType=Art	19	det	_	_
