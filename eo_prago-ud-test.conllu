@@ -540,7 +540,7 @@
 3	akceptis	akcepti	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	la	la	DET	_	Definite=Def|PronType=Art	5	det	_	_
 5	taskon	tasko	NOUN	_	Case=Acc|Number=Sing	3	obj	_	_
-6	lerni	lerni	VERB	_	Mood=Ind|VerbForm=Inf	5	acl	_	_
+6	lerni	lerni	VERB	_	VerbForm=Inf	5	acl	_	_
 7	almenaŭ	almenaŭ	ADV	_	_	8	advmod	_	_
 8	unu	unu	NUM	_	NumForm=Word|NumType=Card	10	nummod	_	_
 9	fremdan	fremda	ADJ	_	Case=Acc|Degree=Pos|Number=Sing	10	amod	_	_
