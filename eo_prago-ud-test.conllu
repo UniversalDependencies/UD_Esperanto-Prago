@@ -75,7 +75,7 @@
 # sent_id = 3
 # text = Lanĉita en 1887 kiel projekto de helplingvo por internacia komunikado, kaj rapide evoluinta en vivoplenan, nuancoriĉan lingvon, Esperanto jam de pli ol jarcento funkcias por kunligi homojn trans lingvaj kaj kulturaj baroj.
 # text_en = For more than a century Esperanto, which was launched in 1887 as a project for an auxiliary language for international communication and quickly developed into a rich living language in its own right, has functioned as a means of bringing people together across the barriers of language and culture.
-1	Lanĉita	Lanĉi	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	27	advcl	_	_
+1	Lanĉita	Lanĉi	VERB	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	27	advcl	_	_
 2	en	en	ADP	_	_	3	case	_	_
 3	1887	1887	NUM	_	_	1	obl	_	_
 4	kiel	kiel	ADP	_	_	5	case	_	_
@@ -88,7 +88,7 @@
 11	,	,	PUNCT	_	_	10	punct	_	_
 12	kaj	kaj	CCONJ	_	_	14	cc	_	_
 13	rapide	rapide	ADV	_	_	14	advmod	_	_
-14	evoluinta	evolui	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	1	conj	_	_
+14	evoluinta	evolui	VERB	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	1	conj	_	_
 15	en	en	ADP	_	_	19	case	_	_
 16	vivoplenan	vivoplena	ADJ	_	Case=Acc|Degree=Pos|Number=Sing	19	amod	_	SpaceAfter=No
 17	,	,	PUNCT	_	_	16	punct	_	_
