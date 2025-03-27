@@ -932,7 +932,7 @@
 # sent_id = 44
 # text = Planita kiel universala komunikilo, Esperanto estas unu el la grandaj funkciantaj projektoj de la homa emancipiĝo - projekto por ebligi al ĉiu homo partopreni kiel individuo en la homa komunumo, kun firmaj radikoj ĉe sia loka kultura kaj lingva identeco, sed ne limigite de ili.
 # text_en = Designed as a universally accessible means of communication, Esperanto is one of the great functional projects for the emancipation of humankind -- one which aims to let every individual citizen participate fully in the human community, securely rooted in his or her local cultural and language identity yet not limited by it.
-1	Planita	plani	VERB	_	Tense=Past|VerbForm=Part|Voice=Pass	6	acl	_	_
+1	Planita	plani	VERB	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	6	acl	_	_
 2	kiel	kiel	ADP	_	_	4	case	_	_
 3	universala	universala	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	4	amod	_	_
 4	komunikilo	komunikilo	NOUN	_	Case=Nom|Number=Plur	1	obl	_	SpaceAfter=No
