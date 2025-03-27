@@ -977,7 +977,7 @@
 43	,	,	PUNCT	_	_	42	punct	_	_
 44	sed	sed	SCONJ	_	_	46	mark	_	_
 45	ne	ne	ADV	_	_	46	advmod	_	_
-46	limigite	limigi	VERB	_	Tense=Past|VerbForm=Part|Voice=Pass	35	acl	_	_
+46	limigite	limigi	VERB	_	Tense=Past|VerbForm=Part|Voice=Pass	25	advcl	_	_
 47	de	de	ADP	_	_	48	case	_	_
 48	ili	ili	PRON	_	Case=Nom|Number=Plur|PronType=Prs	46	obl	_	SpaceAfter=No
 49	.	.	PUNCT	_	_	8	punct	_	_
