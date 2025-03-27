@@ -831,7 +831,7 @@
 11	valora	valora	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	0	root	_	_
 12	jam	jam	ADV	_	_	13	advmod	_	_
 13	pro	pro	ADP	_	_	14	case	_	_
-14	si	si	PRON	_	Case=Nom|Number=Sing|PronType=Rcp	11	obl	_	_
+14	si	si	PRON	_	Case=Nom|Number=Sing|PronType=Prs|Reflex=Yes	11	obl	_	_
 15	mem	mem	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	14	amod	_	_
 16	kaj	kaj	CCONJ	_	_	17	cc	_	_
 17	inda	inda	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	11	conj	_	_
