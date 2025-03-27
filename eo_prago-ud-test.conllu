@@ -365,7 +365,7 @@
 10	etna	etna	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	11	amod	_	_
 11	lingvo	lingvo	NOUN	_	Case=Nom|Number=Sing	6	nmod	_	_
 12	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	13	aux	_	_
-13	ligita	ligi	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	2	ccomp	_	_
+13	ligita	ligi	VERB	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	2	ccomp	_	_
 14	al	al	ADP	_	_	16	case	_	_
 15	difinita	difini	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	16	amod	_	_
 16	perspektivo	perspektivo	NOUN	_	Case=Nom|Number=Sing	13	obl	_	_
