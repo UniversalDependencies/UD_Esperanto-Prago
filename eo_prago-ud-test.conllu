@@ -922,7 +922,7 @@
 15	inter	inter	ADP	_	_	16	case	_	_
 16	si	si	PRON	_	Case=Nom|Number=Sing|PronType=Prs	14	obl	_	SpaceAfter=No
 17	,	,	PUNCT	_	_	16	punct	_	_
-18	barante	bari	VERB	_	VerbForm=Inf	3	advcl	_	_
+18	barante	bari	VERB	_	Tense=Pres|VerbForm=Part|Voice=Act	3	advcl	_	_
 19	la	la	DET	_	Definite=Def|PronType=Art	20	det	_	_
 20	komunikadon	komunikado	NOUN	_	Case=Acc|Number=Sing	18	obj	_	_
 21	kun	kun	ADP	_	_	22	case	_	_
