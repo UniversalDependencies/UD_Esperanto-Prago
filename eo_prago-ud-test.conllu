@@ -223,7 +223,7 @@
 6	,	,	PUNCT	_	_	5	punct	_	_
 7	Esperanto	Esperanto	PROPN	_	Case=Nom|Number=Sing	10	nsubj	_	_
 8	ne	ne	ADV	_	_	10	advmod	_	_
-9	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	10	aux	_	_
+9	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	_	_
 10	perfekta	perfekta	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	14	advcl	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	10	punct	_	_
 12	ĝi	ĝi	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
