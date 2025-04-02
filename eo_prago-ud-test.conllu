@@ -207,7 +207,7 @@
 23	de	de	ADP	_	_	24	case	_	_
 24	kapablo	kapablo	NOUN	_	Case=Nom|Number=Sing	22	nmod	_	SpaceAfter=No
 25	,	,	PUNCT	_	_	24	punct	_	_
-26	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	28	aux	_	_
+26	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	28	cop	_	_
 27	fundamente	fundamente	ADV	_	_	28	advmod	_	_
 28	maldemokratia	maldemokratia	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	0	root	_	SpaceAfter=No
 29	.	.	PUNCT	_	_	28	punct	_	_
