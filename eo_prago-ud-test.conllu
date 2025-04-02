@@ -266,7 +266,7 @@
 # text = Ni estas movado por demokratia komunikado.
 # text_en = We are a movement for democratic communication.
 1	Ni	ni	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
-2	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	_
+2	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	movado	movado	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
 4	por	por	ADP	_	_	6	case	_	_
 5	demokratia	demokratia	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	6	amod	_	_
@@ -288,7 +288,7 @@
 1	Ĉiu	ĉiu	DET	_	Case=Nom|Number=Sing|PronType=Tot	3	det	_	_
 2	etna	etna	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	3	amod	_	_
 3	lingvo	lingvo	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	_
-4	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	_
+4	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux:pass	_	_
 5	ligita	ligi	VERB	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
 6	al	al	ADP	_	_	8	case	_	_
 7	difinita	difinita	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	8	amod	_	_
@@ -378,7 +378,7 @@
 # text = Ni estas movado de transnacia edukado.
 # text_en = We are a movement for global education.
 1	Ni	ni	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
-2	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	_
+2	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	movado	movado	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
 4	de	de	ADP	_	_	6	case	_	_
 5	transnacia	transnacia	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	6	amod	_	_
@@ -496,7 +496,7 @@
 # text = Ni estas movado por efika lingvo-instruado.
 # text_en = We are a movement for effective language learning.
 1	Ni	ni	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
-2	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	_
+2	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	movado	movado	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
 4	por	por	ADP	_	_	6	case	_	_
 5	efika	efika	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	6	amod	_	_
@@ -516,7 +516,7 @@
 # text_en = The Esperanto community is almost unique as a worldwide community whose members are universally bilingual or multilingual.
 1	La	la	DET	_	Definite=Def|PronType=Art	2	det	_	_
 2	esperanto-komunumo	esperanto-komunumo	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
-3	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	_
+3	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	_
 4	unu	unu	PRON	_	Case=Nom|Number=Sing	0	root	_	_
 5	el	el	ADP	_	_	8	case	_	_
 6	malmultaj	malmulta	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	8	amod	_	_
@@ -525,7 +525,7 @@
 9	,	,	PUNCT	_	_	8	punct	_	_
 10	kies	kies	PRON	_	Case=Nom|Number=Sing|Poss=Yes|PronType=Rel	11	nmod:poss	_	_
 11	parolantoj	parolanto	NOUN	_	Case=Nom|Number=Plur	16	nsubj	_	_
-12	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	16	aux	_	_
+12	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	16	cop	_	_
 13	senescepte	senescepte	ADV	_	_	16	advmod	_	_
 14	du-	du-	PART	_	_	16	advmod	_	_
 15	aŭ	aŭ	CCONJ	_	_	16	cc	_	_
@@ -609,7 +609,7 @@
 # text = Ni estas movado por la provizo de tiu ŝanco.
 # text_en = We are a movement for providing that opportunity to all.
 1	Ni	ni	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
-2	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	_
+2	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	movado	movado	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
 4	por	por	ADP	_	_	6	case	_	_
 5	la	la	DET	_	Definite=Def|PronType=Art	6	det	_	_
@@ -639,7 +639,7 @@
 6	inter	inter	ADP	_	_	8	case	_	_
 7	la	la	DET	_	Definite=Def|PronType=Art	8	det	_	_
 8	lingvoj	lingvo	NOUN	_	Case=Nom|Number=Plur	5	nmod	_	_
-9	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	10	aux	_	_
+9	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	_	_
 10	recepto	recepto	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
 11	por	por	ADP	_	_	14	case	_	_
 12	konstanta	konstanta	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	14	amod	_	_
@@ -754,7 +754,7 @@
 # text = Ni estas movado por lingvaj rajtoj.
 # text_en = We are a movement for language rights.
 1	Ni	ni	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
-2	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	_
+2	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	movado	movado	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
 4	por	por	ADP	_	_	6	case	_	_
 5	lingvaj	lingva	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	6	amod	_	_
@@ -806,7 +806,7 @@
 7	la	la	DET	_	Definite=Def|PronType=Art	9	det	_	_
 8	lingva	lingva	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	9	amod	_	_
 9	diverseco	diverseco	NOUN	_	Case=Nom|Number=Sing	14	nsubj	_	_
-10	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	14	aux	_	_
+10	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	14	cop	_	_
 11	konstanta	konstanta	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	14	amod	_	_
 12	kaj	kaj	CCONJ	_	_	13	cc	_	_
 13	nemalhavebla	nemalhavebla	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	11	conj	_	_
@@ -827,7 +827,7 @@
 7	ĉiu	ĉiu	DET	_	Case=Nom|Number=Sing|PronType=Tot	8	det	_	_
 8	vivaĵospecio	vivaĵospecio	NOUN	_	Case=Nom|Number=Sing	11	nmod	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	8	punct	_	_
-10	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	11	aux	_	_
+10	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	11	cop	_	_
 11	valora	valora	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	0	root	_	_
 12	jam	jam	ADV	_	_	13	advmod	_	_
 13	pro	pro	ADP	_	_	14	case	_	_
@@ -858,7 +858,7 @@
 12	se	se	SCONJ	_	_	16	mark	_	_
 13	ĝi	ĝi	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	_
 14	ne	ne	ADV	_	_	16	advmod	_	_
-15	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	16	aux	_	_
+15	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	16	cop	_	_
 16	bazita	bazita	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	6	amod	_	_
 17	sur	sur	ADP	_	_	18	case	_	_
 18	respekto	respekto	NOUN	_	Case=Nom|Number=Sing	16	obl	_	_
@@ -886,7 +886,7 @@
 # text = Ni estas movado por lingva diverseco.
 # text_en = We are a movement for language diversity.
 1	Ni	ni	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
-2	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	_
+2	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	movado	movado	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
 4	por	por	ADP	_	_	6	case	_	_
 5	lingva	lingva	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	6	amod	_	_
@@ -938,7 +938,7 @@
 4	komunikilo	komunikilo	NOUN	_	Case=Nom|Number=Plur	1	obl	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	_
 6	Esperanto	Esperanto	NOUN	_	Case=Nom|Number=Sing	8	nsubj	_	_
-7	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	8	aux	_	_
+7	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	_
 8	unu	unu	NUM	_	NumForm=Word|NumType=Card	0	root	_	_
 9	el	el	ADP	_	_	13	case	_	_
 10	la	la	DET	_	Definite=Def|PronType=Art	13	det	_	_
@@ -1013,7 +1013,7 @@
 # text = Ni estas movado por la homa emancipiĝo.
 # text_en = We are a movement for human emancipation.
 1	Ni	ni	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
-2	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	_
+2	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	movado	movado	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
 4	por	por	ADP	_	_	7	case	_	_
 5	la	la	DET	_	Definite=Def|PronType=Art	7	det	_	_
