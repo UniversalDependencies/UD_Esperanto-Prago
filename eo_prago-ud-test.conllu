@@ -222,7 +222,7 @@
 5	lingvo	lingvo	NOUN	_	Case=Nom|Number=Sing	10	nmod	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	5	punct	_	_
 7	Esperanto	Esperanto	PROPN	_	Case=Nom|Number=Sing	10	nsubj	_	_
-8	ne	ne	ADV	_	_	10	advmod	_	_
+8	ne	ne	ADV	_	_	10	neg	_	_
 9	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	_	_
 10	perfekta	perfekta	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	14	advcl	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	10	punct	_	_
@@ -857,7 +857,7 @@
 11	,	,	PUNCT	_	_	10	punct	_	_
 12	se	se	SCONJ	_	_	16	mark	_	_
 13	ĝi	ĝi	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	_
-14	ne	ne	ADV	_	_	16	advmod	_	_
+14	ne	ne	ADV	_	_	16	neg	_	_
 15	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	16	cop	_	_
 16	bazita	bazita	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	6	amod	_	_
 17	sur	sur	ADP	_	_	18	case	_	_
@@ -976,7 +976,7 @@
 42	identeco	identeco	NOUN	_	Case=Nom|Number=Sing	35	nmod	_	SpaceAfter=No
 43	,	,	PUNCT	_	_	42	punct	_	_
 44	sed	sed	SCONJ	_	_	46	mark	_	_
-45	ne	ne	ADV	_	_	46	advmod	_	_
+45	ne	ne	ADV	_	_	46	neg	_	_
 46	limigite	limigi	VERB	_	Tense=Past|VerbForm=Part|Voice=Pass	25	advcl	_	_
 47	de	de	ADP	_	_	48	case	_	_
 48	ili	ili	PRON	_	Case=Nom|Number=Plur|PronType=Prs	46	obl	_	SpaceAfter=No
