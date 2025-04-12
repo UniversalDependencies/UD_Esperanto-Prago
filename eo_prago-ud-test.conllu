@@ -17,7 +17,7 @@
 # text = Ni, anoj de la tutmonda movado por la progresigo de Esperanto, direktas ĉi tiun manifeston al ĉiuj registaroj, internaciaj organizaĵoj, kaj homoj de bona volo, deklaras nian intencon firmvole plu labori por la celoj ĉi tie esprimitaj, kaj invitas ĉiun unuopan organizaĵon kaj homon aliĝi al nia strebado.
 # text_en = We, members of the worldwide movement for the promotion of Esperanto, address this Manifesto to all governments, international organizations and people of good will; declare our unshakeable commitment to the objectives set out here; and call on all organizations and individuals to join us in working for these goals.
 1	Ni	ni	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	14	nsubj	_	SpaceAfter=No
-2	,	,	PUNCT	_	_	1	punct	_	_
+2	,	,	PUNCT	_	_	3	punct	_	_
 3	anoj	ano	NOUN	_	Case=Nom|Number=Plur	1	appos	_	_
 4	de	de	ADP	_	_	7	case	_	_
 5	la	la	DET	_	Definite=Def|PronType=Art	7	det	_	_
@@ -28,7 +28,7 @@
 10	progresigo	progresigo	NOUN	_	Case=Nom|Number=Sing	7	nmod	_	_
 11	de	de	ADP	_	_	12	case	_	_
 12	Esperanto	Esperanto	PROPN	_	Case=Nom|Number=Sing	10	nmod	_	SpaceAfter=No
-13	,	,	PUNCT	_	_	12	punct	_	_
+13	,	,	PUNCT	_	_	14	punct	_	_
 14	direktas	direkti	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
 15	ĉi	ĉi	PART	_	_	16	advmod	_	_
 16	tiun	tiu	DET	_	Case=Acc|Number=Sing|PronType=Dem	17	det	_	_
@@ -36,16 +36,16 @@
 18	al	al	ADP	_	_	20	case	_	_
 19	ĉiuj	ĉiu	DET	_	Case=Nom|Number=Plur|PronType=Tot	20	det	_	_
 20	registaroj	registaro	NOUN	_	Case=Nom|Number=Plur	14	obl	_	SpaceAfter=No
-21	,	,	PUNCT	_	_	20	punct	_	_
+21	,	,	PUNCT	_	_	23	punct	_	_
 22	internaciaj	internacia	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	23	amod	_	_
 23	organizaĵoj	organizaĵo	NOUN	_	Case=Nom|Number=Plur	20	conj	_	SpaceAfter=No
-24	,	,	PUNCT	_	_	23	punct	_	_
+24	,	,	PUNCT	_	_	26	punct	_	_
 25	kaj	kaj	CCONJ	_	_	26	cc	_	_
 26	homoj	homo	NOUN	_	Case=Nom|Number=Plur	23	conj	_	_
 27	de	de	ADP	_	_	29	case	_	_
 28	bona	bona	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	29	amod	_	_
 29	volo	volo	NOUN	_	Case=Nom|Number=Sing	26	nmod	_	SpaceAfter=No
-30	,	,	PUNCT	_	_	29	punct	_	_
+30	,	,	PUNCT	_	_	31	punct	_	_
 31	deklaras	deklari	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	14	conj	_	_
 32	nian	ni	PRON	_	Case=Acc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	33	nmod:poss	_	_
 33	intencon	intenco	NOUN	_	Case=Acc|Number=Sing	31	obj	_	_
@@ -58,7 +58,7 @@
 40	ĉi	ĉi	PART	_	_	42	advmod	_	_
 41	tie	tie	ADV	_	_	42	advmod	_	_
 42	esprimitaj	esprimi	VERB	_	Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	39	acl	_	SpaceAfter=No
-43	,	,	PUNCT	_	_	42	punct	_	_
+43	,	,	PUNCT	_	_	45	punct	_	_
 44	kaj	kaj	CCONJ	_	_	45	cc	_	_
 45	invitas	inviti	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	31	conj	_	_
 46	ĉiun	ĉiu	DET	_	Case=Acc|Number=Sing|PronType=Tot	48	det	_	_
