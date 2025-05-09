@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>46</sentences><tokens>839</tokens><words>839</words><fused>0</fused></total>
+    <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
+    <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
+    <test><sentences>46</sentences><tokens>839</tokens><words>839</words><fused>0</fused></test>
+  </size>
+  <lemmas unique="321" /><!-- la, ., ,, de, kaj, lingvo, por, esti, ni, al, lingva, ĉiu, en, movado, Esperanto -->
+  <forms unique="363" /><!-- la, ., ,, de, kaj, por, estas, al, ni, lingvoj, en, lingva, movado, ke, kiel -->
+  <fusions unique="0" /><!--  -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="14">
+    <tag name="ADJ">108</tag><!-- lingva, granda, internacia, homa, alia, etna, komunika, malgranda, nacia, tutmonda -->
+    <tag name="ADP">124</tag><!-- de, por, al, en, kiel, pri, el, inter, da, je -->
+    <tag name="ADV">35</tag><!-- ne, jam, pli, tamen, Intertempe, almenaŭ, ankaŭ, danke, ege, ekzemple -->
+    <tag name="AUX">18</tag><!-- esti -->
+    <tag name="CCONJ">32</tag><!-- kaj, nek, aŭ -->
+    <tag name="DET">75</tag><!-- la, ĉiu, iu, tiu, kelka, tia -->
+    <tag name="NOUN">196</tag><!-- lingvo, movado, komunikado, homo, ano, diverseco, mondo, baro, edukado, emancipiĝo -->
+    <tag name="NUM">10</tag><!-- unu, 1, 1887, 2, 3, 4, 5, 6, 7 -->
+    <tag name="PART">4</tag><!-- ĉi, ajn, du- -->
+    <tag name="PRON">44</tag><!-- ni, kiu, ĝi, ili, si, sia, alia, kies, oni, tio -->
+    <tag name="PROPN">8</tag><!-- Esperanto, Prago -->
+    <tag name="PUNCT">104</tag><!-- ., ,, - -->
+    <tag name="SCONJ">12</tag><!-- ke, sed, Kvankam, se -->
+    <tag name="VERB">69</tag><!-- aserti, lerni, studi, esprimi, konsideri, ligi, Lanĉi, akcepti, aliĝi, alproprigi -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="32">
+    <feat name="Case" value="Acc" upos="ADJ,DET,NOUN,PRON,PROPN,VERB">56</feat><!-- lingvon, Esperanton, fremdan, homojn, ĉiun, aktualecon, aliajn, altan, anglan, anojn -->
+    <feat name="Case" value="Nom" upos="ADJ,DET,NOUN,PRON,PROPN,VERB">326</feat><!-- ni, lingvoj, lingva, movado, lingvo, ĉiu, Esperanto, komunikado, lingvaj, homa -->
+    <feat name="Definite" value="Def" upos="DET">56</feat><!-- la -->
+    <feat name="Definite" value="Ind" upos="DET">2</feat><!-- iu, kelkaj -->
+    <feat name="Degree" value="Pos" upos="ADJ">105</feat><!-- lingva, lingvaj, grandaj, homa, internacia, naciaj, tutmonda, aliaj, efika, egaleca -->
+    <feat name="Mood" value="Ind" upos="AUX,VERB">57</feat><!-- estas, asertas, studas, lernas, akceptis, deklaras, direktas, eblas, ekmastras, emas -->
+    <feat name="Mood" value="Sub" upos="VERB">3</feat><!-- devus, investu, profitus -->
+    <feat name="Number" value="Plur" upos="ADJ,DET,NOUN,PRON,VERB">120</feat><!-- ni, lingvoj, lingvaj, ĉiuj, aliaj, ili, naciaj, rajtoj, anoj, celoj -->
+    <feat name="Number" value="Sing" upos="ADJ,DET,NOUN,PRON,PROPN,VERB">262</feat><!-- lingva, movado, lingvo, ĉiu, Esperanto, komunikado, homa, kiu, lingvon, diverseco -->
+    <feat name="Number[psor]" value="Plur" upos="PRON">2</feat><!-- nia, nian -->
+    <feat name="Number[psor]" value="Sing" upos="PRON">1</feat><!-- ĝiaj -->
+    <feat name="NumForm" value="Word" upos="NUM">2</feat><!-- unu -->
+    <feat name="NumType" value="Card" upos="NUM">2</feat><!-- unu -->
+    <feat name="Person" value="1" upos="PRON">18</feat><!-- ni, nia, nian -->
+    <feat name="Person" value="3" upos="PRON">6</feat><!-- ĝi, Oni, ili, ĝiaj, ĝin -->
+    <feat name="Poss" value="Yes" upos="PRON">4</feat><!-- kies, nia, nian, ĝiaj -->
+    <feat name="PronType" value="Art" upos="DET">59</feat><!-- la, iu, iujn, kelkaj -->
+    <feat name="PronType" value="Dem" upos="DET,PRON">5</feat><!-- Tia, tio, tiu, tiuj, tiun -->
+    <feat name="PronType" value="Emp" upos="PRON">1</feat><!-- tiom -->
+    <feat name="PronType" value="Prs" upos="PRON">31</feat><!-- ni, ili, si, ĝi, Oni, aliaj, nia, nian, sia, siajn -->
+    <feat name="PronType" value="Rel" upos="PRON">8</feat><!-- kiu, kiuj, kies, kiujn -->
+    <feat name="PronType" value="Tot" upos="DET,PRON">14</feat><!-- ĉiu, ĉiuj, ĉiun -->
+    <feat name="Reflex" value="Yes" upos="PRON">4</feat><!-- si, sia, siajn -->
+    <feat name="Tense" value="Fut" upos="VERB">2</feat><!-- prezentos, realigos -->
+    <feat name="Tense" value="Past" upos="VERB">10</feat><!-- ligita, Lanĉita, Planita, difinita, esprimitaj, evoluinta, limigite, perdis, raportis -->
+    <feat name="Tense" value="Pres" upos="AUX,VERB">58</feat><!-- estas, asertas, studas, lernas, akceptis, barante, deklaras, direktas, donante, eblas -->
+    <feat name="VerbForm" value="Fin" upos="AUX,VERB">60</feat><!-- estas, asertas, studas, lernas, akceptis, deklaras, devus, direktas, eblas, ekmastras -->
+    <feat name="VerbForm" value="Ger" upos="VERB">1</feat><!-- parolantoj -->
+    <feat name="VerbForm" value="Inf" upos="VERB">14</feat><!-- aliĝi, alproprigi, atingi, disponi, ebligi, evoluigi, kompromisi, komuniki, konsideri, kunligi -->
+    <feat name="VerbForm" value="Part" upos="VERB">12</feat><!-- ligita, Lanĉita, Planita, barante, difinita, donante, esprimitaj, esprimitajn, evoluinta, funkciantaj -->
+    <feat name="Voice" value="Act" upos="VERB">5</feat><!-- barante, donante, evoluinta, funkciantaj, parolantoj -->
+    <feat name="Voice" value="Pass" upos="VERB">8</feat><!-- ligita, Lanĉita, Planita, difinita, esprimitaj, esprimitajn, limigite -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="26">
+    <dep name="acl">10</dep>
+    <dep name="acl:relcl">8</dep>
+    <dep name="advcl">5</dep>
+    <dep name="advmod">38</dep>
+    <dep name="amod">96</dep>
+    <dep name="appos">3</dep>
+    <dep name="aux">1</dep>
+    <dep name="aux:pass">1</dep>
+    <dep name="case">121</dep>
+    <dep name="cc">29</dep>
+    <dep name="cc:preconj">3</dep>
+    <dep name="ccomp">8</dep>
+    <dep name="conj">34</dep>
+    <dep name="cop">16</dep>
+    <dep name="det">78</dep>
+    <dep name="mark">16</dep>
+    <dep name="nmod">94</dep>
+    <dep name="nmod:poss">4</dep>
+    <dep name="nsubj">55</dep>
+    <dep name="nsubj:pass">1</dep>
+    <dep name="nummod">1</dep>
+    <dep name="obj">31</dep>
+    <dep name="obl">29</dep>
+    <dep name="punct">104</dep>
+    <dep name="root">46</dep>
+    <dep name="xcomp">7</dep>
+  </deps>
+</treebank>
