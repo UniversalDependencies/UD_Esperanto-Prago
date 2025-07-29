@@ -1258,15 +1258,15 @@
 26	detale	detale	ADV	_	_	27	advmod	_	_
 27	pridiskuti	pridiskuti	VERB	_	VerbForm=Inf	22	ccomp	_	_
 28	la	la	DET	_	Definite=Def	30	det	_	_
-29	tutan	tuta	ADJ	_	Case=Acc|Degree=Poss|Number=Sing	30	amod	_	_
+29	tutan	tuta	ADJ	_	Case=Acc|Degree=Pos|Number=Sing	30	amod	_	_
 30	enhavon	enhavo	NOUN	_	Case=Acc|Number=Sing	27	obj	_	_
 31	de	de	ADP	_	_	33	case	_	_
 32	la	la	DET	_	Definite=Def	33	det	_	_
 33	«Deklaracio pri Homaranismo»	«Deklaracio pri Homaranismo»	NOUN	_	Case=Nom|Number=Sing	30	nmod	_	_
 34	kaj	kaj	CCONJ	_	_	41	cc	_	_
 35	per	per	ADP	_	_	38	case	_	_
-36	matura	matura	ADJ	_	Case=Nom|Degree=Poss|Number=Sing	38	amod	_	_
-37	komuna	komuna	ADJ	_	Case=Nom|Degree=Poss|Number=Sing	38	amod	_	_
+36	matura	matura	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	38	amod	_	_
+37	komuna	komuna	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	38	amod	_	_
 38	interkonsiliĝo	interkonsiliĝo	NOUN	_	Case=Nom|Number=Sing	41	conj	_	_
 39	kaj	kaj	CCONJ	_	_	40	cc	_	_
 40	interkonsento	interkonsento	NOUN	_	Case=Nom|Number=Sing	38	obl	_	_
