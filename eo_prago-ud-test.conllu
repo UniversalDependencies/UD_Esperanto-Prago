@@ -1985,7 +1985,7 @@
 95	tempoj	tempo	NOUN	_	Case=Nom|Number=Plur	92	nmod	_	_
 96	barbaraj	barbara	ADJ	_	Case=Nom|Number=Plur	95	amod	_	SpaceAfter=No
 97	,	,	PUNCT	_	_	99	punct	_	_
-98	kiam	kiam	SCONJ	_	_	99	advmod	_	_
+98	kiam	kiam	ADV	_	_	99	advmod	_	_
 99	ekzistis	ekzisti	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	95	advcl:relcl	_	_
 100	nur	nur	ADV	_	_	99	advmod	_	_
 101	rajto	rajto	NOUN	_	Case=Nom|Number=Sing	99	nsubj	_	_
@@ -1994,7 +1994,6 @@
 104	kaj	kaj	CCONJ	_	_	105	cc	_	_
 105	glavo	glavo	NOUN	_	Number=Sing	103	conj	_	SpaceAfter=No
 106	.	.	PUNCT	_	_	2	punct	_	_
-
 
 # newpar_id = DpH-014
 # sent_id = DpH-014-001
@@ -2060,7 +2059,7 @@
 52	unu	unu	NUM	_	NumType=Card	54	nummod	_	_
 53	supozata	supozi	VERB	_	Case=Nom|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	54	amod	_	_
 54	deveno	deveno	NOUN	_	Case=Nom|Number=Sing	50	nmod	_	_
-55	rigardas	rigardi	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	48	relcl	_	_
+55	rigardas	rigardi	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	48	acl:relcl	_	_
 56	sin	sin	PRON	_	Case=Acc|Person=3	55	obj	_	Reflex=Yes
 57	kiel	kiel	ADP	_	_	58	case	_	_
 58	mastrojn	mastro	NOUN	_	Case=Acc|Number=Plur	55	obl	_	_
@@ -2353,7 +2352,7 @@
 15	ĝis	ĝis	SCONJ	_	_	18	mark	_	_
 16	la	la	DET	_	Definite=Def	17	det	_	_
 17	homoj	homo	NOUN	_	Case=Nom|Number=Plur	18	nsubj	_	_
-18	alkutimiĝos	alkutimiĝi	VERB	_	Mood=Ind|Tense=Fut|VerbForm=Fin	13	advmod	_	_
+18	alkutimiĝos	alkutimiĝi	VERB	_	Mood=Ind|Tense=Fut|VerbForm=Fin	13	advcl	_	_
 19	starigi	starigi	VERB	_	VerbForm=Inf	18	xcomp	_	_
 20	la	la	DET	_	Definite=Def	21	det	_	_
 21	nomon	nomo	NOUN	_	Case=Acc|Number=Sing	19	obj	_	_
