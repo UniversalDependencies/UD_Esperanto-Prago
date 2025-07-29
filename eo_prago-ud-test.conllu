@@ -1203,7 +1203,7 @@
 # sent_id = DpH-002-005
 # text = Por ke la Homaranoj sciu unuj pri la aliaj, la adresoj de la Homaranoj estos publikigataj en la revuo Homaro.
 # text_en = So that the Homaranoj know about each other, the addresses of the Homaranoj will be published in the magazine HOMARO.
-1	Por	por	ADP	_	_	2	case	_	_
+1	Por	por	ADP	_	_	5	mark	_	_
 2	ke	ke	SCONJ	_	_	5	mark	_	_
 3	la	la	DET	_	Definite=Def	4	det	_	_
 4	Homaranoj	Homarano	NOUN	_	Case=Nom|Number=Plur	5	nsubj	_	_
