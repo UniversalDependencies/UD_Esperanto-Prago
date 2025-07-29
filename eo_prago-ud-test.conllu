@@ -1335,7 +1335,7 @@
 4	.	.	PUNCT	_	_	5	punct	_	_
 5	L	Lazaro	NOUN	_	Case=Nom|Number=Sing	7	nmod	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	7	punct	_	_
-7	Zamenhof	Zamenhof	PROPN	_	Case=Nom|Number=Sing	2	nmod	_	_
+7	ZAMENHOF	Zamenhof	PROPN	_	Case=Nom|Number=Sing	2	nmod	_	_
 
 # sent_id = DpH-004-004
 # text = Varsovio (Pollando) Ruslando
