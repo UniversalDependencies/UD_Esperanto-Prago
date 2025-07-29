@@ -2496,7 +2496,7 @@
 # sent_id = DpH-017-003
 # text = Sed ĉar pro la nedifiniteco de la vorto «lando» la vortoj «patrolando» kaj «hejmolando» estas tre neprecisaj kaj ofte kaŭzas disputojn kaj malpacon kaj malamike disigas inter si la filojn de la sama terpeco, tial en ĉiuj dubaj okazoj mi evitas tiujn neprecizajn vortojn kaj uzas anstataŭ ili la pli precisajn vortojn «patruja regno», «patruja regiono», «patruja urbo», «hejma regno», «hejma regiono», «hejma urbo».
 # text_en = 
-1	Sed	sed	SCONJ	_	_	48	advmod	_	_
+1	Sed	sed	ADV	_	_	48	advmod	_	_
 2	ĉar	ĉar	SCONJ	_	_	23	mark	_	_
 3	pro	pro	ADP	_	_	5	case	_	_
 4	la	la	DET	_	Definite=Def	5	det	_	_
@@ -2609,7 +2609,7 @@
 11	miaj	mia	PRON	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	12	nmod:poss	_	_
 12	samhejmanoj	samhejmano	NOUN	_	Case=Nom|Number=Plur	8	nmod	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	16	punct	_	_
-14	kian	kia	ADJ	_	Case=Acc|Number=Sing|PronType=Rel	16	det	_	_
+14	kian	kia	ADJ	_	Case=Acc|Number=Sing|PronType=Rel	16	amod	_	_
 15	ajn	ajn	PART	_	_	14	fixed	_	_
 16	devenon	deveno	NOUN	_	Case=Acc|Number=Sing	25	obj	_	SpaceAfter=No
 17	,	,	PUNCT	_	_	18	punct	_	_
