@@ -1208,7 +1208,7 @@
 3	la	la	DET	_	Definite=Def	4	det	_	_
 4	Homaranoj	Homarano	NOUN	_	Case=Nom|Number=Plur	5	nsubj	_	_
 5	sciu	scii	VERB	_	Mood=Imp|Tense=Pres|VerbForm=Fin	17	advcl	_	_
-6	unuj	unu	NUM	_	Number=Plur|NumForm=Word|NumType=Card	5	advmod	_	_
+6	unuj	unu	ADV	_	Number=Plur|NumForm=Word|NumType=Card	5	advmod	_	_
 7	pri	pri	ADP	_	_	9	case	_	_
 8	la	la	DET	_	Definite=Def	9	det	_	_
 9	aliaj	alia	ADJ	_	Case=Acc|Degree=Pos|Number=Plur	6	amod	_	SpaceAfter=No
@@ -1267,9 +1267,9 @@
 35	per	per	ADP	_	_	38	case	_	_
 36	matura	matura	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	38	amod	_	_
 37	komuna	komuna	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	38	amod	_	_
-38	interkonsiliĝo	interkonsiliĝo	NOUN	_	Case=Nom|Number=Sing	41	conj	_	_
+38	interkonsiliĝo	interkonsiliĝo	NOUN	_	Case=Nom|Number=Sing	41	nmod	_	_
 39	kaj	kaj	CCONJ	_	_	40	cc	_	_
-40	interkonsento	interkonsento	NOUN	_	Case=Nom|Number=Sing	38	obl	_	_
+40	interkonsento	interkonsento	NOUN	_	Case=Nom|Number=Sing	38	conj	_	_
 41	fari	fari	VERB	_	VerbForm=Inf	27	conj	_	_
 42	en	en	ADP	_	_	43	case	_	_
 43	ĝi	ĝi	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	41	nmod	_	_
