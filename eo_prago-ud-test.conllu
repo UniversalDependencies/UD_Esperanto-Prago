@@ -1655,7 +1655,7 @@
 21	mian	mi	PRON	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	22	nmod:poss	_	_
 22	kredon	kredo	NOUN	_	Case=Acc|Number=Sing	20	obj	_	SpaceAfter=No
 23	,	,	PUNCT	_	_	28	punct	_	_
-24	por	por	ADP	_	_	25	case	_	_
+24	por	por	ADP	_	_	28	case	_	_
 25	ke	ke	SCONJ	_	_	28	mark	_	_
 26	ilin	il	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	28	obj	_	_
 27	ne	ne	ADV	_	_	28	advmod	_	_
@@ -1671,7 +1671,7 @@
 37	religia	religia	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	35	conj	_	_
 38	demando	demando	NOUN	_	Case=Nom|Number=Sing	30	nmod	_	_
 39	kaj	kaj	CCONJ	_	_	53	cc	_	_
-40	por	por	ADP	_	_	41	case	_	_
+40	por	por	ADP	_	_	53	case	_	_
 41	ke	ke	SCONJ	_	_	53	mark	_	_
 42	la	la	DET	_	Definite=Def	43	det	_	_
 43	personoj	persono	NOUN	_	Case=Nom|Number=Plur	53	nsubj	_	SpaceAfter=No
@@ -1696,9 +1696,9 @@
 # sent_id = DpH-009-001
 # text = L. L. Zamenhof.
 # text_en = L. L. Zamenhof.
-1	L	Ludoviko	PROPN	_	Case=Nom|Number=Sing	5	flat	_	SpaceAfter=No
+1	L	Ludoviko	PROPN	_	Case=Nom|Number=Sing	5	nmod	_	SpaceAfter=No
 2	.	.	PUNCT	_	_	3	punct	_	_
-3	L	Lazaro	PROPN	_	Case=Nom|Number=Sing	5	flat	_	SpaceAfter=No
+3	L	Lazaro	PROPN	_	Case=Nom|Number=Sing	5	nmod	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	5	punct	_	_
 5	Zamenhof	Zamenhof	PROPN	_	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
