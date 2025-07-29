@@ -2072,7 +2072,7 @@
 65	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = DpH-014-003
-# text = Ĝis la tempo, kiam tiuj landoj ricevos nomojn neŭtralajn, mi devas almenaŭ en interparolado kun miaj samprincipanoj nomi tiujn landojn laŭ iliaj ĉefurboj kun aldono de la vortoj «regno», «provinco» k. t. p.
+# text = Ĝis la tempo, kiam tiuj landoj ricevos nomojn neŭtralajn, mi devas almenaŭ en interparolado kun miaj samprincipanoj nomi tiujn landojn laŭ iliaj ĉefurboj kun aldono de la vortoj «regno», «provinco», k. t. p.
 # text_en = Until the time when those countries receive neutral names, I must at least in conversation with those sharing the same principle with me call those countries after their capitals with the addition of the words "kingdom", "province" etc.
 1	Ĝis	ĝis	ADP	_	_	3	case	_	_
 2	la	la	DET	_	Definite=Def	3	det	_	_
