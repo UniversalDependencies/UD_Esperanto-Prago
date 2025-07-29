@@ -2047,7 +2047,7 @@
 39	malnova	malnova	ADJ	_	Case=Nom|Number=Sing	40	amod	_	_
 40	mondo	mondo	NOUN	_	Case=Nom|Number=Sing	36	nmod	_	SpaceAfter=No
 41	,	,	PUNCT	_	_	45	punct	_	_
-42	estas	esti	COP	_	Mood=Ind|Tense=Pres|VerbForm=Fin	45	cop	_	_
+42	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	45	aux	_	_
 43	la	la	DET	_	Definite=Def	45	det	_	_
 44	ĉefa	ĉefa	ADJ	_	Case=Nom|Number=Sing	45	amod	_	_
 45	kaŭzo	kaŭzo	NOUN	_	Case=Nom|Number=Sing	10	advcl	_	SpaceAfter=No
