@@ -2608,7 +2608,7 @@
 11	miaj	mia	PRON	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	12	nmod:poss	_	_
 12	samhejmanoj	samhejmano	NOUN	_	Case=Nom|Number=Plur	8	nmod	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	16	punct	_	_
-14	kian	kia	ADJ	_	Case=Acc|Number=Sing|PronType=Rel	16	amod	_	_
+14	kian	kia	PRON	_	Case=Acc|Number=Sing|PronType=Rel	16	nmod:poss	_	_
 15	ajn	ajn	PART	_	_	14	fixed	_	_
 16	devenon	deveno	NOUN	_	Case=Acc|Number=Sing	25	obj	_	SpaceAfter=No
 17	,	,	PUNCT	_	_	18	punct	_	_
