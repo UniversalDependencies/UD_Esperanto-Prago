@@ -2833,7 +2833,7 @@
 6	pri	pri	ADP	_	_	8	case	_	_
 7	mia	mia	PRON	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	8	nmod:poss	_	_
 8	lingvo	lingvo	NOUN	_	Case=Nom|Number=Sing	4	nmod	_	_
-9	gepatra	gepatra	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	8	amod	_	_
+9	gepatra	gepatra	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	8	amod	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	12	punct	_	_
 11	mi	mi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	_
 12	nomas	nomi	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -2841,7 +2841,7 @@
 14	tiun	tiu	DET	_	Case=Acc|Number=Sing|Prontype=Dem	15	det	_	_
 15	lingvon	lingvo	NOUN	_	Case=Acc|Number=Sing	12	obj	_	_
 16	aŭ	aŭ	CCONJ	_	_	17	cc	_	_
-17	dialekton	dialekto	NOUN	_	Case=Acc|Number=Sing	15	conj	_	_
+17	dialekton	dialekto	NOUN	_	Case=Acc|Number=Sing	15	conj	_	SpaceAfter=No
 18	,	,	PUNCT	_	_	25	punct	_	_
 19	en	en	ADP	_	_	20	case	_	_
 20	kiu	kiu	PRON	_	Case=Nom|Number=Sing|PronType=Rel	25	nmod	_	_
@@ -2852,7 +2852,7 @@
 25	parolis	paroli	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	15	acl:relcl	_	_
 26	kun	kun	ADP	_	_	28	case	_	_
 27	miaj	mia	PRON	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	28	nmod:poss	_	_
-28	gepatroj	gepatro	NOUN	_	Case=Nom|Number=Plur	25	nmod	_	_
+28	gepatroj	gepatro	NOUN	_	Case=Nom|Number=Plur	25	nmod	_	SpaceAfter=No
 29	:	:	PUNCT	_	_	49	punct	_	_
 30	kiam	kiam	ADV	_	_	33	advmod	_	_
 31	oni	oni	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	33	nsubj	_	_
@@ -2862,7 +2862,7 @@
 35	pri	pri	ADP	_	_	37	case	_	_
 36	mia	mia	PRON	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	37	nmod:poss	_	_
 37	lingvo	lingvo	NOUN	_	Case=Nom|Number=Sing	33	nmod	_	_
-38	persona	persona	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	37	amod	_	_
+38	persona	persona	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	37	amod	_	SpaceAfter=No
 39	,	,	PUNCT	_	_	49	punct	_	_
 40	mi	mi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	49	nsubj	_	_
 41	—	-	PUNCT	_	_	42	punct	_	_
@@ -2875,7 +2875,7 @@
 48	—	-	PUNCT	_	_	42	punct	_	_
 49	nomas	nomi	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	12	conj	_	_
 50	tiun	tiu	DET	_	Case=Acc|Number=Sing|Prontype=Dem	51	det	_	_
-51	lingvon	lingvo	NOUN	_	Case=Acc|Number=Sing	49	obj	_	_
+51	lingvon	lingvo	NOUN	_	Case=Acc|Number=Sing	49	obj	_	SpaceAfter=No
 52	,	,	PUNCT	_	_	58	punct	_	_
 53	kiun	kiu	PRON	_	Case=Acc|Number=Sing|PronType=Rel	58	obj	_	_
 54	mi	mi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	58	nsubj	_	_
@@ -2886,7 +2886,7 @@
 59	aŭ	aŭ	CCONJ	_	_	62	cc	_	_
 60	plej	plej	ADV	_	_	61	advmod	_	_
 61	volonte	volonte	ADV	_	_	62	advmod	_	_
-62	uzas	uzi	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	58	conj	_	_
+62	uzas	uzi	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	58	conj	_	SpaceAfter=No
 63	;	;	PUNCT	_	_	76	punct	_	_
 64	sed	sed	SCONJ	_	_	76	mark	_	_
 65	kia	kia	ADJ	_	Case=Nom|Number=Sing|PronType=Rel	76	advcl	_	_
@@ -2904,7 +2904,7 @@
 77	ankaŭ	ankaŭ	ADV	_	_	76	advmod	_	_
 78	tiun	tiu	DET	_	Case=Acc|Number=Sing|Prontype=Dem	80	det	_	_
 79	neŭtrale-homan	neŭtrale-homa	ADJ	_	Case=Acc|Degree=Pos|Number=Sing	80	amod	_	_
-80	lingvon	lingvo	NOUN	_	Case=Acc|Number=Sing	76	obj	_	_
+80	lingvon	lingvo	NOUN	_	Case=Acc|Number=Sing	76	obj	_	SpaceAfter=No
 81	,	,	PUNCT	_	_	85	punct	_	_
 82	kiun	kiu	PRON	_	Case=Acc|Number=Sing|PronType=Rel	85	obj	_	_
 83	miaj	mia	PRON	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	84	nmod:poss	_	_
@@ -2912,8 +2912,8 @@
 85	uzas	uzi	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	80	acl:relcl	_	_
 86	por	por	ADP	_	_	87	case	_	_
 87	rilatoj	rilato	NOUN	_	Case=Nom|Number=Plur	85	nmod	_	_
-88	intergentaj	intergenta	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	87	amod	_	_
-89	,	,	PUNCT	_	_	96	_	_	_
+88	intergentaj	intergenta	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	87	amod	_	SpaceAfter=No
+89	,	,	PUNCT	_	_	96	punct	_	_
 90	por	por	ADP	_	_	96	mark	_	_
 91	ke	ke	SCONJ	_	_	96	mark	_	_
 92	mi	mi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	96	nsubj	_	_
@@ -2932,7 +2932,7 @@
 105	havu	havi	VERB	_	Mood=Sub|VerbForm=Fin	96	conj	_	_
 106	moralan	morala	ADJ	_	Case=Acc|Degree=Pos|Number=Sing	107	amod	_	_
 107	rajton	rajto	NOUN	_	Case=Acc|Number=Sing	105	obj	_	_
-108	deziri	deziri	VERB	_	VerbForm=Inf	107	xcomp	_	_
+108	deziri	deziri	VERB	_	VerbForm=Inf	107	xcomp	_	SpaceAfter=No
 109	,	,	PUNCT	_	_	113	punct	_	_
 110	ke	ke	SCONJ	_	_	113	mark	_	_
 111	aliuloj	aliulo	NOUN	_	Case=Nom|Number=Plur	113	nsubj	_	_
@@ -2940,10 +2940,10 @@
 113	altrudu	altrudi	VERB	_	Mood=Sub|VerbForm=Fin	108	ccomp	_	_
 114	al	al	ADP	_	_	115	case	_	_
 115	mi	mi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	113	obl	_	_
-116	sian	sia	PRON	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	113	obj	_	_
+116	sian	sia	PRON	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	113	obj	_	SpaceAfter=No
 117	,	,	PUNCT	_	_	126	punct	_	_
 118	kaj	kaj	SCONJ	_	_	126	mark	_	_
-119	por	por	ADP	_	_	126	_	_	_
+119	por	por	ADP	_	_	126	punct	_	_
 120	ke	ke	SCONJ	_	_	126	mark	_	_
 121	mi	mi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	126	nsubj	_	_
 122	povu	povu	AUX	_	Mood=Sub|VerbForm=Fin	126	aux	_	_
@@ -2954,7 +2954,7 @@
 127	al	al	ADP	_	_	129	case	_	_
 128	la	la	DET	_	Definite=Def	129	det	_	_
 129	kulturo	kulturo	NOUN	_	Case=Nom|Number=Sing	126	nmod	_	_
-130	neŭtrale-homa	neŭtrale-homa	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	129	amod	_	_
+130	neŭtrale-homa	neŭtrale-homa	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	129	amod	_	SpaceAfter=No
 131	.	.	PUNCT	_	_	49	punct	_	_
 
 # newpar_id = DpH-020
