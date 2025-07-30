@@ -2655,7 +2655,7 @@
 28	cirkonstancoj	cirkonstanco	NOUN	_	Case=Nom|Number=Plur	30	nsubj	_	_
 29	povas	povi	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	30	aux	_	_
 30	paralizi	paralizi	VERB	_	VerbForm=Inf	15	conj	_	_
-31	tiun	tiu	DET	_	Case=Acc|Number=Sing|Prontype=Dem	34	det	_	_
+31	tiun	tiu	DET	_	Case=Acc|Number=Sing|PronType=Dem	34	det	_	_
 32	tute	tute	ADV	_	_	33	advmod	_	_
 33	naturan	natura	ADJ	_	Case=Acc|Degree=Pos|Number=Sing	34	amod	_	_
 34	senton	sento	NOUN	_	Case=Acc|Number=Sing	30	obj	_	SpaceAfter=No
@@ -2732,7 +2732,7 @@
 66	nepoj	nepo	NOUN	_	Case=Nom|Number=Plur	64	conj	_	_
 67	plene	plene	ADV	_	_	68	advmod	_	_
 68	ĝuos	ĝui	VERB	_	Mood=Ind|Tense=Fut|VerbForm=Fin	61	conj	_	_
-69	tiun	tiu	DET	_	Case=Acc|Number=Sing|Prontype=Dem	71	det	_	_
+69	tiun	tiu	DET	_	Case=Acc|Number=Sing|PronType=Dem	71	det	_	_
 70	fortigan	fortiga	ADJ	_	Case=Acc|Degree=Pos|Number=Sing	71	amod	_	_
 71	entuziasmon	entuziasmo	NOUN	_	Case=Acc|Number=Sing	68	obj	_	SpaceAfter=No
 72	,	,	PUNCT	_	_	76	punct	_	_
@@ -2796,7 +2796,7 @@
 37	homoj	homo	NOUN	_	Case=Nom|Number=Plur	34	nmod	_	SpaceAfter=No
 38	,	,	PUNCT	_	_	46	punct	_	_
 39	mi	mi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	46	nsubj	_	_
-40	nenian	nenia	ADV	_	Case=Acc|Degree=Pos|Number=Sing	42	amod	_	_
+40	nenian	nenia	ADJ	_	Case=Acc|Degree=Pos|Number=Sing	42	amod	_	_
 41	gentan	genta	ADJ	_	Case=Acc|Degree=Pos|Number=Sing	42	amod	_	_
 42	lingvon	lingvo	NOUN	_	Case=Acc|Number=Sing	46	obj	_	_
 43	aŭ	aŭ	CCONJ	_	_	44	cc	_	_
@@ -2804,7 +2804,7 @@
 45	devas	devi	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	46	aux	_	_
 46	rigardi	rigardi	VERB	_	VerbForm=Inf	0	root	_	_
 47	kiel	kiel	ADP	_	_	49	case	_	_
-48	mian	mia	ADJ	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	49	amod	_	_
+48	mian	mia	PRON	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	49	nmod:poss	_	_
 49	sanktaĵon	sanktaĵo	NOUN	_	Case=Acc|Number=Sing	46	obl	_	SpaceAfter=No
 50	,	,	PUNCT	_	_	55	punct	_	_
 51	kiel	kiel	ADV	_	_	55	advmod	_	_
@@ -2817,7 +2817,7 @@
 58	fari	fari	VERB	_	VerbForm=Inf	46	conj	_	_
 59	el	el	ADP	_	_	60	case	_	_
 60	ĝi	ĝi	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	58	nmod	_	_
-61	mian	mia	PRON	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	63	amod:poss	_	_
+61	mian	mia	PRON	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	63	nmod:poss	_	_
 62	batalan	batala	ADJ	_	Case=Acc|Degree=Pos|Number=Sing	63	amod	_	_
 63	standardon	standardo	NOUN	_	Case=Acc|Number=Sing	58	obj	_	SpaceAfter=No
 64	.	.	PUNCT	_	_	46	punct	_	_
