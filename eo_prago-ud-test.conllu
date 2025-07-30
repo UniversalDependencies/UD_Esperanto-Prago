@@ -2230,7 +2230,7 @@
 35	devas	devi	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	14	conj	_	_
 36	esti	esti	AUX	_	VerbForm=Inf	37	cop	_	_
 37	rigardata	rigardi	VERB	_	Case=Nom|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	35	xcomp	_	_
-38	nur	nur	ADV	_	Degree=Pos	37	advmod	_	_
+38	nur	nur	ADV	_	_	37	advmod	_	_
 39	kiel	kiel	SCONJ	_	_	41	mark	_	_
 40	prooportuneca	prooportuneca	ADJ	_	Degree=Pos	41	amod	_	_
 41	cedo	cedo	NOUN	_	Case=Nom|Number=Sing	37	obl	_	_
@@ -2242,8 +2242,8 @@
 47	plimulto	plimulto	NOUN	_	Case=Nom|Number=Sing	41	nmod	_	SpaceAfter=No
 48	,	,	PUNCT	_	_	54	punct	_	_
 49	sed	sed	CCONJ	_	_	54	cc	_	_
-50	ne	ne	PART	_	Polarity=Neg	51	advmod	_	_
-51	kiel	kiel	SCONJ	_	_	54	conj	_	_
+50	ne	ne	ADV	_	Polarity=Neg	51	advmod	_	_
+51	kiel	kiel	SCONJ	_	_	54	mark	_	_
 52	ia	ia	DET	_	Case=Nom|Number=Sing|PronType=Ind	54	det	_	_
 53	humiliga	humiliga	ADJ	_	Degree=Pos	54	amod	_	_
 54	tributo	tributo	NOUN	_	Case=Nom|Number=Sing	41	conj	_	SpaceAfter=No
@@ -2308,7 +2308,7 @@
 46	lingvo	lingvo	NOUN	_	Case=Nom|Number=Sing	41	nmod	_	_
 47	neŭtrale-homa	neŭtrale-homa	ADJ	_	_	46	amod	_	SpaceAfter=No
 48	,	,	PUNCT	_	_	53	punct	_	_
-49	por	por	ADP	_	_	50	fixed	_	_
+49	por	por	ADP	_	_	53	mark	_	_
 50	ke	ke	SCONJ	_	_	53	mark	_	_
 51	ĉiuj	ĉiu	DET	_	Case=Nom|Number=Plur|PronType=Tot	52	det	_	_
 52	dezirantoj	deziranto	NOUN	_	Case=Nom|Number=Plur	53	nsubj	_	_
@@ -2356,9 +2356,9 @@
 19	starigi	starigi	VERB	_	VerbForm=Inf	18	xcomp	_	_
 20	la	la	DET	_	Definite=Def	21	det	_	_
 21	nomon	nomo	NOUN	_	Case=Acc|Number=Sing	19	obj	_	_
-22	<<	<<	PUNCT	_	_	23	punct	_	SpaceAfter=No
+22	«	«	PUNCT	_	_	23	punct	_	SpaceAfter=No
 23	homo	homo	NOUN	_	Case=Nom|Number=Sing	21	appos	_	SpaceAfter=No
-24	>>	>>	PUNCT	_	_	23	punct	_	_
+24	»	»	PUNCT	_	_	23	punct	_	_
 25	pli	pli	ADV	_	_	26	advmod	_	_
 26	alte	alte	ADV	_	_	19	advmod	_	SpaceAfter=No
 27	,	,	PUNCT	_	_	30	punct	_	_
@@ -2374,9 +2374,9 @@
 37	tro	tro	ADV	_	_	38	advmod	_	_
 38	nepreciza	nepreciza	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	39	amod	_	_
 39	vorto	vorto	NOUN	_	Case=Nom|Number=Sing	44	nsubj	_	_
-40	<<	<<	PUNCT	_	_	41	punct	_	SpaceAfter=No
+40	«	«	PUNCT	_	_	41	punct	_	SpaceAfter=No
 41	popolo	popolo	NOUN	_	Case=Nom|Number=Sing	39	appos	_	SpaceAfter=No
-42	>>	>>	PUNCT	_	_	41	punct	_	_
+42	»	»	PUNCT	_	_	41	punct	_	_
 43	ofte	ofte	ADV	_	_	44	advmod	_	_
 44	donas	doni	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	3	conj	_	_
 45	kaŭzon	kaŭzo	NOUN	_	Case=Acc|Number=Sing	44	obj	_	_
@@ -2614,7 +2614,7 @@
 17	,	,	PUNCT	_	_	18	punct	_	_
 18	lingvon	lingvo	NOUN	_	Case=Acc|Number=Sing	16	conj	_	SpaceAfter=No
 19	,	,	PUNCT	_	_	20	punct	_	_
-20	religion	religio	NOUN	_	Case=Acc|Number=Sing	18	_	_	_
+20	religion	religio	NOUN	_	Case=Acc|Number=Sing	18	conj	_	_
 21	aŭ	aŭ	CCONJ	_	_	23	cc	_	_
 22	socian	socia	ADJ	_	Case=Acc|Degree=Pos|Number=Sing	23	amod	_	_
 23	rolon	rolo	NOUN	_	Case=Acc|Number=Sing	20	conj	_	_
