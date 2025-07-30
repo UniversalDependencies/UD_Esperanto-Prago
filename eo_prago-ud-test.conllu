@@ -2807,7 +2807,7 @@
 48	mian	mia	PRON	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	49	nmod:poss	_	_
 49	sanktaĵon	sanktaĵo	NOUN	_	Case=Acc|Number=Sing	46	obl	_	SpaceAfter=No
 50	,	,	PUNCT	_	_	55	punct	_	_
-51	kiel	kiel	ADV	_	ExtPos=SCONJ	55	advmod	_	_
+51	kiel	kiel	ADV	_	ExtPos=SCONJ	55	mark	_	_
 52	ajn	ajn	PART	_	_	51	fixed	_	_
 53	mi	mi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	55	nsubj	_	_
 54	ĝin	ĝi	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	55	obj	_	_
