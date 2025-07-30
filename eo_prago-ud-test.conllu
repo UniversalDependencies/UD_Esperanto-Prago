@@ -1910,7 +1910,7 @@
 20	siaj	sia	PRON	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	21	nmod:poss	_	_
 21	loĝantoj	loĝanto	NOUN	_	Case=Nom|Number=Plur	13	conj	_	SpaceAfter=No
 22	,	,	PUNCT	_	_	35	punct	_	_
-23	kian	kia	DET	ExtPos=ADP	Case=Acc|Number=Sing|PronType=Rel	26	det	_	_
+23	kian	kia	DET	_	Case=Acc|ExtPos=ADP|Number=Sing|PronType=Rel	26	det	_	_
 24	ajn	ajn	PART	_	_	23	fixed	_	_
 25	supozatan	supozi	VERB	_	Case=Acc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	26	amod	_	_
 26	devenon	deveno	NOUN	_	Case=Acc|Number=Sing	35	obj	_	SpaceAfter=No
