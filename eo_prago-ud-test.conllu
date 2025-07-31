@@ -2823,7 +2823,7 @@
 64	.	.	PUNCT	_	_	46	punct	_	_
 
 # sent_id = DpH-019-003
-# text = Kiam oni min demandas speciale pri mia lingvo gepatra, mi nomas senŝovinisme tiun lingvon aŭ dialekton, en kiu mi en mia infaneco parolis kun miaj gepatroj: kiam oni min demandas speciale pri mia lingvo persona, mi — gvidante min per neniaj ŝovinismaj konsideroj — nomas tiun lingvon, kiun mi persone plej bone posedas aŭ plej volonte uzas; sed kia ajn estas mia lingvo gepatra aŭ persona, mi devas posedi ankaŭ tiun neŭtrale-homan lingvon, kiun miaj samtempuloj uzas por rilatoj intergentaj, por ke mi ne bezonu miakulpe altrudi al aliuloj mian lingvon kaj por ke mi havu moralan rajton deziri, ke aliuloj ne altrudu al mi sian, kaj por ke mi povu sur senŝovinisma bazo servi al la kulturu neŭtrale-homa.
+# text = Kiam oni min demandas speciale pri mia lingvo gepatra, mi nomas senŝovinisme tiun lingvon aŭ dialekton, en kiu mi en mia infaneco parolis kun miaj gepatroj: kiam oni min demandas speciale pri mia lingvo persona, mi — gvidante min per neniaj ŝovinismaj konsideroj — nomas tiun lingvon, kiun mi persone plej bone posedas aŭ plej volonte uzas; sed kia ajn estas mia lingvo gepatra aŭ persona, mi devas posedi ankaŭ tiun neŭtrale-homan lingvon, kiun miaj samtempuloj uzas por rilatoj intergentaj, por ke mi ne bezonu miakulpe altrudi al aliuloj mian lingvon kaj por ke mi havu moralan rajton deziri, ke aliuloj ne altrudu al mi sian, kaj por ke mi povu sur senŝovinisma bazo servi al la kulturo neŭtrale-homa.
 # text_en = When I am asked specifically about my mother tongue, I non-chauvinistically name the language or dialect in which I spoke with my parents in my childhood: when I am asked specifically about my personal language, I — guided by no chauvinistic considerations — name the language that I personally possess best or most willingly use; but whatever my native or personal language is, I must also possess that neutral-human language that my contemporaries use for interethnic relations, so that I do not need to impose my language on others through my own fault and so that I have the moral right to wish that others do not impose theirs on me, and so that I can serve culture neutrally and humanly on a non-chauvinistic basis.
 1	Kiam	kiam	ADV	_	_	4	advmod	_	_
 2	oni	oni	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_
@@ -2838,7 +2838,7 @@
 11	mi	mi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	_
 12	nomas	nomi	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
 13	senŝovinisme	senŝovinisme	ADV	_	_	12	advmod	_	_
-14	tiun	tiu	DET	_	Case=Acc|Number=Sing|Prontype=Dem	15	det	_	_
+14	tiun	tiu	DET	_	Case=Acc|Number=Sing|PronType=Dem	15	det	_	_
 15	lingvon	lingvo	NOUN	_	Case=Acc|Number=Sing	12	obj	_	_
 16	aŭ	aŭ	CCONJ	_	_	17	cc	_	_
 17	dialekton	dialekto	NOUN	_	Case=Acc|Number=Sing	15	conj	_	SpaceAfter=No
@@ -2874,7 +2874,7 @@
 47	konsideroj	konsidero	NOUN	_	Case=Nom|Number=Plur	42	nmod	_	_
 48	—	-	PUNCT	_	_	42	punct	_	_
 49	nomas	nomi	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	12	conj	_	_
-50	tiun	tiu	DET	_	Case=Acc|Number=Sing|Prontype=Dem	51	det	_	_
+50	tiun	tiu	DET	_	Case=Acc|Number=Sing|PronType=Dem	51	det	_	_
 51	lingvon	lingvo	NOUN	_	Case=Acc|Number=Sing	49	obj	_	SpaceAfter=No
 52	,	,	PUNCT	_	_	58	punct	_	_
 53	kiun	kiu	PRON	_	Case=Acc|Number=Sing|PronType=Rel	58	obj	_	_
@@ -2889,20 +2889,20 @@
 62	uzas	uzi	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	58	conj	_	SpaceAfter=No
 63	;	;	PUNCT	_	_	76	punct	_	_
 64	sed	sed	SCONJ	_	_	76	mark	_	_
-65	kia	kia	ADJ	_	Case=Nom|Number=Sing|PronType=Rel	76	advcl	_	_
+65	kia	kia	PRON	_	Case=Nom|ExtPos=SCONJ|Number=Sing|PronType=Rel	70	mark	_	_
 66	ajn	ajn	PART	_	_	65	fixed	_	_
-67	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	65	aux	_	_
+67	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	70	aux	_	_
 68	mia	mia	PRON	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	69	nmod:poss	_	_
-69	lingvo	lingvo	NOUN	_	Case=Nom|Number=Sing	65	nsubj	_	_
-70	gepatra	gepatra	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	65	appos	_	_
+69	lingvo	lingvo	NOUN	_	Case=Nom|Number=Sing	70	nsubj	_	_
+70	gepatra	gepatra	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	76	advcl	_	_
 71	aŭ	aŭ	CCONJ	_	_	72	cc	_	_
-72	persona	persona	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	70	conj	_	_
+72	persona	persona	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	70	conj	_	SpaceAfter=No
 73	,	,	PUNCT	_	_	76	punct	_	_
 74	mi	mi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	76	nsubj	_	_
 75	devas	devi	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	76	aux	_	_
 76	posedi	posedi	VERB	_	VerbForm=Inf	49	parataxis	_	_
 77	ankaŭ	ankaŭ	ADV	_	_	76	advmod	_	_
-78	tiun	tiu	DET	_	Case=Acc|Number=Sing|Prontype=Dem	80	det	_	_
+78	tiun	tiu	DET	_	Case=Acc|Number=Sing|PronType=Dem	80	det	_	_
 79	neŭtrale-homan	neŭtrale-homa	ADJ	_	Case=Acc|Degree=Pos|Number=Sing	80	amod	_	_
 80	lingvon	lingvo	NOUN	_	Case=Acc|Number=Sing	76	obj	_	SpaceAfter=No
 81	,	,	PUNCT	_	_	85	punct	_	_
@@ -2918,7 +2918,7 @@
 91	ke	ke	SCONJ	_	_	96	mark	_	_
 92	mi	mi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	96	nsubj	_	_
 93	ne	ne	ADV	_	_	96	advmod	_	_
-94	bezonu	bozoni	AUX	_	Mood=Sub|VerbForm=Fin	96	aux	_	_
+94	bezonu	bezoni	AUX	_	Mood=Sub|VerbForm=Fin	96	aux	_	_
 95	miakulpe	miakulpe	ADV	_	_	96	advmod	_	_
 96	altrudi	altrudi	VERB	_	VerbForm=Inf	49	advcl	_	_
 97	al	al	ADP	_	_	98	case	_	_
@@ -2946,7 +2946,7 @@
 119	por	por	ADP	_	_	126	punct	_	_
 120	ke	ke	SCONJ	_	_	126	mark	_	_
 121	mi	mi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	126	nsubj	_	_
-122	povu	povu	AUX	_	Mood=Sub|VerbForm=Fin	126	aux	_	_
+122	povu	povi	AUX	_	Mood=Sub|VerbForm=Fin	126	aux	_	_
 123	sur	sur	ADP	_	_	125	case	_	_
 124	senŝovinisma	senŝovinisma	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	125	amod	_	_
 125	bazo	bazo	NOUN	_	Case=Nom|Number=Sing	126	nmod	_	_
