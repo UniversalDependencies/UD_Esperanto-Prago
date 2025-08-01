@@ -3364,11 +3364,11 @@
 8	,	,	PUNCT	_	_	10	punct	_	_
 9	plenforme	plenforme	ADV	_	_	10	advmod	_	_
 10	organizita	organizi	VERB	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	7	conj	_	_
-11	sengenta	sengenta	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	10	_	_	_
+11	sengenta	sengenta	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	14	amod	_	_
 12	kaj	kaj	CCONJ	_	_	13	cc	_	_
 13	sendoktrina	sendoktrina	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	11	conj	_	_
 14	komunumo	komunumo	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	_
-15	de	de	ADP	_	_	16	_	_	_
+15	de	de	ADP	_	_	16	case	_	_
 16	liberkredanoj	liberkredanoj	NOUN	_	Case=Nom|Number=Plur	14	nmod	_	SpaceAfter=No
 17	,	,	PUNCT	_	_	22	punct	_	_
 18	al	al	ADP	_	_	19	case	_	_
@@ -3377,7 +3377,7 @@
 21	povos	povi	AUX	_	Mood=Ind|Tense=Fut|VerbForm=Fin	22	aux	_	_
 22	aliĝi	aliĝi	VERB	_	VerbForm=Inf	14	acl:relcl	_	_
 23	kun	kun	ADP	_	_	25	case	_	_
-24	plena	plena	ADJ	_	Case=Nom|Degree=Poss|Number=Sing	25	amod	_	_
+24	plena	plena	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	25	amod	_	_
 25	kontenteco	kontenteco	NOUN	_	Case=Nom|Number=Sing	22	nmod	_	_
 26	por	por	ADP	_	_	28	case	_	_
 27	mia	mia	PRON	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	28	nmod:poss	_	_
@@ -3399,12 +3399,12 @@
 43	precize	precize	ADV	_	_	41	conj	_	_
 44	mian	mia	PRON	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	46	nmod:poss	_	_
 45	religian	religia	ADJ	_	Case=Acc|Degree=Pos|Number=Sing	46	amod	_	_
-46	neŭtralecon	neŭtraleco	NOUN		Case=Acc|Number=Sing	40	obj	_	_
+46	neŭtralecon	neŭtraleco	NOUN	_	Case=Acc|Number=Sing	40	obj	_	_
 47	kaj	kaj	CCONJ	_	_	48	cc	_	_
 48	savi	savi	VERB	_	VerbForm=Inf	40	conj	_	_
 49	mian	mia	PRON	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	50	nmod:poss	_	_
 50	posteularon	posteularo	NOUN	_	Case=Acc|Number=Sing	48	obj	_	_
-51	kontraŭ	kontraŭ	ADP	_	_	52	_	_	_
+51	kontraŭ	kontraŭ	ADP	_	_	52	case	_	_
 52	senprogrameco	senprogrameco	NOUN	_	Case=Nom|Number=Sing	48	nmod	_	_
 53	kaj	kaj	CCONJ	_	_	56	cc	_	_
 54	konsekvence	konsekvence	ADV	_	_	56	advmod	_	_
