@@ -1266,7 +1266,7 @@
 34	Deklaracio	deklaracio	NOUN	_	Case=Nom|Number=Sing	30	nmod	_	_
 35	pri	pri	ADP	_	_	36	case	_	_
 36	Homaranismo	Homaranismo	NOUN	_	Case=Nom|Number=Sing	34	nmod	_	SpaceAfter=No
-37	»	»	ADP	_	_	34	punct	_	_
+37	»	»	PUNCT	_	_	34	punct	_	_
 38	kaj	kaj	CCONJ	_	_	45	cc	_	_
 39	per	per	ADP	_	_	42	case	_	_
 40	matura	matura	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	42	amod	_	_
@@ -1294,8 +1294,8 @@
 62	interkonsiliĝi	interkonsiliĝi	VERB	_	VerbForm=Inf	27	conj	_	_
 63	pri	pri	ADP	_	_	64	case	_	_
 64	tio	tio	PRON	_	Case=Nom|Number=Sing|PronType=Dem	62	obl	_	SpaceAfter=No
-65	,	,	PUNCT	_	_	68	punct	_	_
-66	kiamaniere	kiamaniere	ADV	_	_	68	advmod	_	_
+65	,	,	PUNCT	_	_	71	punct	_	_
+66	kiamaniere	kiamaniere	ADV	_	_	71	advmod	_	_
 67	oni	oni	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	71	nsubj	_	_
 68	povas	povi	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	71	aux	_	_
 69	plej	plej	ADV	_	_	70	advmod	_	_
