@@ -3227,7 +3227,7 @@
 86	Dio	dio	NOUN	_	Case=Nom|Number=Sing	84	nmod	_	SpaceAfter=No
 87	,	,	PUNCT	_	_	90	punct	_	_
 88	aŭ	aŭ	CCONJ	_	_	90	cc	_	_
-89	kiel	kiel	VERB	_	_	90	_	_	_
+89	kiel	kiel	ADV	_	_	90	advmod	_	_
 90	komentariojn	komentario	NOUN	_	Case=Acc|Number=Plur	84	conj	_	SpaceAfter=No
 91	,	,	PUNCT	_	_	96	punct	_	_
 92	kiujn	kiu	PRON	_	Case=Acc|Number=Plur|PronType=Rel	96	obj	_	_
