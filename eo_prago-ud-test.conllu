@@ -2170,7 +2170,7 @@
 35	plej	plej	ADV	_	_	36	advmod	_	_
 36	multe	multe	ADV	_	_	38	advmod	_	_
 37	lin	li	PRON	_	Case=Acc|Number=Sing|Person=3	38	obj	_	_
-38	kontentigas	kontentigi	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	32	acl:relcl	_	_
+38	kontentigas	kontentigi	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	32	acl:relcl	_	SpaceAfter=No
 39	,	,	PUNCT	_	_	52	punct	_	_
 40	sed	sed	CCONJ	_	_	52	cc	_	_
 41	en	en	ADP	_	_	42	case	_	_
@@ -3015,7 +3015,7 @@
 39	.	.	PUNCT	_	_	24	punct	_	_
 
 # sent_id = DpH-020-003
-# text = Sed kia ajn estas mia religio, mi konfesas ĝin laŭ la neŭtrale-homaj principoj «homaranaj», kiuj konsistas en jeno .
+# text = Sed kia ajn estas mia religio, mi konfesas ĝin laŭ la neŭtrale-homaj principoj «homaranaj», kiuj konsistas en jeno.
 # text_en = But whatever my religion is, I profess it according to the neutral-human principles of "Homaranism", which consist of the following:
 1	Sed	sed	SCONJ	_	_	9	mark	_	_
 2	kia	kia	ADJ	_	Case=Nom|ExtPos=ADV|Number=Sing|PronType=Rel	9	advcl	_	_
