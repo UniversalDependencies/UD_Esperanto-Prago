@@ -3558,7 +3558,7 @@
 6	estas	esti	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 7	:	:	PUNCT	_	_	6	punct	_	_
 
-# sent_id = DpH-021-005
+# sent_id = DpH-021-006
 # text = 3. Mi naskiĝis en la jaro:
 # text_en = 3. I was born in the year:
 1	3	3	NUM	_	_	4	nummod	_	SpaceAfter=No
@@ -3566,11 +3566,11 @@
 3	Mi	mi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
 4	naskiĝis	naskiĝi	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 5	en	en	ADP	_	_	7	case	_	_
-6	la	la	VERB	_	Definite=Def	7	det	_	_
+6	la	la	DET	_	Definite=Def	7	det	_	_
 7	jaro	jaro	NOUN	_	Case=Nom|Number=Sing	4	obl	_	SpaceAfter=No
 8	:	:	PUNCT	_	_	4	punct	_	_
 
-# sent_id = DpH-021-006
+# sent_id = DpH-021-007
 # text = 4. Laŭ mia profesio mi estas:
 # text_ = 4. According to my profession I am:
 1	4	4	NUM	_	_	7	nummod	_	SpaceAfter=No
@@ -3582,7 +3582,7 @@
 7	estas	esti	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 8	:	:	PUNCT	_	_	7	punct	_	_
 
-# sent_id = DpH-021-007
+# sent_id = DpH-021-008
 # text = 5. Mia patrujo estas:
 # text_en = 5. My homeland is:
 1	5	5	NUM	_	_	5	nummod	_	SpaceAfter=No
@@ -3592,7 +3592,7 @@
 5	estas	esti	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 6	:	:	PUNCT	_	_	5	punct	_	_
 
-# sent_id = DpH-021-008
+# sent_id = DpH-021-009
 # text = a) Regno:
 # text_en = a) Kingdom:
 1	a	a	ADV	_	_	3	advmod	_	SpaceAfter=No
@@ -3600,15 +3600,15 @@
 3	Regno	regno	NOUN	_	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
 4	:	:	PUNCT	_	_	3	punct	_	_
 
-# sent_id = DpH-021-009
+# sent_id = DpH-021-010
 # text = b) regiono:
 # text_en = b) region:
 1	b	b	ADV	_	_	3	advmod	_	SpaceAfter=No
 2	)	)	PUNCT	_	_	3	punct	_	_
-3	regiono	regiono	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
-4	:	:	PUNCT	_	_	3	punct	_	SpaceAfter=No
+3	regiono	regiono	NOUN	_	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
+4	:	:	PUNCT	_	_	3	punct	_	_
 
-# sent_id = DpH-021-010
+# sent_id = DpH-021-011
 # text = c) urbo aŭ vilaĝo:
 # text_en = c) city or town:
 1	c	c	ADV	_	_	3	advmod	_	SpaceAfter=No
@@ -3618,7 +3618,7 @@
 5	vilaĝo	vilaĝo	NOUN	_	Case=Nom|Number=Sing	3	conj	_	SpaceAfter=No
 6	:	:	PUNCT	_	_	3	punct	_	_
 
-# sent_id = DpH-021-011
+# sent_id = DpH-021-012
 # text = 6. Mia hejmo estas: 
 # text_en = 6. My home is:
 1	6	6	NUM	_	_	5	nummod	_	SpaceAfter=No
@@ -3628,7 +3628,7 @@
 5	estas	esti	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 6	:	:	PUNCT	_	_	5	punct	_	_
 
-# sent_id = DpH-021-012
+# sent_id = DpH-021-013
 # text = a) Regno:
 # text_en = a) Kingdom:
 1	a	a	ADV	_	_	3	advmod	_	SpaceAfter=No
@@ -3636,7 +3636,7 @@
 3	Regno	regno	NOUN	_	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
 4	:	:	PUNCT	_	_	3	punct	_	_
 
-# sent_id = DpH-021-013
+# sent_id = DpH-021-014
 # text = b) regiono:
 # text_en = b) region:
 1	b	b	ADV	_	_	3	advmod	_	SpaceAfter=No
@@ -3644,7 +3644,7 @@
 3	regiono	regiono	NOUN	_	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
 4	:	:	PUNCT	_	_	3	punct	_	_
 
-# sent_id = DpH-021-014
+# sent_id = DpH-021-015
 # text = c) urbo aŭ vilaĝo:
 # text_en = c) city or town:
 1	c	c	ADV	_	_	3	advmod	_	SpaceAfter=No
@@ -3654,8 +3654,8 @@
 5	vilaĝo	vilaĝo	NOUN	_	Case=Nom|Number=Sing	3	conj	_	SpaceAfter=No
 6	:	:	PUNCT	_	_	3	punct	_	_
 
-# sent_id = DpH-021-015
-# text = d) strato kaj domo
+# sent_id = DpH-021-016
+# text = d) strato kaj domo :
 # text_en = d) street and house
 1	d	d	ADV	_	_	3	advmod	_	SpaceAfter=No
 2	)	)	PUNCT	_	_	3	punct	_	_
@@ -3664,7 +3664,7 @@
 5	domo	domo	NOUN	_	Case=Nom|Number=Sing	3	conj	_	SpaceAfter=No
 6	:	:	PUNCT	_	_	3	punct	_	_
 
-# sent_id = DpH-021-016
+# sent_id = DpH-021-017
 # text = 7. La gento de mia supozata deveno estas:
 # text_en = 7. The people of my alleged descent are:
 1	7	7	NUM	_	_	9	nummod	_	SpaceAfter=No
@@ -3678,7 +3678,7 @@
 9	estas	esti	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
 10	:	:	PUNCT	_	_	9	punct	_	_
 
-# sent_id = DpH-021-017
+# sent_id = DpH-021-018
 # text = 8. Mia lingvo gepatra estas:
 # text_en = 8. My native language is:
 1	8	8	NUM	_	_	6	nummod	_	SpaceAfter=No
@@ -3689,8 +3689,7 @@
 6	estas	esti	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 7	:	:	PUNCT	_	_	6	punct	_	_
 
-
-# sent_id = DpH-021-018
+# sent_id = DpH-021-019
 # text = 9. Mia lingvo persona estas:
 # text_en = 9. My personal language is:
 1	9	9	NUM	_	_	6	nummod	_	SpaceAfter=No
@@ -3701,7 +3700,7 @@
 6	estas	esti	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 7	:	:	PUNCT	_	_	6	punct	_	_
 
-# sent_id = DpH-021-019
+# sent_id = DpH-021-020
 # text = 10. Mia religio estas:
 # text_en = 10. My religion is: 
 1	10	10	NUM	_	_	5	nummod	_	SpaceAfter=No
