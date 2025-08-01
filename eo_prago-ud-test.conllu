@@ -3018,7 +3018,7 @@
 6	religio	religio	NOUN	_	Case=Nom|Number=Sing	nsubj	2	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	9	punct	_	_
 8	mi	mi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
-9	konfesas	konfesi	VERB	Mood=Ind|Tense=Pres|VerbForm=Fin	_	0	root	_	_
+9	konfesas	konfesi	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
 10	ĝin	ĝi	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
 11	laŭ	laŭ	ADP	_	_	14	case	_	_
 12	la	la	DET	_	Definite=Def	14	det	_	_
