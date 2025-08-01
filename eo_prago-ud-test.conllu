@@ -3704,7 +3704,7 @@
 # sent_id = DpH-021-019
 # text = 10. Mia religio estas:
 # text_en = 10. My religion is: 
-1	10	10	NUM	_	_	5	advmod	_	SpaceAfter=No
+1	10	10	NUM	_	_	5	nummod	_	SpaceAfter=No
 2	.	.	PUNCT	_	_	5	punct	_	_
 3	Mia	mia	PRON	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	_	_
 4	religio	religio	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	_
