@@ -3195,7 +3195,7 @@
 54	vi	vi	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	52	nmod	_	SpaceAfter=No
 55	;	;	PUNCT	_	_	62	punct	_	_
 56	ĉion	ĉio	PRON	_	Case=Acc|Number=Sing|PronType=Tot	62	obj	_	_
-57	alian	alia	PRON	_	Case=Acc|Degree=Pos|Number=Sing	56	nmod	_	_
+57	alian	alia	ADJ	_	Case=Acc|Degree=Pos|Number=Sing	56	amod	_	_
 58	en	en	ADP	_	_	60	case	_	_
 59	la	la	DET	_	Definite=Def	60	det	_	_
 60	religio	religio	NOUN	_	Case=Nom|Number=Sing	56	nmod	_	_
