@@ -1315,6 +1315,7 @@
 83	vivon	vivo	NOUN	_	Case=Acc|Number=Sing	79	obl	_	_
 84	praktikan	praktika	ADJ	_	Case=Acc|Number=Sing	83	amod	_	SpaceAfter=No
 85	.	.	PUNCT	_	_	13	punct	_	_
+
 # newpar_id = DpH-004
 # sent_id = DpH-004-001
 # text = Redakcio de HOMARO.
