@@ -3276,7 +3276,7 @@
 7	neniu	neniu	PRON	_	Case=Nom|PronType=Neg	5	nmod	_	_
 8	el	le	ADP	_	_	12	case	_	_
 9	la	la	DET	_	Definite=Def	12	det	_	_
-10	ekzistantaj	ekzisti	ADJ	_	Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	12	amod	_	_
+10	ekzistantaj	ekzisti	VERB	_	Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	12	amod	_	_
 11	revelaciaj	revelacia	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	12	amod	_	_
 12	religioj	religio	NOUN	_	Case=Nom|Number=Plur	7	nmod	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	17	punct	_	_
