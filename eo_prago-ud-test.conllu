@@ -3035,7 +3035,7 @@
 23	.	.	PUNCT	_	_	9	punct	_	_
 
 # sent_id = DpH-020-004
-# text = a) La plej altan por mi ne kompreneblan Forton, kiu estas la kaŭzo de la kaŭzoj en la mondo materia kaj morala , mi povas nomi per la nomo « Dio » aŭ per alia nomo , sed mi konscias , ke la esencon de tiu Forto ĉiu havas la rajton prezenti al si tiel , kiel diktas al li lia prudento kaj koro aŭ la instruoj de lia eklezio .
+# text = a) La plej altan por mi ne kompreneblan Forton, kiu estas la kaŭzo de la kaŭzoj en la mondo materia kaj morala, mi povas nomi per la nomo « Dio » aŭ per alia nomo , sed mi konscias , ke la esencon de tiu Forto ĉiu havas la rajton prezenti al si tiel , kiel diktas al li lia prudento kaj koro aŭ la instruoj de lia eklezio .
 # text_en = a) I can call the highest Force, which is incomprehensible to me, which is the cause of causes in the material and moral world, by the name "God" or by another name, but I am aware that everyone has the right to present the essence of that Force to himself in the way his reason and heart or the teachings of his church dictate to him.
 1	a	a	ADV	_	_	28	advmod	_	SpaceAfter=No
 2	)	)	PUNCT	_	_	28	punct	_	_
@@ -3265,7 +3265,7 @@
 124	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = DpH-020-007
-# text = c) Se mi kredas je neniu el la ekzistantaj revelaciaj religioj, mi ne devas resti en iu en ili sole pro motivoj gentaj kaj per mia restado erarigi la homojn pri miaj konvinkoj kaj herede nutri por senfinaj generacioj intergentan disecon , sed mi devas — se la leĝoj de mia lando tion permesas — malkaŝe kaj oficiale nomi min « liberkreda » , ne identigante tamen la liberkredon speciale kun ateismo , sed rezervante al mia kredado plenan liberecon .
+# text = c) Se mi kredas je neniu el la ekzistantaj revelaciaj religioj, mi ne devas resti en iu en ili sole pro motivoj gentaj kaj per mia restado erarigi la homojn pri miaj konvinkoj kaj herede nutri por senfinaj generacioj intergentan disecon, sed mi devas—se la leĝoj de mia lando tion permesas—malkaŝe kaj oficiale nomi min « liberkreda », ne identigante tamen la liberkredon speciale kun ateismo, sed rezervante al mia kredado plenan liberecon.
 # text_en = c) If I believe in none of the existing revealed religions, I must not remain in any of them solely for racial reasons and by my remaining there mislead people about my convictions and hereditaryly foster inter-racial discord for endless generations, but I must - if the laws of my country allow it - openly and officially call myself "free-believer", not however identifying free-believer specifically with atheism, but reserving complete freedom for my belief.
 1	c	c	ADV	_	_	5	advmod	_	SpaceAfter=No
 2	)	)	PUNCT	_	_	5	punct	_	_
