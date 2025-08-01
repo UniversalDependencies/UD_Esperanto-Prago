@@ -2163,7 +2163,7 @@
 28	,	,	PUNCT	_	_	30	punct	_	_
 29	kaj	kaj	CCONJ	_	_	30	cc	_	_
 30	konfesi	konfesi	VERB	_	VerbForm=Inf	16	conj	_	_
-31	tiun	tiu	DET	_	Case=Acc|Number=Sing|PronType=Dem	33	det	_	_
+31	tiun	tiu	DET	_	Case=Acc|Number=Sing|PronType=Dem	32	det	_	_
 32	religion	religio	NOUN	_	Case=Acc|Number=Sing	30	obj	_	SpaceAfter=No
 33	,	,	PUNCT	_	_	38	punct	_	_
 34	kiu	kiu	PRON	_	Case=Nom|Number=Sing	38	nsubj	_	Rel=Yes
@@ -2171,31 +2171,31 @@
 36	multe	multe	ADV	_	_	38	advmod	_	_
 37	lin	li	PRON	_	Case=Acc|Number=Sing|Person=3	38	obj	_	_
 38	kontentigas	kontentigi	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	32	acl:relcl	_	_
-39	sed	sed	CCONJ	_	_	51	cc	_	_
-40	en	en	ADP	_	_	41	case	_	_
-41	komunikiĝado	komunikiĝado	NOUN	_	Case=Nom|Number=Sing	51	obl	_	_
-42	kun	kun	ADP	_	_	43	case	_	_
-43	homoj	homo	NOUN	_	Case=Nom|Number=Plur	41	nmod	_	_
-44	de	de	ADP	_	_	46	case	_	_
-45	aliaj	alia	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	46	amod	_	_
-46	lingvoj	lingvo	NOUN	_	Case=Nom|Number=Plur	43	nmod	_	_
-47	aŭ	aŭ	CCONJ	_	_	48	cc	_	_
-48	religioj	religio	NOUN	_	Case=Nom|Number=Plur	46	conj	_	_
-49	li	li	PRON	_	Case=Nom|Number=Sing|Person=3	51	nsubj	_	_
-50	devas	devi	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	51	aux	_	_
-51	peni	peni	VERB	_	VerbForm=Inf	11	conj	_	_
-52	uzi	uzi	VERB	_	VerbForm=Inf	51	xcomp	_	_
-53	lingvon	lingvo	NOUN	_	Case=Acc|Number=Sing	52	obj	_	_
-54	neŭtralan	neŭtrala	ADJ	_	Case=Acc|Degree=Pos|Number=Sing	53	amod	_	_
-55	kaj	kaj	CCONJ	_	_	56	cc	_	_
-56	vivi	vivi	VERB	_	VerbForm=Inf	51	conj	_	_
-57	laŭ	laŭ	ADP	_	_	58	case	_	_
-58	etiko	etiko	NOUN	_	Case=Nom|Number=Sing	56	obl	_	_
-59	kaj	kaj	CCONJ	_	_	60	cc	_	_
-60	moroj	moro	NOUN	_	Case=Nom|Number=Plur	58	conj	_	_
-61	neŭtralaj	neŭtrala	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	60	amod	_	SpaceAfter=No
-62	.	.	PUNCT	_	_	2	punct	_	_
-
+39	,	,	PUNCT	_	_	52	punct	_	_
+40	sed	sed	CCONJ	_	_	52	cc	_	_
+41	en	en	ADP	_	_	42	case	_	_
+42	komunikiĝado	komunikiĝado	NOUN	_	Case=Nom|Number=Sing	52	obl	_	_
+43	kun	kun	ADP	_	_	44	case	_	_
+44	homoj	homo	NOUN	_	Case=Nom|Number=Plur	42	nmod	_	_
+45	de	de	ADP	_	_	47	case	_	_
+46	aliaj	alia	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	47	amod	_	_
+47	lingvoj	lingvo	NOUN	_	Case=Nom|Number=Plur	44	nmod	_	_
+48	aŭ	aŭ	CCONJ	_	_	49	cc	_	_
+49	religioj	religio	NOUN	_	Case=Nom|Number=Plur	47	conj	_	_
+50	li	li	PRON	_	Case=Nom|Number=Sing|Person=3	52	nsubj	_	_
+51	devas	devi	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	52	aux	_	_
+52	peni	peni	VERB	_	VerbForm=Inf	11	conj	_	_
+53	uzi	uzi	VERB	_	VerbForm=Inf	52	xcomp	_	_
+54	lingvon	lingvo	NOUN	_	Case=Acc|Number=Sing	53	obj	_	_
+55	neŭtralan	neŭtrala	ADJ	_	Case=Acc|Degree=Pos|Number=Sing	54	amod	_	_
+56	kaj	kaj	CCONJ	_	_	57	cc	_	_
+57	vivi	vivi	VERB	_	VerbForm=Inf	52	conj	_	_
+58	laŭ	laŭ	ADP	_	_	59	case	_	_
+59	etiko	etiko	NOUN	_	Case=Nom|Number=Sing	57	obl	_	_
+60	kaj	kaj	CCONJ	_	_	61	cc	_	_
+61	moroj	moro	NOUN	_	Case=Nom|Number=Plur	59	conj	_	_
+62	neŭtralaj	neŭtrala	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	61	amod	_	SpaceAfter=No
+63	.	.	PUNCT	_	_	2	punct	_	_
 # sent_id = DpH-015-003
 # text = Mi konscias, ke por samregnanoj kaj samurbanoj la rolon de lingvo neŭtrala povas ludi la lingvo regna aŭ tiu kultura lingvo, kiun parolas la plimulto de la lokaj loĝantoj, sed ke tio devas esti rigardata nur kiel prooportuneca cedo de la malplimulto al la plimulto, sed ne kiel ia humiliga tributo, kiu ŝuldas gentoj mastrataj al gentoj mastrantaj.
 # text_en = I am aware that for fellow citizens and fellow townspeople the role of a neutral language can be played by the royal language or the cultural language spoken by the majority of the local inhabitants, but that this must be seen only as an opportune concession by the minority to the majority, but not as some kind of humiliating tribute owed by ruled tribes to ruling tribes.
