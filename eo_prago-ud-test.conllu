@@ -2196,6 +2196,7 @@
 61	moroj	moro	NOUN	_	Case=Nom|Number=Plur	59	conj	_	_
 62	neŭtralaj	neŭtrala	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	61	amod	_	SpaceAfter=No
 63	.	.	PUNCT	_	_	2	punct	_	_
+
 # sent_id = DpH-015-003
 # text = Mi konscias, ke por samregnanoj kaj samurbanoj la rolon de lingvo neŭtrala povas ludi la lingvo regna aŭ tiu kultura lingvo, kiun parolas la plimulto de la lokaj loĝantoj, sed ke tio devas esti rigardata nur kiel prooportuneca cedo de la malplimulto al la plimulto, sed ne kiel ia humiliga tributo, kiu ŝuldas gentoj mastrataj al gentoj mastrantaj.
 # text_en = I am aware that for fellow citizens and fellow townspeople the role of a neutral language can be played by the royal language or the cultural language spoken by the majority of the local inhabitants, but that this must be seen only as an opportune concession by the minority to the majority, but not as some kind of humiliating tribute owed by ruled tribes to ruling tribes.
@@ -3014,7 +3015,7 @@
 39	.	.	PUNCT	_	_	24	punct	_	_
 
 # sent_id = DpH-020-003
-# text = Sed kia ajn estas mia religio, mi konfesas ĝin laŭ la neŭtrale-homaj principoj «homaranaj» , kiuj konsistas en jeno .
+# text = Sed kia ajn estas mia religio, mi konfesas ĝin laŭ la neŭtrale-homaj principoj «homaranaj», kiuj konsistas en jeno .
 # text_en = But whatever my religion is, I profess it according to the neutral-human principles of "Homaranism", which consist of the following:
 1	Sed	sed	SCONJ	_	_	9	mark	_	_
 2	kia	kia	ADJ	_	Case=Nom|ExtPos=ADV|Number=Sing|PronType=Rel	9	advcl	_	_
