@@ -3231,13 +3231,13 @@
 90	komentariojn	komentario	NOUN	_	Case=Acc|Number=Plur	84	conj	_	SpaceAfter=No
 91	,	,	PUNCT	_	_	96	punct	_	_
 92	kiujn	kiu	PRON	_	Case=Acc|Number=Plur|PronType=Rel	96	obj	_	_
-93	miksite	miksi	VERB	_	Tense=Past|VerbForm=Part|Voice=Pass	96	advmod	_	_
+93	miksite	miksi	VERB	_	Tense=Past|VerbForm=Part|Voice=Pass	96	advcl	_	_
 94	kun	kun	ADP	_	_	95	case	_	_
 95	legendoj	legendo	NOUN	_	Case=Nom|Number=Plur	96	nmod	_	_
 96	donis	doni	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	90	acl:relcl	_	_
 97	al	al	ADP	_	_	98	case	_	_
 98	ni	ni	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	96	obl	_	_
-99	diversgentaj	diversgenta	ADJ	_	Case=Nom|Degree=Poss|Number=Plur	101	amod	_	_
+99	diversgentaj	diversgenta	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	101	amod	_	_
 100	grandaj	granda	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	101	amod	_	_
 101	instruintoj	instruinto	NOUN	_	Case=Nom|Number=Plur	96	nsubj	_	_
 102	de	de	ADP	_	_	104	case	_	_
@@ -3258,7 +3258,7 @@
 117	plenumado	plenumado	NOUN	_	Case=Nom|Number=Sing	120	nsubj	_	_
 118	aŭ	aŭ	CCONJ	_	_	119	cc	_	_
 119	neplenumado	neplenumado	NOUN	_	Case=Nom|Number=Sing	117	conj	_	_
-120	dependas	dependi	ADJ	_	Mood=Ind|Tense=Pres|VerbForm=Fin	108	acl:relcl	_	_
+120	dependas	dependi	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	108	acl:relcl	_	_
 121	de	de	ADP	_	_	123	case	_	_
 122	nia	nia	PRON	_	Case=Nom|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	123	nmod:poss	_	_
 123	volo	volo	NOUN	_	Case=Nom|Number=Sing	120	nmod	_	SpaceAfter=No
