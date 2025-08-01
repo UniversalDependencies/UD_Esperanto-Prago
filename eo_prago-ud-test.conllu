@@ -3359,7 +3359,7 @@
 3	mia	mia	PRON	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	_	_
 4	loĝloko	loĝloko	NOUN	_	Case=Nom|Number=Sing	5	nmod	_	_
 5	ekzistos	ekzisti	VERB	_	Mood=Ind|Tense=Fut|VerbForm=Fin	63	advcl	_	_
-6	komuninterkonsente	komuninterkonsente	ADV	_	_	7	_	_	_
+6	komuninterkonsente	komuninterkonsente	ADV	_	_	7	advmod	_	_
 7	aranĝita	aranĝi	VERB	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	14	amod	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	10	punct	_	_
 9	plenforme	plenforme	ADV	_	_	10	advmod	_	_
@@ -3418,7 +3418,7 @@
 62	devas	devi	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	63	aux	_	_
 63	aliĝi	aliĝi	VERB	_	VerbForm=Inf	0	root	_	_
 64	al	al	ADP	_	_	67	case	_	_
-65	tiu	tiu	DET	_	Case=Nom|Number=Sing|Prontype=Dem	63	nmod	_	_
+65	tiu	tiu	DET	_	Case=Nom|Number=Sing|PronType=Dem	63	nmod	_	_
 66	liberkreda	liberkreda	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	67	amod	_	_
 67	komunumo	komunumo	NOUN	_	Case=Nom|Number=Sing	63	nmod	_	_
 68	tute	tute	ADV	_	_	69	advmod	_	_
@@ -3455,7 +3455,7 @@
 99	.	.	PUNCT	_	_	98	punct	_	SpaceAfter=No
 100	;	_	PUNCT	_	_	106	punct	_	_
 101	ĝis	ĝis	ADP	_	_	103	case	_	_
-102	tiu	tiu	DET	_	Case=Nom|Number=Sing|Prontype=Dem	103	det	_	_
+102	tiu	tiu	DET	_	Case=Nom|Number=Sing|PronType=Dem	103	det	_	_
 103	tempo	tempo	NOUN	_	Case=Nom|Number=Sing	106	nmod	_	_
 104	mi	mi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	106	nsubj	_	_
 105	povas	povi	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	106	aux	_	_
@@ -3463,7 +3463,7 @@
 107	oficiale	oficiale	ADV	_	_	108	advmod	_	_
 108	alskribita	alskribita	VERB	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	106	xcomp	_	_
 109	al	al	ADP	_	_	111	case	_	_
-110	tiu	tiu	DET	_	Case=Nom|Number=Sing|Prontype=Dem	111	det	_	_
+110	tiu	tiu	DET	_	Case=Nom|Number=Sing|PronType=Dem	111	det	_	_
 111	religio	religio	NOUN	_	Case=Nom|Number=Sing	108	nmod	_	SpaceAfter=No
 112	,	,	PUNCT	_	_	116	punct	_	_
 113	en	en	ADP	_	_	114	case	_	_
