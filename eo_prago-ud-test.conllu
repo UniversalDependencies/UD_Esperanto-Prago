@@ -3035,7 +3035,7 @@
 23	.	.	PUNCT	_	_	9	punct	_	_
 
 # sent_id = DpH-020-004
-# text = a) La plej altan por mi ne kompreneblan Forton, kiu estas la kaŭzo de la kaŭzoj en la mondo materia kaj morala, mi povas nomi per la nomo « Dio » aŭ per alia nomo , sed mi konscias , ke la esencon de tiu Forto ĉiu havas la rajton prezenti al si tiel , kiel diktas al li lia prudento kaj koro aŭ la instruoj de lia eklezio .
+# text = a) La plej altan por mi ne kompreneblan Forton, kiu estas la kaŭzo de la kaŭzoj en la mondo materia kaj morala, mi povas nomi per la nomo «Dio» aŭ per alia nomo , sed mi konscias , ke la esencon de tiu Forto ĉiu havas la rajton prezenti al si tiel , kiel diktas al li lia prudento kaj koro aŭ la instruoj de lia eklezio .
 # text_en = a) I can call the highest Force, which is incomprehensible to me, which is the cause of causes in the material and moral world, by the name "God" or by another name, but I am aware that everyone has the right to present the essence of that Force to himself in the way his reason and heart or the teachings of his church dictate to him.
 1	a	a	ADV	_	_	28	advmod	_	SpaceAfter=No
 2	)	)	PUNCT	_	_	28	punct	_	_
