@@ -3044,8 +3044,8 @@
 5	altan	alta	ADJ	_	Case=Acc|Degree=Poss|Number=Sing	10	amod	_	_
 6	por	por	ADP	_	_	7	case	_	_
 7	mi	mi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nmod	_	_
-8	ne	ne	ADV	_	_	9	_	_	_
-9	kompreneblan	komprenebla	ADJ	_	Case=Acc|Degree=Poss|Number=Sing	10	amod	_	_
+8	ne	ne	ADV	_	_	9	advmod	_	_
+9	kompreneblan	komprenebla	ADJ	_	Case=Acc|Degree=Pos|Number=Sing	10	amod	_	_
 10	Forton	forto	NOUN	_	Case=Acc|Number=Sing	28	obj	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	15	punct	_	_
 12	kiu	kiu	PRON	_	Case=Nom|Number=Sing|PronType=Rel	15	nsubj	_	_
@@ -3058,9 +3058,9 @@
 19	en	en	ADP	_	_	21	case	_	_
 20	la	la	DET	_	Definite=Def	21	det	_	_
 21	mondo	mondo	NOUN	_	Case=Nom|Number=Sing	18	nmod	_	_
-22	materia	materia	ADJ	_	Case=Nom|Degree=Poss|Number=Sing	21	amod	_	_
+22	materia	materia	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	21	amod	_	_
 23	kaj	kaj	CCONJ	_	_	24	cc	_	_
-24	morala	morala	ADJ	_	Case=Nom|Degree=Poss|Number=Sing	22	conj	_	SpaceAfter=No
+24	morala	morala	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	22	conj	_	SpaceAfter=No
 25	,	,	PUNCT	_	_	28	punct	_	_
 26	mi	mi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	28	nsubj	_	_
 27	povas	povi	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	28	aux	_	_
@@ -3073,7 +3073,7 @@
 34	»	»	PUNCT	_	_	33	punct	_	_
 35	aŭ	aŭ	CCONJ	_	_	38	cc	_	_
 36	per	per	ADP	_	_	38	case	_	_
-37	alia	alia	ADJ	_	Case=Nom|Degree=Poss|Number=Sing	38	amod	_	_
+37	alia	alia	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	38	amod	_	_
 38	nomo	nomo	NOUN	_	Case=Nom|Number=Sing	31	conj	_	SpaceAfter=No
 39	,	,	PUNCT	_	_	42	punct	_	_
 40	sed	sed	SCONJ	_	_	42	mark	_	_
@@ -3084,7 +3084,7 @@
 45	la	la	DET	_	Definite=Def	46	det	_	_
 46	esencon	esenco	NOUN	_	Case=Acc|Number=Sing	54	obj	_	_
 47	de	de	ADP	_	_	49	case	_	_
-48	tiu	tiu	DET	_	Case=Nom|Number=Sing|Prontype=Dem	49	det	_	_
+48	tiu	tiu	DET	_	Case=Nom|Number=Sing|PronType=Dem	49	det	_	_
 49	Forto	forto	NOUN	_	Case=Nom|Number=Sing	46	nmod	_	_
 50	ĉiu	ĉiu	PRON	_	Case=Nom|Number=Sing|PronType=Tot	51	nsubj	_	_
 51	havas	havi	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	42	ccomp	_	_
