@@ -3352,7 +3352,7 @@
 83	.	.	PUNCT	_	_	17	punct	_	_
 
 # sent_id = DpH-020-008
-# text = Kiam en mia loĝloko ekzistos komuninterkonsente aranĝita, plenforme organizita sengenta kaj sendoktrina komunumo de liberkredanoj, al kiu mi povos aliĝi kun plena kontenteco por mia konscienco kaj por la bezonoj de mia koro, tiam — por fiksi fortike kaj precize mian religian neŭtralecon kaj savi mian posteularon kontraŭ senprogrameco kaj konsekvence kontraŭ refalo en gente-religian ŝovinismon — mi devas aliĝi al tiu liberkreda komunumo tute oficiale kaj heredigeble kaj akcepti por mi ĝian neŭtralan nomon, ĝiajn komunumajn aranĝojn, ĝiajn nedevigajn neŭtrale-homajn festojn kaj morojn, ĝian neŭtrale-homan kalendaron k. t. p.; ĝis tiu tempo mi povas resti oficiale alskribita al tiu religio, en kiu mi naskiĝis, sed mi devas ĉiam aldoni al ĝia nomo la vorton «liberkreda», por montri, ke mi alkalkulas min al ĝi nur provizore, laŭmore kaj administre.
+# text = Kiam en mia loĝloko ekzistos komuninterkonsente aranĝita, plenforme organizita sengenta kaj sendoktrina komunumo de liberkredanoj, al kiu mi povos aliĝi kun plena kontenteco por mia konscienco kaj por la bezonoj de mia koro, tiam—por fiksi fortike kaj precize mian religian neŭtralecon kaj savi mian posteularon kontraŭ senprogrameco kaj konsekvence kontraŭ refalo en gente-religian ŝovinismon—mi devas aliĝi al tiu liberkreda komunumo tute oficiale kaj heredigeble kaj akcepti por mi ĝian neŭtralan nomon, ĝiajn komunumajn aranĝojn, ĝiajn nedevigajn neŭtrale-homajn festojn kaj morojn, ĝian neŭtrale-homan kalendaron k. t. p.; ĝis tiu tempo mi povas resti oficiale alskribita al tiu religio, en kiu mi naskiĝis, sed mi devas ĉiam aldoni al ĝia nomo la vorton «liberkreda», por montri, ke mi alkalkulas min al ĝi nur provizore, laŭmore kaj administre.
 # text_en = When in my place of residence there exists a community-agreed, fully organized, non-denominational and non-religious community of free believers, to which I can join with complete satisfaction for my conscience and for the needs of my heart, then - in order to firmly and precisely establish my religious neutrality and save my posterity from lack of a program and consequently from a relapse into gentile-religious chauvinism - I must join this free-believer community completely officially and hereditarily and accept for myself its neutral name, its communal arrangements, its optional neutral-human festivals and customs, its neutral-human calendar, etc.; until then I can remain officially enrolled in the religion into which I was born, but I must always add the word "free-believer" to its name, to show that I am only temporarily, morally and administratively considered to be part of it.
 1	Kiam	kiam	ADV	_	_	5	advmod	_	_
 2	en	en	ADP	_	_	4	case	_	_
@@ -3655,8 +3655,8 @@
 6	:	:	PUNCT	_	_	3	punct	_	_
 
 # sent_id = DpH-021-016
-# text = d) strato kaj domo :
-# text_en = d) street and house
+# text = d) strato kaj domo:
+# text_en = d) street and house:
 1	d	d	ADV	_	_	3	advmod	_	SpaceAfter=No
 2	)	)	PUNCT	_	_	3	punct	_	_
 3	strato	strato	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
