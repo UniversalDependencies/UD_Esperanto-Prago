@@ -3008,7 +3008,7 @@
 39	.	.	PUNCT	_	_	24	punct	_	_
 
 # sent_id = DpH-020-003
-# text = Sed kia ajn estas mia religio, mi konfesas ĝin laŭ la neŭtrale-homaj principoj « homaranaj » , kiuj konsistas en jeno .
+# text = Sed kia ajn estas mia religio, mi konfesas ĝin laŭ la neŭtrale-homaj principoj «homaranaj» , kiuj konsistas en jeno .
 # text_en = But whatever my religion is, I profess it according to the neutral-human principles of "Homaranism", which consist of the following:
 1	Sed	sed	SCONJ	_	_	9	mark	_	_
 2	kia	kia	ADJ	_	Case=Nom|ExtPos=SCONJ|Number=Sing|PronType=Rel	9	mark	_	_
