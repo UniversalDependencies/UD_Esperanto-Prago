@@ -3229,7 +3229,7 @@
 88	aŭ	aŭ	CCONJ	_	_	90	cc	_	_
 89	kiel	kiel	VERB	_	_	90	_	_	_
 90	komentariojn	komentario	NOUN	_	Case=Acc|Number=Plur	84	conj	_	SpaceAfter=No
-91	,	,	PUNCT	_	_	_	_	_	_
+91	,	,	PUNCT	_	_	96	punct	_	_
 92	kiujn	kiu	PRON	_	Case=Acc|Number=Plur|PronType=Rel	96	obj	_	_
 93	miksite	miksi	VERB	_	Tense=Past|VerbForm=Part|Voice=Pass	96	advmod	_	_
 94	kun	kun	ADP	_	_	95	case	_	_
