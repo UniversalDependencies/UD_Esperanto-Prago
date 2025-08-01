@@ -3619,7 +3619,7 @@
 6	:	:	PUNCT	_	_	3	punct	_	_
 
 # sent_id = DpH-021-012
-# text = 6. Mia hejmo estas: 
+# text = 6. Mia hejmo estas:
 # text_en = 6. My home is:
 1	6	6	NUM	_	_	5	nummod	_	SpaceAfter=No
 2	.	.	PUNCT	_	_	5	punct	_	_
