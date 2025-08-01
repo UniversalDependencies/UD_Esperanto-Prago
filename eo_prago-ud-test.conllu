@@ -3265,7 +3265,7 @@
 124	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = DpH-020-007
-# text = c) Se mi kredas je neniu el la ekzistantaj revelaciaj religioj, mi ne devas resti en iu en ili sole pro motivoj gentaj kaj per mia restado erarigi la homojn pri miaj konvinkoj kaj herede nutri por senfinaj generacioj intergentan disecon, sed mi devas—se la leĝoj de mia lando tion permesas—malkaŝe kaj oficiale nomi min « liberkreda », ne identigante tamen la liberkredon speciale kun ateismo, sed rezervante al mia kredado plenan liberecon.
+# text = c) Se mi kredas je neniu el la ekzistantaj revelaciaj religioj, mi ne devas resti en iu en ili sole pro motivoj gentaj kaj per mia restado erarigi la homojn pri miaj konvinkoj kaj herede nutri por senfinaj generacioj intergentan disecon, sed mi devas—se la leĝoj de mia lando tion permesas—malkaŝe kaj oficiale nomi min «liberkreda», ne identigante tamen la liberkredon speciale kun ateismo, sed rezervante al mia kredado plenan liberecon.
 # text_en = c) If I believe in none of the existing revealed religions, I must not remain in any of them solely for racial reasons and by my remaining there mislead people about my convictions and hereditaryly foster inter-racial discord for endless generations, but I must - if the laws of my country allow it - openly and officially call myself "free-believer", not however identifying free-believer specifically with atheism, but reserving complete freedom for my belief.
 1	c	c	ADV	_	_	5	advmod	_	SpaceAfter=No
 2	)	)	PUNCT	_	_	5	punct	_	_
