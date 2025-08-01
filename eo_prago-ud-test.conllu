@@ -3674,7 +3674,7 @@
 5	de	de	ADP	_	_	8	case	_	_
 6	mia	mia	PRON	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	8	nmod:poss	_	_
 7	supozata	supozi	VERB	_	Case=Nom|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	8	amod	_	_
-8	deveno	deveno	NOUN	_	Case=Nom|Number=Sing	4	nmod	_	_	
+8	deveno	deveno	NOUN	_	Case=Nom|Number=Sing	4	nmod	_	_
 9	estas	esti	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
 10	:	:	PUNCT	_	_	9	punct	_	_
 
