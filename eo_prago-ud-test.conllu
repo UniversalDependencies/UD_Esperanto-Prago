@@ -3539,7 +3539,7 @@
 # sent_id = DpH-021-004
 # text = 1. Mia nomo familia estas:
 # text_en = 1. My family name is:
-1	1	1	NUM	_	_	6	advmod	_	SpaceAfter=No
+1	1	1	NUM	_	_	6	nummod	_	SpaceAfter=No
 2	.	.	PUNCT	_	_	6	punct	_	_
 3	Mia	mia	PRON	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	_	_
 4	nomo	nomo	NOUN	_	Case=Nom|Number=Sing	6	nsubj	_	_
@@ -3550,7 +3550,7 @@
 # sent_id = DpH-021-005
 # text = 2. Mia nomo persona estas:
 # text_en = 2. My first name is:
-1	2	2	NUM	_	_	6	advmod	_	SpaceAfter=No
+1	2	2	NUM	_	_	6	nummod	_	SpaceAfter=No
 2	.	.	PUNCT	_	_	6	punct	_	_
 3	Mia	mia	PRON	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	_	_
 4	nomo	nomo	NOUN	_	Case=Nom|Number=Sing	6	nsubj	_	_
@@ -3561,7 +3561,7 @@
 # sent_id = DpH-021-005
 # text = 3. Mi naskiĝis en la jaro:
 # text_en = 3. I was born in the year:
-1	3	3	NUM	_	_	4	advmod	_	SpaceAfter=No
+1	3	3	NUM	_	_	4	nummod	_	SpaceAfter=No
 2	.	.	PUNCT	_	_	4	punct	_	_
 3	Mi	mi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
 4	naskiĝis	naskiĝi	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -3573,7 +3573,7 @@
 # sent_id = DpH-021-006
 # text = 4. Laŭ mia profesio mi estas:
 # text_ = 4. According to my profession I am:
-1	4	4	NUM	_	_	7	advmod	_	SpaceAfter=No
+1	4	4	NUM	_	_	7	nummod	_	SpaceAfter=No
 2	.	.	PUNCT	_	_	7	punct	_	_
 3	Laŭ	laŭ	ADP	_	_	5	case	_	_
 4	mia	mia	PRON	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	_	_
@@ -3585,7 +3585,7 @@
 # sent_id = DpH-021-007
 # text = 5. Mia patrujo estas:
 # text_en = 5. My homeland is:
-1	5	5	NUM	_	_	5	advmod	_	SpaceAfter=No
+1	5	5	NUM	_	_	5	nummod	_	SpaceAfter=No
 2	.	.	PUNCT	_	_	5	punct	_	_
 3	Mia	mia	PRON	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	_	_
 4	patrujo	patrujo	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	_
@@ -3621,7 +3621,7 @@
 # sent_id = DpH-021-011
 # text = 6. Mia hejmo estas: 
 # text_en = 6. My home is:
-1	6	6	NUM	_	_	5	advmod	_	SpaceAfter=No
+1	6	6	NUM	_	_	5	nummod	_	SpaceAfter=No
 2	.	.	PUNCT	_	_	5	punct	_	_
 3	Mia	mia	PRON	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	_	_
 4	hejmo	hejmo	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	_
@@ -3667,7 +3667,7 @@
 # sent_id = DpH-021-016
 # text = 7. La gento de mia supozata deveno estas:
 # text_en = 7. The people of my alleged descent are:
-1	7	7	NUM	_	_	9	advmod	_	SpaceAfter=No
+1	7	7	NUM	_	_	9	nummod	_	SpaceAfter=No
 2	.	.	PUNCT	_	_	9	punct	_	_
 3	La	la	DET	_	Definite=Def	4	det	_	_
 4	gento	gento	NOUN	_	Case=Nom|Number=Sing	9	nsubj	_	_
@@ -3681,7 +3681,7 @@
 # sent_id = DpH-021-017
 # text = 8. Mia lingvo gepatra estas:
 # text_en = 8. My native language is:
-1	8	8	NUM	_	_	6	advmod	_	SpaceAfter=No
+1	8	8	NUM	_	_	6	nummod	_	SpaceAfter=No
 2	.	.	PUNCT	_	_	6	punct	_	_
 3	Mia	mia	PRON	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	_	_
 4	lingvo	lingvo	NOUN	_	Case=Nom|Number=Sing	6	nsubj	_	_
@@ -3693,7 +3693,7 @@
 # sent_id = DpH-021-018
 # text = 9. Mia lingvo persona estas:
 # text_en = 9. My personal language is:
-1	9	9	NUM	_	_	6	advmod	_	SpaceAfter=No
+1	9	9	NUM	_	_	6	nummod	_	SpaceAfter=No
 2	.	.	PUNCT	_	_	6	punct	_	_
 3	Mia	mia	PRON	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	_	_
 4	lingvo	lingvo	NOUN	_	Case=Nom|Number=Sing	6	nsubj	_	_
@@ -3710,3 +3710,4 @@
 4	religio	religio	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	_
 5	estas	esti	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 6	:	:	PUNCT	_	_	5	punct	_	_
+
