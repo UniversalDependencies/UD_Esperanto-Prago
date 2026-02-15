@@ -244,7 +244,7 @@
 24	.	.	PUNCT	_	_	14	punct	_	_
 
 # sent_id = prago-009
-# text = Ni asertas ke lingva malegaleco sekvigas komunikan malegalecon je ĉiuj niveloj, inkluzive de la internacia nivelo.
+# text = Ni asertas, ke lingva malegaleco sekvigas komunikan malegalecon je ĉiuj niveloj, inkluzive de la internacia nivelo.
 # text_en = We maintain that language inequality gives rise to communicative inequality at all levels, including the international level.
 1	Ni	ni	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
 2	asertas	aserti	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
