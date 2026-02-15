@@ -1806,7 +1806,7 @@
 45	kaj	kaj	CCONJ	_	_	49	cc	_	_
 46	kies	kies	PRON	_	Poss=Yes|PronType=Rel	47	nmod:poss	_	_
 47	malaperon	malapero	NOUN	_	Case=Acc|Number=Sing	49	obj	_	_
-48	mi	mi	PRON	_	Case=Nom|Number=Sing|Person=1	49	nsubj	_	_
+48	mi	mi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	49	nsubj	_	_
 49	devas	devi	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	43	conj	_	_
 50	akceladi	akceladi	VERB	_	VerbForm=Inf	49	xcomp	_	_
 51	laŭ	laŭ	ADP	_	_	53	case	_	_
@@ -1833,7 +1833,7 @@
 7	homon	homo	NOUN	_	Case=Acc|Number=Sing	2	obj	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	11	punct	_	_
 9	kaj	kaj	CCONJ	_	_	11	cc	_	_
-10	mi	mi	PRON	_	Case=Nom|Number=Sing|Person=1	11	nsubj	_	_
+10	mi	mi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	_
 11	taksas	taksi	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	2	conj	_	_
 12	ĉiun	ĉiu	DET	_	Case=Acc|Number=Sing|PronType=Tot	13	det	_	_
 13	homon	homo	NOUN	_	Case=Acc|Number=Sing	11	obj	_	_
@@ -1856,10 +1856,10 @@
 5	de	de	ADP	_	_	6	case	_	_
 6	homo	homo	NOUN	_	Case=Nom|Number=Sing	2	nmod	_	_
 7	pro	pro	ADP	_	_	8	case	_	_
-8	tio	tio	PRON	_	Case=Nom|Number=Sing	2	nmod	_	SpaceAfter=No
+8	tio	tio	PRON	_	Case=Nom|Number=Sing|PronType=Dem	2	nmod	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	12	punct	_	_
 10	ke	ke	SCONJ	_	_	12	mark	_	_
-11	li	li	PRON	_	Case=Nom|Number=Sing|Person=3	12	nsubj	_	_
+11	li	li	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
 12	apartenas	aparteni	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	8	ccomp	_	_
 13	al	al	ADP	_	_	15	case	_	_
 14	alia	alia	ADJ	_	Case=Nom|Number=Sing	15	amod	_	_
@@ -1875,9 +1875,9 @@
 24	socia	socia	ADJ	_	Case=Nom|Number=Sing	25	amod	_	_
 25	klaso	klaso	NOUN	_	Case=Nom|Number=Sing	21	conj	_	_
 26	ol	ol	ADP	_	_	27	case	_	_
-27	mi	mi	PRON	_	Case=Nom|Number=Sing|Person=1	15	nmod	_	SpaceAfter=No
+27	mi	mi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	nmod	_	SpaceAfter=No
 28	,	,	PUNCT	_	_	30	punct	_	_
-29	mi	mi	PRON	_	Case=Nom|Number=Sing|Person=1	30	nsubj	_	_
+29	mi	mi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	30	nsubj	_	_
 30	rigardas	rigardi	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
 31	kiel	kiel	ADP	_	_	32	case	_	_
 32	barbarecon	barbareco	NOUN	_	Case=Acc|Number=Sing	30	obl	_	SpaceAfter=No
@@ -1954,7 +1954,7 @@
 59	historiaj	historia	ADJ	_	Case=Nom|Number=Plur	60	amod	_	_
 60	rajtoj	rajto	NOUN	_	Case=Nom|Number=Plur	56	nmod	_	SpaceAfter=No
 61	,	,	PUNCT	_	_	63	punct	_	_
-62	kiuj	kiu	PRON	_	Case=Nom|Number=Plur	63	nsubj	_	_
+62	kiuj	kiu	PRON	_	Case=Nom|Number=Plur|PronType=Rel	63	nsubj	_	_
 63	permesas	permesi	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	60	acl	_	_
 64	al	al	ADP	_	_	66	case	_	_
 65	unu	unu	NUM	_	NumType=Card	66	nummod	_	_
@@ -1981,7 +1981,7 @@
 86	la	la	DET	_	Definite=Def|PronType=Art	87	det	_	_
 87	patrujo	patrujo	NOUN	_	Case=Nom|Number=Sing	84	nmod	_	SpaceAfter=No
 88	,	,	PUNCT	_	_	90	punct	_	_
-89	mi	mi	PRON	_	Case=Nom|Number=Sing|Person=1	90	nsubj	_	_
+89	mi	mi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	90	nsubj	_	_
 90	rigardas	rigardi	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	2	parataxis	_	_
 91	kiel	kiel	ADP	_	_	92	case	_	_
 92	restaĵon	restaĵo	NOUN	_	Case=Acc|Number=Sing	90	obl	_	_
@@ -2041,7 +2041,7 @@
 29	gentaj	genta	ADJ	_	Case=Nom|Number=Plur	30	amod	_	_
 30	nomoj	nomo	NOUN	_	Case=Nom|Number=Plur	45	nsubj	_	SpaceAfter=No
 31	,	,	PUNCT	_	_	33	punct	_	_
-32	kiujn	kiu	PRON	_	Case=Acc|Number=Plur	33	obj	_	Rel=Yes
+32	kiujn	kiu	PRON	_	Case=Acc|Number=Plur|PronType=Rel	33	obj	_	Rel=Yes
 33	portas	porti	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	30	acl:relcl	_	_
 34	ankoraŭ	ankoraŭ	ADV	_	_	33	advmod	_	_
 35	multaj	multa	ADJ	_	Case=Nom|Number=Plur	36	amod	_	_
