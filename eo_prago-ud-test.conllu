@@ -248,22 +248,23 @@
 # text_en = We maintain that language inequality gives rise to communicative inequality at all levels, including the international level.
 1	Ni	ni	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
 2	asertas	aserti	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	ke	ke	SCONJ	_	_	6	mark	_	_
-4	lingva	lingva	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	5	amod	_	_
-5	malegaleco	malegaleco	NOUN	_	Case=Nom|Number=Sing	6	nsubj	_	_
-6	sekvigas	sekvigi	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
-7	komunikan	komunika	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	8	amod	_	_
-8	malegalecon	malegaleco	NOUN	_	Case=Acc|Number=Sing	6	obj	_	_
-9	je	je	ADP	_	_	11	case	_	_
-10	ĉiuj	ĉiu	DET	_	Case=Nom|Number=Plur|PronType=Tot	11	det	_	_
-11	niveloj	nivelo	NOUN	_	Case=Nom|Number=Plur	8	nmod	_	SpaceAfter=No
-12	,	,	PUNCT	_	_	13	punct	_	_
-13	inkluzive	inkluzive	ADV	_	_	11	advmod	_	_
-14	de	de	ADP	_	_	17	case	_	_
-15	la	la	DET	_	Definite=Def|PronType=Art	17	det	_	_
-16	internacia	internacia	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	17	amod	_	_
-17	nivelo	nivelo	NOUN	_	Case=Nom|Number=Sing	13	nmod	_	SpaceAfter=No
-18	.	.	PUNCT	_	_	2	punct	_	_
+3 , , PUNCT	_	_	6	punct	_	_ 
+4	ke	ke	SCONJ	_	_	6	mark	_	_
+5	lingva	lingva	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	6	amod	_	_
+6	malegaleco	malegaleco	NOUN	_	Case=Nom|Number=Sing	7	nsubj	_	_
+7	sekvigas	sekvigi	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+8	komunikan	komunika	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	9	amod	_	_
+9	malegalecon	malegaleco	NOUN	_	Case=Acc|Number=Sing	7	obj	_	_
+10	je	je	ADP	_	_	11	case	_	_
+11	ĉiuj	ĉiu	DET	_	Case=Nom|Number=Plur|PronType=Tot	12	det	_	_
+12	niveloj	nivelo	NOUN	_	Case=Nom|Number=Plur	9	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	inkluzive	inkluzive	ADV	_	_	12	advmod	_	_
+15	de	de	ADP	_	_	18	case	_	_
+16	la	la	DET	_	Definite=Def|PronType=Art	18	det	_	_
+17	internacia	internacia	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	18	amod	_	_
+18	nivelo	nivelo	NOUN	_	Case=Nom|Number=Sing	14	nmod	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = prago-010
 # text = Ni estas movado por demokratia komunikado.
