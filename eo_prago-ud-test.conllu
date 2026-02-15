@@ -247,7 +247,7 @@
 # text = Ni asertas, ke lingva malegaleco sekvigas komunikan malegalecon je ĉiuj niveloj, inkluzive de la internacia nivelo.
 # text_en = We maintain that language inequality gives rise to communicative inequality at all levels, including the international level.
 1	Ni	ni	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
-2	asertas	aserti	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	asertas	aserti	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	6	punct	_	_
 4	ke	ke	SCONJ	_	_	6	mark	_	_
 5	lingva	lingva	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	6	amod	_	_
