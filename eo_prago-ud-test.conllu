@@ -1782,7 +1782,7 @@
 21	diversajn	diversa	ADJ	_	Case=Acc|Number=Plur	24	amod	_	_
 22	reciproke	reciproke	ADV	_	_	23	advmod	_	_
 23	malamikajn	malamika	ADJ	_	Case=Acc|Number=Plur	24	amod	_	_
-24	gentojn	gento	NOUN	_	Case=Acc|Number=Plur	16	obl	_	_
+24	gentojn	gento	NOUN	_	Case=Acc|Number=Plur	16	nmod	_	_
 25	kaj	kaj	CCONJ	_	_	24	cc	_	_
 26	gentreligiajn	gentreligia	ADJ	_	Case=Acc|Number=Plur	27	amod	_	_
 27	komunumojn	komunumo	NOUN	_	Case=Acc|Number=Plur	24	conj	_	_
