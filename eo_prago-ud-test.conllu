@@ -1445,7 +1445,7 @@
 28	lingva	lingva	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	29	amod	_	_
 29	fundamento	fundamento	NOUN	_	Case=Nom|Number=Sing	25	nmod	_	_
 30	kaj	kaj	CCONJ	_	_	34	cc	_	_
-31	kiujn	kiu	PRON	_	Case=Acc|Number=Plur|PronType=Rel	34	obj	_	_
+31	kiujn	kiu	PRON	_	Case=Acc|Number=Plur|PronType=Rel	34	iobj	_	_
 32	ĉiu	ĉiu	DET	_	Case=Nom|Number=Sing|PronType=Tot	33	det	_	_
 33	esperantisto	esperantisto	NOUN	_	Case=Nom|Number=Sing	34	nsubj	_	_
 34	havas	havi	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	23	conj	_	_
