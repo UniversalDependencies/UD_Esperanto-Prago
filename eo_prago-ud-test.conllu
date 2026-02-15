@@ -3032,7 +3032,7 @@
 11	laŭ	laŭ	ADP	_	_	14	case	_	_
 12	la	la	DET	_	Definite=Def|PronType=Art	14	det	_	_
 13	neŭtrale-homaj	neŭtrale-homa	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	14	amod	_	_
-14	principoj	principo	NOUN	_	Case=Nom|Number=Plur	9	obj	_	_
+14	principoj	principo	NOUN	_	Case=Nom|Number=Plur	9	nmod	_	_
 15	«	«	PUNCT	_	_	16	punct	_	SpaceAfter=No
 16	homaranaj	homarana	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	14	amod	_	SpaceAfter=No
 17	»	»	PUNCT	_	_	16	punct	_	SpaceAfter=No
@@ -3213,7 +3213,7 @@
 63	kiel	kiel	ADV	_	_	64	case	_	_
 64	aldonojn	aldono	NOUN	_	Case=Acc|Number=Plur	62	obl	_	SpaceAfter=No
 65	,	,	PUNCT	_	_	75	punct	_	_
-66	kiujn	kiu	PRON	_	Case=Acc|Number=Plur|PronType=Rel	75	obj	_	_
+66	kiujn	kiu	PRON	_	Case=Acc|Number=Plur|PronType=Rel	75	iobj	_	_
 67	ĉiu	ĉiu	DET	_	Case=Nom|Number=Sing|PronType=Tot	68	det	_	_
 68	homo	homo	NOUN	_	Case=Nom|Number=Sing	75	nsubj	_	SpaceAfter=No
 69	,	,	PUNCT	_	_	70	punct	_	_
