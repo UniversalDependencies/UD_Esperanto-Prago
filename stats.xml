@@ -5,10 +5,10 @@
        fused is the number of tokens that are split to two or more syntactic words
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
-    <total><sentences>131</sentences><tokens>3165</tokens><words>3165</words><fused>0</fused></total>
+    <total><sentences>131</sentences><tokens>3166</tokens><words>3166</words><fused>0</fused></total>
     <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
-    <test><sentences>131</sentences><tokens>3165</tokens><words>3165</words><fused>0</fused></test>
+    <test><sentences>131</sentences><tokens>3166</tokens><words>3166</words><fused>0</fused></test>
   </size>
   <lemmas unique="803" /><!-- ,, la, ., de, kaj, mi, esti, lingvo, al, por, en, ke, mia, aŭ, kiu -->
   <forms unique="995" /><!-- ,, la, ., de, kaj, mi, estas, al, en, por, ke, aŭ, mia, kiel, « -->
@@ -26,15 +26,15 @@
     <tag name="PART">12</tag><!-- ajn, ĉi, du-, ne -->
     <tag name="PRON">291</tag><!-- mi, mia, kiu, ni, ĝi, tio, ili, si, sia, li -->
     <tag name="PROPN">27</tag><!-- Esperanto, Homaranismo, Varsovio, Zamenhof, Lazaro, Ludoviko, Pollando, Prago, Ruslando -->
-    <tag name="PUNCT">453</tag><!-- ,, ., «, », :, ), ;, -, (, _ -->
+    <tag name="PUNCT">454</tag><!-- ,, ., «, », :, ), ;, -, (, _ -->
     <tag name="SCONJ">74</tag><!-- ke, sed, ĉar, kaj, se, kiam, Kvankam, aŭ, dum, nek -->
     <tag name="VERB">276</tag><!-- konscii, nomi, esti, havi, rigardi, aserti, doni, prezenti, uzi, akcepti -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="39">
     <feat name="Case" value="Acc" upos="ADJ,DET,NOUN,PRON,PROPN,VERB">295</feat><!-- lingvon, mian, min, tiun, kiujn, rajton, ĝin, rolon, kiun, kredon -->
-    <feat name="Case" value="Nom" upos="ADJ,DET,NOUN,PRON,PROPN,VERB">1046</feat><!-- mi, mia, lingvo, kiu, ni, ĉiu, Esperanto, lingva, lingvoj, ĉiuj -->
-    <feat name="Definite" value="Def" upos="DET">180</feat><!-- la -->
+    <feat name="Case" value="Nom" upos="ADJ,DET,NOUN,PRON,PROPN,VERB">1047</feat><!-- mi, mia, lingvo, kiu, ni, ĉiu, Esperanto, lingva, lingvoj, ĉiuj -->
+    <feat name="Definite" value="Def" upos="DET">181</feat><!-- la -->
     <feat name="Definite" value="Ind" upos="DET">2</feat><!-- iu, kelkaj -->
     <feat name="Degree" value="Pos" upos="ADJ">237</feat><!-- lingva, lingvaj, aliaj, grandaj, persona, gepatra, hejma, homa, internacia, konstanta -->
     <feat name="ExtPos" value="ADP" upos="PRON">2</feat><!-- kian -->
@@ -44,7 +44,7 @@
     <feat name="Mood" value="Ind" upos="AUX,VERB">213</feat><!-- estas, devas, konscias, asertas, havas, nomas, rigardas, povas, estos, demandas -->
     <feat name="Mood" value="Sub" upos="AUX,VERB">11</feat><!-- estus, altrudu, amus, bezonu, devus, dezirus, havu, investu, povu, profitus -->
     <feat name="Number" value="Plur" upos="ADJ,ADV,DET,NOUN,PRON,VERB">347</feat><!-- ni, ĉiuj, lingvoj, miaj, homoj, ili, aliaj, kiuj, kiujn, Homaranoj -->
-    <feat name="Number" value="Sing" upos="ADJ,DET,NOUN,PRON,PROPN,VERB">998</feat><!-- mi, mia, lingvo, kiu, ĉiu, Esperanto, lingvon, mian, lingva, min -->
+    <feat name="Number" value="Sing" upos="ADJ,DET,NOUN,PRON,PROPN,VERB">999</feat><!-- mi, mia, lingvo, kiu, ĉiu, Esperanto, lingvon, mian, lingva, min -->
     <feat name="Number[psor]" value="Plur" upos="PRON">3</feat><!-- nia, nian -->
     <feat name="Number[psor]" value="Sing" upos="DET,PRON">71</feat><!-- mia, mian, miaj, lia, sia, ĝia, ĝiajn, ĝian, iliaj, lian -->
     <feat name="NumForm" value="Word" upos="ADV,NUM">3</feat><!-- unu, unuj -->
@@ -53,14 +53,14 @@
     <feat name="Person" value="2" upos="PRON">2</feat><!-- vi -->
     <feat name="Person" value="3" upos="DET,PRON">54</feat><!-- ili, oni, ĝin, li, ĝi, lia, sia, ilin, ĝia, ĝiajn -->
     <feat name="Poss" value="Yes" upos="ADJ,DET,PRON">78</feat><!-- mia, mian, miaj, kies, lia, sia, nia, ĝia, ĝiajn, ĝian -->
-    <feat name="PronType" value="Art" upos="DET,PRON">61</feat><!-- la, iu, iujn, iun, kelkaj -->
-    <feat name="PronType" value="Dem" upos="ADJ,DET,PRON">38</feat><!-- tiun, tio, tiu, tiuj, alia, tiujn, Tia -->
+    <feat name="PronType" value="Art" upos="DET,PRON">186</feat><!-- la, iu, iujn, iun, kelkaj -->
+    <feat name="PronType" value="Dem" upos="ADJ,DET,PRON">43</feat><!-- tiun, tio, tiu, alia, tiuj, tiujn, Tia, tion, unu -->
     <feat name="PronType" value="Emp" upos="PRON">1</feat><!-- tiom -->
     <feat name="PronType" value="Ind" upos="DET">3</feat><!-- ia, iaj -->
     <feat name="PronType" value="Neg" upos="PRON">1</feat><!-- neniu -->
-    <feat name="PronType" value="Prs" upos="DET,PRON">217</feat><!-- mi, mia, ni, mian, min, ili, miaj, si, oni, ĝin -->
-    <feat name="PronType" value="Rel" upos="ADJ,PRON">38</feat><!-- kiu, kiuj, kiujn, kies, kiun, kia, kian -->
-    <feat name="PronType" value="Tot" upos="DET,PRON">36</feat><!-- ĉiu, ĉiuj, ĉiun, ĉia, ĉian, ĉion, ĉiujn -->
+    <feat name="PronType" value="Prs" upos="DET,PRON">227</feat><!-- mi, mia, ni, mian, min, ili, miaj, si, oni, ĝin -->
+    <feat name="PronType" value="Rel" upos="ADJ,PRON">45</feat><!-- kiu, kiuj, kiujn, kies, kiun, kia, kian -->
+    <feat name="PronType" value="Tot" upos="DET,PRON">37</feat><!-- ĉiu, ĉiuj, ĉiun, ĉia, ĉian, ĉion, ĉiujn -->
     <feat name="Reflex" value="Yes" upos="DET,PRON">16</feat><!-- si, sia, siajn, siaj, sian -->
     <feat name="Tense" value="Fut" upos="AUX,VERB">18</feat><!-- estos, prezentos, alkutimiĝos, ekzistos, havis, identigos, montriĝos, pasos, povos, realigos -->
     <feat name="Tense" value="Past" upos="VERB">26</feat><!-- naskiĝis, aranĝita, ligita, Lanĉita, Planita, alskribita, difinita, donis, ekzistantaj, esprimitaj -->
@@ -93,17 +93,17 @@
     <dep name="det">249</dep>
     <dep name="discourse">2</dep>
     <dep name="fixed">5</dep>
-    <dep name="iobj">2</dep>
+    <dep name="iobj">4</dep>
     <dep name="mark">84</dep>
-    <dep name="nmod">294</dep>
+    <dep name="nmod">296</dep>
     <dep name="nmod:poss">76</dep>
     <dep name="nsubj">221</dep>
     <dep name="nsubj:pass">2</dep>
     <dep name="nummod">15</dep>
-    <dep name="obj">146</dep>
-    <dep name="obl">80</dep>
+    <dep name="obj">143</dep>
+    <dep name="obl">79</dep>
     <dep name="parataxis">8</dep>
-    <dep name="punct">453</dep>
+    <dep name="punct">454</dep>
     <dep name="root">131</dep>
     <dep name="xcomp">28</dep>
   </deps>
