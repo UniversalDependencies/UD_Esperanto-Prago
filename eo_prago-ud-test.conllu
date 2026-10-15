@@ -32,7 +32,7 @@
 12	Esperanto	Esperanto	PROPN	_	Case=Nom|Number=Sing	10	nmod	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	14	punct	_	_
 14	direktas	direkti	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
-15	ĉi	ĉi	PART	_	_	16	fixed	_	_
+15	ĉi	ĉi	PART	_	_	16	advmod	_	_
 16	tiun	tiu	DET	_	Case=Acc|Number=Sing|PronType=Dem	17	det	_	_
 17	manifeston	manifesto	NOUN	_	Case=Acc|Number=Sing	14	obj	_	_
 18	al	al	ADP	_	_	20	case	_	_
@@ -57,7 +57,7 @@
 37	por	por	ADP	_	_	39	case	_	_
 38	la	la	DET	_	Definite=Def|PronType=Art	39	det	_	_
 39	celoj	celo	NOUN	_	Case=Nom|Number=Plur	36	obl	_	_
-40	ĉi	ĉi	PART	_	_	42	fixed	_	_
+40	ĉi	ĉi	PART	_	_	42	advmod	_	_
 41	tie	tie	ADV	_	_	42	advmod	_	_
 42	esprimitaj	esprimi	VERB	_	Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	39	acl	_	SpaceAfter=No
 43	,	,	PUNCT	_	_	45	punct	_	_
