@@ -2870,7 +2870,7 @@
 34	speciale	speciale	ADV	_	_	33	advmod	_	_
 35	pri	pri	ADP	_	_	37	case	_	_
 36	mia	mia	PRON	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	37	nmod:poss	_	_
-37	lingvo	lingvo	NOUN	_	Case=Nom|Number=Sing	33	nmod	_	_
+37	lingvo	lingvo	NOUN	_	Case=Nom|Number=Sing	33	obl	_	_
 38	persona	persona	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	37	amod	_	SpaceAfter=No
 39	,	,	PUNCT	_	_	49	punct	_	_
 40	mi	mi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	49	nsubj	_	_
@@ -2880,7 +2880,7 @@
 44	per	per	ADP	_	_	47	case	_	_
 45	neniaj	nenia	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	47	amod	_	_
 46	ŝovinismaj	ŝovinisma	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	47	amod	_	_
-47	konsideroj	konsidero	NOUN	_	Case=Nom|Number=Plur	42	nmod	_	_
+47	konsideroj	konsidero	NOUN	_	Case=Nom|Number=Plur	42	obl	_	_
 48	—	-	PUNCT	_	_	42	punct	_	_
 49	nomas	nomi	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	12	conj	_	_
 50	tiun	tiu	DET	_	Case=Acc|Number=Sing|PronType=Dem	51	det	_	_
@@ -2920,7 +2920,7 @@
 84	samtempuloj	samtempulo	NOUN	_	Case=Nom|Number=Sing	85	nsubj	_	_
 85	uzas	uzi	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	80	acl:relcl	_	_
 86	por	por	ADP	_	_	87	case	_	_
-87	rilatoj	rilato	NOUN	_	Case=Nom|Number=Plur	85	nmod	_	_
+87	rilatoj	rilato	NOUN	_	Case=Nom|Number=Plur	85	obl	_	_
 88	intergentaj	intergenta	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	87	amod	_	SpaceAfter=No
 89	,	,	PUNCT	_	_	96	punct	_	_
 90	por	por	ADP	_	_	96	mark	_	_
@@ -2958,11 +2958,11 @@
 122	povu	povi	AUX	_	Mood=Sub|VerbForm=Fin	126	aux	_	_
 123	sur	sur	ADP	_	_	125	case	_	_
 124	senŝovinisma	senŝovinisma	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	125	amod	_	_
-125	bazo	bazo	NOUN	_	Case=Nom|Number=Sing	126	nmod	_	_
+125	bazo	bazo	NOUN	_	Case=Nom|Number=Sing	126	obl	_	_
 126	servi	servi	VERB	_	VerbForm=Inf	105	conj	_	_
 127	al	al	ADP	_	_	129	case	_	_
 128	la	la	DET	_	Definite=Def|PronType=Art	129	det	_	_
-129	kulturo	kulturo	NOUN	_	Case=Nom|Number=Sing	126	nmod	_	_
+129	kulturo	kulturo	NOUN	_	Case=Nom|Number=Sing	126	obl	_	_
 130	neŭtrale-homa	neŭtrale-homa	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	129	amod	_	SpaceAfter=No
 131	.	.	PUNCT	_	_	49	punct	_	_
 
@@ -3010,7 +3010,7 @@
 32	sistemon	sistemo	NOUN	_	Case=Acc|Number=Sing	29	conj	_	SpaceAfter=No
 33	,	,	PUNCT	_	_	38	punct	_	_
 34	je	je	ADP	_	_	35	case	_	_
-35	kiu	kiu	PRON	_	Case=Nom|Number=Sing|PronType=Rel	38	nmod	_	_
+35	kiu	kiu	PRON	_	Case=Nom|Number=Sing|PronType=Rel	38	obl	_	_
 36	mi	mi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	38	nsubj	_	_
 37	efektive	efektive	ADV	_	_	38	advmod	_	_
 38	kredas	kredi	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	29	acl:relcl	_	SpaceAfter=No
@@ -3032,7 +3032,7 @@
 11	laŭ	laŭ	ADP	_	_	14	case	_	_
 12	la	la	DET	_	Definite=Def|PronType=Art	14	det	_	_
 13	neŭtrale-homaj	neŭtrale-homa	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	14	amod	_	_
-14	principoj	principo	NOUN	_	Case=Nom|Number=Plur	9	nmod	_	_
+14	principoj	principo	NOUN	_	Case=Nom|Number=Plur	9	obl	_	_
 15	«	«	PUNCT	_	_	16	punct	_	SpaceAfter=No
 16	homaranaj	homarana	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	14	amod	_	SpaceAfter=No
 17	»	»	PUNCT	_	_	16	punct	_	SpaceAfter=No
@@ -3040,7 +3040,7 @@
 19	kiuj	kiu	PRON	_	Case=Nom|Number=Sing|PronType=Rel	20	nsubj	_	_
 20	konsistas	konsisti	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	14	acl:relcl	_	_
 21	en	en	ADP	_	_	22	case	_	_
-22	jeno	jeno	NOUN	_	Case=Nom|Number=Sing	20	nmod	_	SpaceAfter=No
+22	jeno	jeno	NOUN	_	Case=Nom|Number=Sing	20	obl	_	SpaceAfter=No
 23	.	.	PUNCT	_	_	9	punct	_	_
 
 # sent_id = DpH-020-004
@@ -3052,7 +3052,7 @@
 4	plej	plej	ADV	_	_	5	advmod	_	_
 5	altan	alta	ADJ	_	Case=Acc|Degree=Pos|Number=Sing	10	amod	_	_
 6	por	por	ADP	_	_	7	case	_	_
-7	mi	mi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nmod	_	_
+7	mi	mi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	obl	_	_
 8	ne	ne	ADV	_	_	9	advmod	_	_
 9	kompreneblan	komprenebla	ADJ	_	Case=Acc|Degree=Pos|Number=Sing	10	amod	_	_
 10	Forton	forto	NOUN	_	Case=Acc|Number=Sing	28	obj	_	SpaceAfter=No
@@ -3076,7 +3076,7 @@
 28	nomi	nomi	VERB	_	VerbForm=Inf	0	root	_	_
 29	per	per	ADP	_	_	31	case	_	_
 30	la	la	DET	_	Definite=Def|PronType=Art	31	det	_	_
-31	nomo	nomo	NOUN	_	Case=Nom|Number=Sing	28	nmod	_	_
+31	nomo	nomo	NOUN	_	Case=Nom|Number=Sing	28	obl	_	_
 32	«	«	PUNCT	_	_	33	punct	_	SpaceAfter=No
 33	Dio	dio	NOUN	_	Case=Nom|Number=Sing	31	appos	_	SpaceAfter=No
 34	»	»	PUNCT	_	_	33	punct	_	_
@@ -3101,13 +3101,13 @@
 53	rajton	rajto	NOUN	_	Case=Acc|Number=Sing	51	obj	_	_
 54	prezenti	prezenti	VERB	_	VerbForm=Inf	53	xcomp	_	_
 55	al	al	ADP	_	_	56	case	_	_
-56	si	si	PRON	_	Case=Nom|Number=Sing|PronType=Prs|Reflex=Yes	54	nmod	_	_
+56	si	si	PRON	_	Case=Nom|Number=Sing|PronType=Prs|Reflex=Yes	54	obl	_	_
 57	tiel	tiel	ADV	_	_	54	advmod	_	SpaceAfter=No
 58	,	,	PUNCT	_	_	60	punct	_	_
 59	kiel	kiel	ADV	_	_	60	advmod	_	_
 60	diktas	dikti	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	57	advcl:relcl	_	_
 61	al	al	ADP	_	_	62	case	_	_
-62	li	li	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	60	nmod	_	_
+62	li	li	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	60	obl	_	_
 63	lia	lia	PRON	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	64	nmod:poss	_	_
 64	prudento	prudento	NOUN	_	Case=Nom|Number=Sing	60	nsubj	_	_
 65	kaj	kaj	CCONJ	_	_	66	cc	_	_
@@ -3132,7 +3132,7 @@
 7	persekuti	persekuti	VERB	_	VerbForm=Inf	5	conj	_	_
 8	iun	iu	PRON	_	Case=Acc|Number=Sing|PronType=Art	7	obj	_	_
 9	pro	pro	ADP	_	_	10	case	_	_
-10	tio	tio	PRON	_	Case=Nom|Number=Sing|PronType=Dem	7	nmod	_	SpaceAfter=No
+10	tio	tio	PRON	_	Case=Nom|Number=Sing|PronType=Dem	7	obl	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	18	punct	_	_
 12	ke	ke	SCONJ	_	_	18	mark	_	_
 13	lia	lia	PRON	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	14	nmod:poss	_	_
@@ -3164,13 +3164,13 @@
 14	kuŝas	kuŝi	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	4	ccomp	_	_
 15	en	en	ADP	_	_	17	case	_	_
 16	la	la	DET	_	Definite=Def|PronType=Art	17	det	_	_
-17	koro	koro	NOUN	_	Case=Nom|Number=Sing	14	nmod	_	_
+17	koro	koro	NOUN	_	Case=Nom|Number=Sing	14	obl	_	_
 18	de	de	ADP	_	_	20	case	_	_
 19	ĉiu	ĉiu	DET	_	Case=Nom|Number=Sing|PronType=Tot	20	det	_	_
 20	homo	homo	NOUN	_	Case=Nom|Number=Sing	17	nmod	_	_
 21	sub	sub	ADP	_	_	23	case	_	_
 22	la	la	DET	_	Definite=Def|PronType=Art	23	det	_	_
-23	formo	formo	NOUN	_	Case=Nom|Number=Sing	14	nmod	_	_
+23	formo	formo	NOUN	_	Case=Nom|Number=Sing	14	obl	_	_
 24	de	de	ADP	_	_	25	case	_	_
 25	konscienco	konscienco	NOUN	_	Case=Nom|Number=Sing	23	nmod	_	_
 26	kaj	kaj	CCONJ	_	_	41	cc	_	_
@@ -3180,7 +3180,7 @@
 30	,	,	PUNCT	_	_	34	punct	_	_
 31	por	por	ADP	_	_	33	case	_	_
 32	ĉiuj	ĉiu	DET	_	Case=Nom|Number=Plur|PronType=Tot	33	det	_	_
-33	homoj	homo	NOUN	_	Case=Nom|Number=Plur	34	nmod	_	_
+33	homoj	homo	NOUN	_	Case=Nom|Number=Plur	34	obl	_	_
 34	deviga	deviga	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	35	amod	_	_
 35	principo	principo	NOUN	_	Case=Nom|Number=Sing	41	nsubj	_	_
 36	de	de	ADP	_	_	38	case	_	_
@@ -3190,7 +3190,7 @@
 40	:	:	PUNCT	_	_	41	punct	_	_
 41	agu	agi	VERB	_	Mood=Imp|VerbForm=Fin	14	conj	_	_
 42	kun	kun	ADP	_	_	43	case	_	_
-43	aliuloj	aliulo	NOUN	_	Case=Nom|Number=Plur	41	nmod	_	_
+43	aliuloj	aliulo	NOUN	_	Case=Nom|Number=Plur	41	obl	_	_
 44	tiel	tiel	ADV	_	_	41	advmod	_	SpaceAfter=No
 45	,	,	PUNCT	_	_	48	punct	_	_
 46	kiel	kiel	ADV	_	_	48	advmod	_	_
@@ -3201,7 +3201,7 @@
 51	aliuloj	aliulo	NOUN	_	Case=Nom|Number=Plur	52	nsubj	_	_
 52	agu	agi	VERB	_	Mood=Imp|VerbForm=Fin	48	ccomp	_	_
 53	kun	kun	ADP	_	_	54	case	_	_
-54	vi	vi	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	52	nmod	_	SpaceAfter=No
+54	vi	vi	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	52	obl	_	SpaceAfter=No
 55	;	;	PUNCT	_	_	62	punct	_	_
 56	ĉion	ĉio	PRON	_	Case=Acc|Number=Sing|PronType=Tot	62	obj	_	_
 57	alian	alia	ADJ	_	Case=Acc|Degree=Pos|Number=Sing	56	amod	_	_
@@ -3220,7 +3220,7 @@
 70	konforme	konforme_	ADV	_	_	75	advmod	_	_
 71	al	al	ADP	_	_	73	case	_	_
 72	sia	sia	PRON	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	73	nmod:poss	_	_
-73	kredo	kredo	NOUN	_	Case=Nom|Number=Sing	70	nmod	_	SpaceAfter=No
+73	kredo	kredo	NOUN	_	Case=Nom|Number=Sing	70	obl	_	SpaceAfter=No
 74	,	,	PUNCT	_	_	75	punct	_	_
 75	havas	havi	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	64	acl:relcl	_	_
 76	la	la	DET	_	Definite=Def|PronType=Art	77	det	_	_
@@ -3230,7 +3230,7 @@
 80	kiel	kiel	ADV	_	_	84	case	_	_
 81	devigajn	deviga	ADJ	_	Case=Acc|Degree=Pos|Number=Plur	84	amod	_	_
 82	por	por	ADP	_	_	83	case	_	_
-83	li	li	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	81	nmod	_	_
+83	li	li	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	81	obl	_	_
 84	dirojn	diro	NOUN	_	Case=Acc|Number=Plur	64	conj	_	_
 85	de	de	ADP	_	_	86	case	_	_
 86	Dio	dio	NOUN	_	Case=Nom|Number=Sing	84	nmod	_	SpaceAfter=No
@@ -3242,7 +3242,7 @@
 92	kiujn	kiu	PRON	_	Case=Acc|Number=Plur|PronType=Rel	96	obj	_	_
 93	miksite	miksi	VERB	_	Tense=Past|VerbForm=Part|Voice=Pass	96	advcl	_	_
 94	kun	kun	ADP	_	_	95	case	_	_
-95	legendoj	legendo	NOUN	_	Case=Nom|Number=Plur	96	nmod	_	_
+95	legendoj	legendo	NOUN	_	Case=Nom|Number=Plur	96	obl	_	_
 96	donis	doni	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	90	acl:relcl	_	_
 97	al	al	ADP	_	_	98	case	_	_
 98	ni	ni	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	96	obl	_	_
@@ -3261,7 +3261,7 @@
 111	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	112	aux	_	_
 112	starigitaj	starigi	VERB	_	Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	108	acl:relcl	_	_
 113	de	de	ADP	_	_	114	case	_	_
-114	homoj	homo	NOUN	_	Case=Nom|Number=Plur	112	nmod	_	_
+114	homoj	homo	NOUN	_	Case=Nom|Number=Plur	112	obl	_	_
 115	kaj	kaj	CCONJ	_	_	120	cc	_	_
 116	kies	kies	ADJ	_	Poss=Yes|PronType=Rel	117	nmod:poss	_	_
 117	plenumado	plenumado	NOUN	_	Case=Nom|Number=Sing	120	nsubj	_	_
@@ -3270,7 +3270,7 @@
 120	dependas	dependi	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	108	acl:relcl	_	_
 121	de	de	ADP	_	_	123	case	_	_
 122	nia	nia	PRON	_	Case=Nom|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	123	nmod:poss	_	_
-123	volo	volo	NOUN	_	Case=Nom|Number=Sing	120	nmod	_	SpaceAfter=No
+123	volo	volo	NOUN	_	Case=Nom|Number=Sing	120	obl	_	SpaceAfter=No
 124	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = DpH-020-007
@@ -3282,7 +3282,7 @@
 4	mi	mi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
 5	kredas	kredi	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	17	advcl	_	_
 6	je	je	ADP	_	_	7	case	_	_
-7	neniu	neniu	PRON	_	Case=Nom|PronType=Neg	5	nmod	_	_
+7	neniu	neniu	PRON	_	Case=Nom|PronType=Neg	5	obl	_	_
 8	el	le	ADP	_	_	12	case	_	_
 9	la	la	DET	_	Definite=Def|PronType=Art	12	det	_	_
 10	ekzistantaj	ekzisti	VERB	_	Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	12	amod	_	_
@@ -3294,17 +3294,17 @@
 16	devas	devi	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	17	aux	_	_
 17	resti	resti	VERB	_	VerbForm=Inf	0	root	_	_
 18	en	en	ADP	_	_	19	case	_	_
-19	iu	iu	PRON	_	Case=Nom|Number=Sing|PronType=Art	17	nmod	_	_
+19	iu	iu	PRON	_	Case=Nom|Number=Sing|PronType=Art	17	obl	_	_
 20	en	en	ADP	_	_	21	case	_	_
 21	ili	ili	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	19	nmod	_	_
 22	sole	sole	ADV	_	_	24	advmod	_	_
 23	pro	pro	ADP	_	_	24	case	_	_
-24	motivoj	motivo	NOUN	_	Case=Nom|Number=Plur	17	nmod	_	_
+24	motivoj	motivo	NOUN	_	Case=Nom|Number=Plur	17	obl	_	_
 25	gentaj	genta	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	24	amod	_	_
 26	kaj	kaj	CCONJ	_	_	30	cc	_	_
 27	per	per	ADP	_	_	29	case	_	_
 28	mia	mia	PRON	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	29	nmod:poss	_	_
-29	restado	restado	NOUN	_	Case=Nom|Number=Sing	30	nmod	_	_
+29	restado	restado	NOUN	_	Case=Nom|Number=Sing	30	obl	_	_
 30	erarigi	erarigi	VERB	_	VerbForm=Inf	17	conj	_	_
 31	la	la	DET	_	Definite=Def|PronType=Art	32	det	_	_
 32	homojn	homo	NOUN	_	Case=Acc|Number=Plur	30	obj	_	_
@@ -3316,7 +3316,7 @@
 38	nutri	nutri	VERB	_	VerbForm=Inf	30	conj	_	_
 39	por	por	ADP	_	_	41	case	_	_
 40	senfinaj	senfina	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	41	amod	_	_
-41	generacioj	generacio	NOUN	_	Case=Nom|Number=Plur	38	nmod	_	_
+41	generacioj	generacio	NOUN	_	Case=Nom|Number=Plur	38	obl	_	_
 42	intergentan	intergenta	ADJ	_	Case=Acc|Degree=Pos|Number=Sing	43	amod	_	_
 43	disecon	diseco	NOUN	_	Case=Acc|Number=Sing	38	obj	_	SpaceAfter=No
 44	,	,	PUNCT	_	_	61	punct	_	_
@@ -3349,13 +3349,13 @@
 71	liberkredon	liberkredo	NOUN	_	Case=Acc|Number=Sing	68	obj	_	_
 72	speciale	speciale	ADV	_	_	74	advmod	_	_
 73	kun	kun	ADP	_	_	74	case	_	_
-74	ateismo	ateismo	NOUN	_	Case=Nom|Number=Sing	68	nmod	_	SpaceAfter=No
+74	ateismo	ateismo	NOUN	_	Case=Nom|Number=Sing	68	obl	_	SpaceAfter=No
 75	,	,	PUNCT	_	_	77	punct	_	_
 76	sed	sed	SCONJ	_	_	77	mark	_	_
 77	rezervante	rezervi	VERB	_	Tense=Pres|VerbForm=Part|Voice=Act	68	conj	_	_
 78	al	al	ADP	_	_	80	case	_	_
 79	mia	mia	PRON	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	80	nmod:poss	_	_
-80	kredado	kredado	NOUN	_	Case=Nom|Number=Sing	77	nmod	_	_
+80	kredado	kredado	NOUN	_	Case=Nom|Number=Sing	77	obl	_	_
 81	plenan	plenan	ADJ	_	Case=Acc|Degree=Pos|Number=Sing	82	amod	_	_
 82	liberecon	libereco	NOUN	_	Case=Acc|Number=Sing	77	obj	_	SpaceAfter=No
 83	.	.	PUNCT	_	_	17	punct	_	_
@@ -3381,7 +3381,7 @@
 16	liberkredanoj	liberkredanoj	NOUN	_	Case=Nom|Number=Plur	14	nmod	_	SpaceAfter=No
 17	,	,	PUNCT	_	_	22	punct	_	_
 18	al	al	ADP	_	_	19	case	_	_
-19	kiu	kiu	PRON	_	Case=Nom|Number=Sing|PronType=Rel	22	nmod	_	_
+19	kiu	kiu	PRON	_	Case=Nom|Number=Sing|PronType=Rel	22	obl	_	_
 20	mi	mi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	22	nsubj	_	_
 21	povos	povi	AUX	_	Mood=Ind|Tense=Fut|VerbForm=Fin	22	aux	_	_
 22	aliĝi	aliĝi	VERB	_	VerbForm=Inf	14	acl:relcl	_	_
@@ -3414,7 +3414,7 @@
 49	mian	mia	PRON	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	50	nmod:poss	_	_
 50	posteularon	posteularo	NOUN	_	Case=Acc|Number=Sing	48	obj	_	_
 51	kontraŭ	kontraŭ	ADP	_	_	52	case	_	_
-52	senprogrameco	senprogrameco	NOUN	_	Case=Nom|Number=Sing	48	nmod	_	_
+52	senprogrameco	senprogrameco	NOUN	_	Case=Nom|Number=Sing	48	obl	_	_
 53	kaj	kaj	CCONJ	_	_	56	cc	_	_
 54	konsekvence	konsekvence	ADV	_	_	56	advmod	_	_
 55	kontraŭ	kontraŭ	ADP	_	_	56	case	_	_
@@ -3427,9 +3427,9 @@
 62	devas	devi	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	63	aux	_	_
 63	aliĝi	aliĝi	VERB	_	VerbForm=Inf	0	root	_	_
 64	al	al	ADP	_	_	67	case	_	_
-65	tiu	tiu	DET	_	Case=Nom|Number=Sing|PronType=Dem	63	nmod	_	_
+65	tiu	tiu	DET	_	Case=Nom|Number=Sing|PronType=Dem	67	det	_	_
 66	liberkreda	liberkreda	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	67	amod	_	_
-67	komunumo	komunumo	NOUN	_	Case=Nom|Number=Sing	63	nmod	_	_
+67	komunumo	komunumo	NOUN	_	Case=Nom|Number=Sing	63	obl	_	_
 68	tute	tute	ADV	_	_	69	advmod	_	_
 69	oficiale	oficiale	ADV	_	_	63	advmod	_	_
 70	kaj	kaj	CCONJ	_	_	71	cc	_	_
@@ -3437,7 +3437,7 @@
 72	kaj	kaj	CCONJ	_	_	73	cc	_	_
 73	akcepti	akcepti	VERB	_	VerbForm=Inf	63	conj	_	_
 74	por	por	ADP	_	_	75	case	_	_
-75	mi	mi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	73	nmod	_	_
+75	mi	mi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	73	obl	_	_
 76	ĝian	ĝia	PRON	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	78	nmod:poss	_	_
 77	neŭtralan	neŭtrala	ADJ	_	Case=Acc|Degree=Pos|Number=Sing	78	amod	_	_
 78	nomon	nomo	NOUN	_	Case=Acc|Number=Sing	73	obj	_	SpaceAfter=No
@@ -3465,7 +3465,7 @@
 100	;	_	PUNCT	_	_	106	punct	_	_
 101	ĝis	ĝis	ADP	_	_	103	case	_	_
 102	tiu	tiu	DET	_	Case=Nom|Number=Sing|PronType=Dem	103	det	_	_
-103	tempo	tempo	NOUN	_	Case=Nom|Number=Sing	106	nmod	_	_
+103	tempo	tempo	NOUN	_	Case=Nom|Number=Sing	106	obl	_	_
 104	mi	mi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	106	nsubj	_	_
 105	povas	povi	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	106	aux	_	_
 106	resti	resti	VERB	_	VerbForm=Inf	63	advcl	_	_
@@ -3487,7 +3487,7 @@
 122	aldoni	aldoni	VERB	_	VerbForm=Inf	106	advcl	_	_
 123	al	al	ADP	_	_	125	case	_	_
 124	ĝia	ĝia	PRON	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	125	amod	_	_
-125	nomo	nomo	NOUN	_	Case=Nom|Number=Sing	122	nmod	_	_
+125	nomo	nomo	NOUN	_	Case=Nom|Number=Sing	122	obl	_	_
 126	la	la	DET	_	Definite=Def|PronType=Art	127	det	_	_
 127	vorton	vorto	NOUN	_	Case=Acc|Number=Sing	122	obj	_	_
 128	«	«	PUNCT	_	_	129	punct	_	SpaceAfter=No
@@ -3502,7 +3502,7 @@
 137	alkalkulas	alkalkuli	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	133	ccomp	_	_
 138	min	mi	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	137	obj	_	_
 139	al	al	ADP	_	_	140	case	_	_
-140	ĝi	ĝi	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	137	nmod	_	_
+140	ĝi	ĝi	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	137	obl	_	_
 141	nur	nur	ADV	_	_	142	advmod	_	_
 142	provizore	provizore	ADV	_	_	137	advmod	_	SpaceAfter=No
 143	,	,	PUNCT	_	_	144	punct	_	_
@@ -3534,7 +3534,7 @@
 12	min	_	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	11	obj	_	_
 13	en	_	ADP	_	_	15	case	_	_
 14	la	_	DET	_	Definite=Def|PronType=Art	15	det	_	_
-15	adresaron	_	NOUN	_	Case=Acc|Number=Sing	11	nmod	_	_
+15	adresaron	_	NOUN	_	Case=Acc|Number=Sing	11	obl	_	_
 16	de	_	ADP	_	_	18	case	_	_
 17	la	_	DET	_	Definite=Def|PronType=Art	18	det	_	_
 18	Homaranoj	_	NOUN	_	Case=Nom|Number=Plur	15	nmod	_	SpaceAfter=No
@@ -3586,7 +3586,7 @@
 2	.	.	PUNCT	_	_	7	punct	_	_
 3	Laŭ	laŭ	ADP	_	_	5	case	_	_
 4	mia	mia	PRON	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	_	_
-5	profesio	profesio	NOUN	_	Case=Nom|Number=Sing	7	nmod	_	_
+5	profesio	profesio	NOUN	_	Case=Nom|Number=Sing	7	obl	_	_
 6	mi	mi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
 7	estas	esti	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 8	:	:	PUNCT	_	_	7	punct	_	_
