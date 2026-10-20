@@ -1237,7 +1237,7 @@
 4	de	de	ADP	_	_	6	case	_	_
 5	la	la	DET	_	Definite=Def|PronType=Art	6	det	_	_
 6	Homaranoj	Homarano	NOUN	_	Case=Nom|Number=Plur	3	nmod	_	_
-7	estos	esti	AUX	_	Mood=Ind|Tense=Fut|VerbForm=Fin	9	cop	_	_
+7	estos	esti	AUX	_	Mood=Ind|Tense=Fut|VerbForm=Fin	9	aux	_	_
 8	sufiĉe	sufiĉe	ADV	_	_	9	advmod	_	_
 9	granda	granda	ADJ	_	_	13	advcl	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	13	punct	_	_
@@ -1730,7 +1730,7 @@
 # text = Mi estas Homarano; tio signifas, ke mi gvidas min en la vivo per la sekvantaj principoj:
 # text_en = I am a Homarano; this means that I guide myself in life by the following principles:
 1	Mi	mi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
-2	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	_
 3	Homarano	homarano	NOUN	_	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
 4	;	;	PUNCT	_	_	6	punct	_	_
 5	tio	tio	PRON	_	Case=Nom|Number=Sing|PronType=Dem	6	nsubj	_	_
@@ -1760,7 +1760,7 @@
 # text = Mi estas homo, kaj la tutan homaron mi rigardas kiel unu familion; la dividitecon de la homaro en diversajn reciproke malamikajn gentojn kaj gentreligiajn komunumojn mi rigardas kiel unu el la plej grandaj malfeliĉoj, kiu pli aŭ malpli frue devas malaperi kaj kies malaperon mi devas akceladi laŭ mia povo.
 # text_en = I am a human being, and I regard all mankind as one family; I consider the division of humanity into various mutually hostile tribes and tribal religious communities as one of the greatest misfortunes, which sooner or later must disappear and whose disappearance I must hasten to the best of my ability.
 1	Mi	mi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
-2	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	_
 3	homo	homo	NOUN	_	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	10	punct	_	_
 5	kaj	kaj	CCONJ	_	_	10	cc	_	_
@@ -2284,7 +2284,7 @@
 13	diversaj	diversa	ADJ	_	Case=Nom|Number=Plur	14	amod	_	_
 14	gentoj	gento	NOUN	_	Case=Nom|Number=Plur	10	nsubj	_	SpaceAfter=No
 15	,	,	PUNCT	_	_	17	punct	_	_
-16	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	17	cop	_	_
+16	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	17	aux	_	_
 17	dezirinde	dezirinde	ADV	_	_	2	ccomp	_	SpaceAfter=No
 18	,	,	PUNCT	_	_	25	punct	_	_
 19	ke	ke	SCONJ	_	_	25	mark	_	_
