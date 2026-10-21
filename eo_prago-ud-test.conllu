@@ -3768,7 +3768,7 @@
 12	ideon	ideo	NOUN	_	Case=Acc|Number=Sing	9	obj	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	38	punct	_	_
 14	tial	tial	ADV	_	_	38	advmod	_	_
-15	ni	ni	PRON	_	Case=Nom|Gender=Neut|Number=Plur|Person=3|PronType=Pers	38	nsubj	_	_
+15	ni	ni	PRON	_	Case=Nom|Gender=Neut|Number=Plur|Person=3|PronType=Prs	38	nsubj	_	_
 16	subskribintoj	subskribinto	NOUN	_	Case=Nom|Number=Plur	15	appos	_	SpaceAfter=No
 17	,	,	PUNCT	_	_	18	punct	_	_
 18	reprezentantoj	reprezentanto	NOUN	_	Case=Nom|Number=Plur	16	appos	_	_
