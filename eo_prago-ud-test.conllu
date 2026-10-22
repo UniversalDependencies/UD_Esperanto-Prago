@@ -3924,7 +3924,7 @@
 15	Esperantismo	Esperantismo	NOUN	_	Case=Nom|Number=Sing	12	obl	_	SpaceAfter=No
 16	,	,	PUNCT	_	_	19	punct	_	_
 17	estos	esti	AUX	_	Mood=Ind|Tense=Fut|VerbForm=Fin	19	aux	_	_
-18	lia	lia	PRON	_	Case=Nom|Gender=Neut|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3||Poss=Yes|PronType=Prs	19	nmod:poss	_	_
+18	lia	lia	PRON	_	Case=Nom|Gender=Neut|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Poss=Yes|PronType=Prs	19	nmod:poss	_	_
 19	afero	afero	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
 20	pure	pure	ADV	_	_	21	advmod	_	_
 21	privata	privi	VERB	_	Case=Nom|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	19	amod	_	SpaceAfter=No
@@ -4054,12 +4054,12 @@
 113	kaj	kaj	CCONJ	_	_	114	cc	_	_
 114	laboras	labori	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	107	conj	_	_
 115	por	por	ADP	_	_	117	case	_	_
-116	ĝia	ĝia	PRON	_	Case=Nom|Gender=Neut|Gender[psor]=Neut|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3||Poss=Yes|PronType=Prs	117	nmod:poss	_	_
+116	ĝia	ĝia	PRON	_	Case=Nom|Gender=Neut|Gender[psor]=Neut|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Poss=Yes|PronType=Prs	117	nmod:poss	_	_
 117	disvastigado	disvastigado	NOUN	_	Case=Nom|Number=Sing	114	obl	_	_
 118	kaj	kaj	CCONJ	_	_	119	cc	_	_
 119	riĉigado	riĉigado	NOUN	_	Case=Nom|Number=Sing	117	conj	_	_
 120	de	de	ADP	_	_	122	case	_	_
-121	ĝia	ĝia	PRON	_	Case=Nom|Gender=Neut|Gender[psor]=Neut|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3||Poss=Yes|PronType=Prs	122	nmod:poss	_	_
+121	ĝia	ĝia	PRON	_	Case=Nom|Gender=Neut|Gender[psor]=Neut|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Poss=Yes|PronType=Prs	122	nmod:poss	_	_
 122	literaturo	literaturo	NOUN	_	Case=Nom|Number=Sing	117	nmod	_	SpaceAfter=No
 123	.	.	PUNCT	_	_	107	punct	_	_
 
