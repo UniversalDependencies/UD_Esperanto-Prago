@@ -3811,7 +3811,7 @@
 
 # sent_id = DB-004-001
 # text = 1. La Esperantismo estas penado disvastigi en la tuta mondo la uzadon de lingvo neŭtrale homa, kiu "ne entrudante sin en la internan vivon de la popoloj kaj neniom celante elpuŝi la ekzistantajn lingvojn naciajn", donus al la homoj de malsamaj nacioj la eblon kompreniĝadi inter si, kiu povus servi kiel paciga lingvo de publikaj institucioj en tiuj landoj, kie diversaj nacioj batalas inter si pri la lingvo, kaj en kiu povus esti publikigataj tiuj verkoj, kiuj havas egalan intereson por ĉiuj popoloj.
-1	1	1	NUM	_	_	6	advmod	_	SpaceAfter=No
+1	1	1	NUM	_	_	6	nummod	_	SpaceAfter=No
 2	.	.	PUNCT	_	_	1	punct	_	_
 3	La	la	DET	_	Definite=Def|PronType=Art	4	det	_	_
 4	Esperantismo	Esperantismo	NOUN	_	Case=Nom|Number=Sing	6	nsubj	_	_
@@ -3851,7 +3851,7 @@
 38	naciajn	nacia	ADJ	_	Case=Acc|Degree=Pos|Number=Plur	37	amod	_	SpaceAfter=No
 39	"	"	PUNCT	_	_	33	punct	_	SpaceAfter=No
 40	,	,	PUNCT	_	_	41	punct	_	_
-41	donus	donus	Verb	_	Mood=Sub|VerbForm=Fin	15	acl:relcl	_	_
+41	donus	donus	VERB	_	Mood=Sub|VerbForm=Fin	15	acl:relcl	_	_
 42	al	al	ADP	_	_	44	case	_	_
 43	la	la	DET	_	Definite=Def|PronType=Art	44	det	_	_
 44	homoj	homo	NOUN	_	Case=Nom|Number=Plur	41	obl	_	_
@@ -3865,7 +3865,7 @@
 52	si	si	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	50	obl	_	SpaceAfter=No
 53	,	,	PUNCT	_	_	56	punct	_	_
 54	kiu	kiu	PRON	_	Case=Nom|Number=Sing|PronType=Int	56	nsubj	_	_
-55	povus	povus	AUX	_	Mood=Sub|VerbForm=Fin	56	aux	_	_
+55	povus	povi	AUX	_	Mood=Sub|VerbForm=Fin	56	aux	_	_
 56	servi	servi	VERB	_	VerbForm=Inf	49	acl:relcl	_	_
 57	kiel	kiel	ADV	_	_	59	advmod	_	_
 58	paciga	paciga	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	59	amod	_	_
@@ -3890,7 +3890,7 @@
 77	kaj	kaj	CCONJ	_	_	82	cc	_	_
 78	en	en	ADP	_	_	79	case	_	_
 79	kiu	kiu	PRON	_	Case=Nom|Number=Sing|PronType=Int	82	obl	_	_
-80	povus	povus	AUX	_	Mood=Sub|VerbForm=Fin	82	aux	_	_
+80	povus	povi	AUX	_	Mood=Sub|VerbForm=Fin	82	aux	_	_
 81	esti	esti	AUX	_	VerbForm=Inf	82	aux	_	_
 82	publikigataj	publikigi	VERB	_	Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	59	acl:relcl	_	_
 83	tiuj	tiuj	PRON	_	Case=Nom|Number=Plur|PronType=Dem	84	det	_	_
@@ -3939,7 +3939,7 @@
 
 # sent_id = DB-005-001
 # text = 2. Ĉar en la nuna tempo neniu esploranto en la tuta mondo jam dubas pri tio, ke lingvo internacia povas esti nur lingvo arta, kaj ĉar el ĉiuj multegaj provoj, faritaj en la daŭro de la lastaj du centjaroj, ĉiuj prezentas nur teoriajn projektojn, kaj lingvo efektive finita, ĉiuflanke elprovita, perfekte vivipova kaj en ĉiuj rilatoj pleje taŭga montriĝis nur unu sola lingvo Esperanto, tial la amikoj de la ideo de lingvo internacia, konsciante ke teoria disputado kondukos al nenio kaj ke la celo povas esti atingata nur per laborado praktika, jam de longe ĉiuj grupiĝis ĉirkaŭ la sola lingvo Esperanto kaj laboras por ĝia disvastigado kaj riĉigado de ĝia literaturo.
-1	2	2	NUM	_	_	15	advmod	_	SpaceAfter=No
+1	2	2	NUM	_	_	15	nummod	_	SpaceAfter=No
 2	.	.	PUNCT	_	_	15	punct	_	_
 3	Ĉar	ĉar	SCONJ	_	_	15	mark	_	_
 4	en	en	ADP	_	_	7	case	_	_
