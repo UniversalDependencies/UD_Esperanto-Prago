@@ -3851,7 +3851,7 @@
 38	naciajn	nacia	ADJ	_	Case=Acc|Degree=Pos|Number=Plur	37	amod	_	SpaceAfter=No
 39	"	"	PUNCT	_	_	33	punct	_	SpaceAfter=No
 40	,	,	PUNCT	_	_	41	punct	_	_
-41	donus	donus	VERB	_	Mood=Sub|VerbForm=Fin	15	acl:relcl	_	_
+41	donus	doni	VERB	_	Mood=Sub|VerbForm=Fin	15	acl:relcl	_	_
 42	al	al	ADP	_	_	44	case	_	_
 43	la	la	DET	_	Definite=Def|PronType=Art	44	det	_	_
 44	homoj	homo	NOUN	_	Case=Nom|Number=Plur	41	obl	_	_
