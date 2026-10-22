@@ -4044,7 +4044,7 @@
 103	jam	jam	ADV	_	_	107	advmod	_	_
 104	de	de	ADP	_	_	105	case	_	_
 105	longe	longe	ADV	_	_	103	obl	_	_
-106	ĉiuj	ĉiuj	PRON	_	Case=Nom|Number=Plur|PronType=Tot	107	nsubj	_	_
+106	ĉiuj	ĉiuj	PRON	_	Case=Nom|Number=Plur|PronType=Tot	76	appos	_	_
 107	grupiĝis	grupiĝi	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 108	ĉirkaŭ	ĉirkaŭ	ADV	_	_	107	advmod	_	_
 109	la	la	DET	_	Definite=Def|PronType=Art	111	det	_	_
