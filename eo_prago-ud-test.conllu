@@ -4201,3 +4201,36 @@
 13	homo	homo	NOUN	_	Case=Nom|Number=Sing	9	obl	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	4	punct	_	_
 
+# sent_id = DB-007-002
+# text = Ĉiuj opinioj kaj verkoj de la kreinto de Esperanto havas, simile al la opinioj kaj verkoj de ĉiu alia Esperantisto, karakteron absolute privatan kaj por neniu devigan.
+1	Ĉiuj	ĉiuj	PRON	_	Case=Nom|Number=Plur|PronType=Tot	2	det	_	_
+2	opinioj	opinio	NOUN	_	Case=Nom|Number=Plur	10	nsubj	_	_
+3	kaj	kaj	CCONJ	_	_	4	cc	_	_
+4	verkoj	verko	NOUN	_	Case=Nom|Number=Plur	2	conj	_	_
+5	de	de	ADP	_	_	7	case	_	_
+6	la	la	DET	_	Definite=Def|PronType=Art	7	det	_	_
+7	kreinto	kreinto	NOUN	_	Case=Nom|Number=Sing	2	nmod	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	Esperanto	Esperanto	NOUN	_	Case=Nom|Number=Sing	7	nmod	_	_
+10	havas	havi	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	simile	simile	ADV	_	_	10	advmod	_	_
+13	al	al	ADP	_	_	15	case	_	_
+14	la	la	DET	_	Definite=Def|PronType=Art	15	det	_	_
+15	opinioj	opinio	NOUN	_	Case=Nom|Number=Plur	12	obl	_	_
+16	kaj	kaj	CCONJ	_	_	17	cc	_	_
+17	verkoj	verko	NOUN	_	Case=Nom|Number=Plur	15	conj	_	_
+18	de	de	ADP	_	_	21	case	_	_
+19	ĉiu	ĉiu	PRON	_	Case=Nom|Number=Sing|PronType=Tot	21	det	_	_
+20	alia	alia	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	21	amod	_	_
+21	Esperantisto	Esperantisto	NOUN	_	Case=Nom|Number=Sing	15	nmod	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	23	punct	_	_
+23	karakteron	karaktero	NOUN	_	Case=Acc|Number=Sing	10	obj	_	_
+24	absolute	absolute	ADV	_	_	25	advmod	_	_
+25	privatan	privi	VERB	_	Case=Acc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	23	amod	_	_
+26	kaj	kaj	CCONJ	_	_	29	cc	_	_
+27	por	por	ADP	_	_	28	case	_	_
+28	neniu	neniu	PRON	_	Case=Nom|Number=Sing|PronType=Neg	29	obl	_	_
+29	devigan	deviga	ADJ	_	Case=Acc|Degree=Pos|Number=Sing	25	amod	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	10	punct	_	_
+
