@@ -4138,7 +4138,7 @@
 23	verkojn	verko	NOUN	_	Case=Acc|Number=Plur	15	obj	_	SpaceAfter=No
 24	,	,	PUNCT	_	_	27	punct	_	_
 25	kiajn	kiajn	ADJ	_	Case=Acc|Number=Plur	27	obj	_	_
-26	li	li	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Pers	27	nsubj	_	_
+26	li	li	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	27	nsubj	_	_
 27	deziras	deziri	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	23	acl:relcl	_	SpaceAfter=No
 28	,	,	PUNCT	_	_	30	punct	_	_
 29	kaj	kaj	CCONJ	_	_	30	cc	_	_
