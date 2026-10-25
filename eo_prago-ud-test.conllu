@@ -4270,3 +4270,39 @@
 32	ŝanĝon	ŝanĝo	NOUN	_	Case=Acc|Number=Sing	31	obj	_	SpaceAfter=No
 33	.	.	PUNCT	_	_	18	punct	_	_
 
+# sent_id = DB-007-004
+# text = Se iu dekliniĝas de la reguloj kaj modeloj donitaj en la dirita verko, li neniam povas pravigi sin per la vortoj "tiel deziras aŭ konsilas la aŭtoro de Esperanto".
+1	Se	se	SCONJ	_	_	3	mark	_	_
+2	iu	iu	PRON	_	Case=Nom|Number=Sing|PronType=Art	3	nsubj	_	_
+3	dekliniĝas	dekliniĝi	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	18	advcl	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	la	la	DET	_	Definite=Def|PronType=Art	6	det	_	_
+6	reguloj	regulo	NOUN	_	Case=Nom|Number=Plur	3	obl	_	_
+7	kaj	kaj	CCONJ	_	_	8	cc	_	_
+8	modeloj	modelo	NOUN	_	Case=Nom|Number=Plur	6	conj	_	_
+9	donitaj	doni	VERB	_	Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	6	amod	_	_
+10	en	en	ADP	_	_	13	case	_	_
+11	la	la	DET	_	Definite=Def|PronType=Art	13	det	_	_
+12	dirita	diri	VERB	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	13	amod	_	_
+13	verko	verko	NOUN	_	Case=Nom|Number=Sing	9	nmod	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	18	punct	_	_
+15	li	li	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	nsubj	_	_
+16	neniam	neniam	ADV	_	_	18	advmod	_	_
+17	povas	povi	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	18	aux	_	_
+18	pravigi	pravigi	VERB	_	VerbForm=Inf	0	root	_	_
+19	sin	si	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	18	obj	_	_
+20	per	per	ADP	_	_	22	case	_	_
+21	la	la	DET	_	Definite=Def|PronType=Art	22	det	_	_
+22	vortoj	vorto	NOUN	_	Case=Nom|Number=Plur	18	obl	_	_
+23	"	"	PUNCT	_	_	25	punct	_	SpaceAfter=No
+24	tiel	tiel	ADV	_	_	25	advmod	_	_
+25	deziras	deziri	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	22	appos	_	_
+26	aŭ	aŭ	CCONJ	_	_	27	cc	_	_
+27	konsilas	konsili	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	25	conj	_	_
+28	la	la	DET	_	Definite=Def|PronType=Art	29	det	_	_
+29	aŭtoro	aŭtoro	NOUN	_	Case=Nom|Number=Sing	25	nsubj	_	_
+30	de	de	ADP	_	_	31	case	_	_
+31	Esperanto	Esperanto	NOUN	_	Case=Nom|Number=Sing	29	nmod	_	SpaceAfter=No
+32	"	"	PUNCT	_	_	25	punct	_	SpaceAfter=No
+33	.	.	PUNCT	_	_	18	punct	_	_
+
