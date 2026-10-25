@@ -4234,3 +4234,39 @@
 29	devigan	deviga	ADJ	_	Case=Acc|Degree=Pos|Number=Sing	25	amod	_	SpaceAfter=No
 30	.	.	PUNCT	_	_	10	punct	_	_
 
+# sent_id = DB-007-003
+# text = La sola unu fojon por ĉiam deviga por ĉiuj Esperantistoj fundamento de la lingvo Esperanto estas la verketo "Fundamento de Esperanto", en kiu neniu havas la rajton fari ŝanĝon.
+1	La	la	DET	_	Definite=Def|PronType=Art	11	det	_	_
+2	sola	sola	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	11	amod	_	_
+3	unu	unu	NUM	_	_	4	nummod	_	_
+4	fojon	fojo	NOUN	_	Case=Acc|Number=Sing	7	obl:tmod	_	_
+5	por	por	ADP	_	_	6	case	_	_
+6	ĉiam	ĉiam	ADV	_	_	4	advmod	_	_
+7	deviga	deviga	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	11	amod	_	_
+8	por	por	ADP	_	_	10	case	_	_
+9	ĉiuj	ĉiuj	PRON	_	Case=Nom|Number=Plur|PronType=Tot	10	nmod	_	_
+10	Esperantistoj	Esperantisto	NOUN	_	Case=Nom|Number=Plur	7	obl	_	_
+11	fundamento	fundamento	NOUN	_	Case=Nom|Number=Sing	18	nsubj	_	_
+12	de	de	ADP	_	_	14	case	_	_
+13	la	la	DET	_	Definite=Def|PronType=Art	14	det	_	_
+14	lingvo	lingvo	NOUN	_	Case=Nom|Number=Sing	11	nmod	_	_
+15	Esperanto	Esperanto	NOUN	_	Case=Nom|Number=Sing	14	appos	_	_
+16	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	18	aux	_	_
+17	la	la	DET	_	Definite=Def|PronType=Art	18	det	_	_
+18	verketo	verketo	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
+19	"	"	PUNCT	_	_	20	punct	_	SpaceAfter=No
+20	Fundamento	Fundamento	NOUN	_	Case=Nom|Number=Sing	18	appos	_	_
+21	de	de	ADP	_	_	22	case	_	_
+22	Esperanto	Esperanto	NOUN	_	Case=Nom|Number=Sing	20	nmod	_	SpaceAfter=No
+23	"	"	PUNCT	_	_	20	punct	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	28	punct	_	_
+25	en	en	ADP	_	_	26	case	_	_
+26	kiu	kiu	PRON	_	Case=Nom|Number=Sing|PronType=Int	28	obl	_	_
+27	neniu	neniu	PRON	_	Case=Nom|Number=Sing|PronType=Neg	28	nsubj	_	_
+28	havas	havi	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	20	acl:relcl	_	_
+29	la	la	DET	_	Definite=Def|PronType=Art	30	det	_	_
+30	rajton	rajto	NOUN	_	Case=Acc|Number=Sing	28	obj	_	_
+31	fari	fari	VERB	_	VerbForm=Inf	30	xcomp	_	_
+32	ŝanĝon	ŝanĝo	NOUN	_	Case=Acc|Number=Sing	31	obj	_	SpaceAfter=No
+33	.	.	PUNCT	_	_	18	punct	_	_
+
