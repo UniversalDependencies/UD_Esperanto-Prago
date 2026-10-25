@@ -4360,3 +4360,54 @@
 50	lingvo	lingvo	NOUN	_	Case=Nom|Number=Sing	46	obl	_	SpaceAfter=No
 51	.	.	PUNCT	_	_	26	punct	_	_
 
+# sent_id = DB-007-006
+# text = Sed pro plena unueco de la lingvo al ĉiuj Esperantistoj estas rekomendate imitadi kiel eble plej multe tiun stilon, kiu troviĝas en la verko de la kreinto de Esperanto, kiu la plej multe laboris por kaj en Esperanto kaj la plej bone konas ĝian spiriton.
+1	Sed	sed	CCONJ	_	_	12	cc	_	_
+2	pro	pro	ADP	_	_	4	case	_	_
+3	plena	plena	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	4	amod	_	_
+4	unueco	unueco	NOUN	_	Case=Nom|Number=Sing	12	obl	_	_
+5	de	de	ADP	_	_	7	case	_	_
+6	la	la	DET	_	Definite=Def|PronType=Art	7	det	_	_
+7	lingvo	lingvo	NOUN	_	Case=Nom|Number=Sing	4	nmod	_	_
+8	al	al	ADP	_	_	10	case	_	_
+9	ĉiuj	ĉiuj	PRON	_	Case=Nom|Number=Plur|PronType=Tot	10	det	_	_
+10	Esperantistoj	Esperantisto	NOUN	_	Case=Nom|Number=Plur	12	obl	_	_
+11	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	12	aux	_	_
+12	rekomendate	rekomendate	ADV	_	_	0	root	_	_
+13	imitadi	imitadi	VERB	_	VerbForm=Inf	12	xcomp	_	_
+14	kiel	kiel	ADV	_	_	15	advmod	_	_
+15	eble	eble	ADV	_	_	13	advmod	_	_
+16	plej	plej	ADV	_	_	17	advmod	_	_
+17	multe	multe	ADV	_	_	15	advmod	_	_
+18	tiun	tiun	PRON	_	Case=Acc|Number=Sing|PronType=Dem	19	det	_	_
+19	stilon	stilo	NOUN	_	Case=Acc|Number=Sing	13	obj	_	_
+20	,	,	PUNCT	_	_	22	punct	_	_
+21	kiu	kiu	PRON	_	Case=Nom|Number=Sing|PronType=Int	22	nsubj	_	_
+22	troviĝas	troviĝi	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	19	acl:relcl	_	_
+23	en	en	ADP	_	_	25	case	_	_
+24	la	la	DET	_	Definite=Def|PronType=Art	25	det	_	_
+25	verko	verko	NOUN	_	Case=Nom|Number=Sing	22	obl	_	_
+26	de	de	ADP	_	_	28	case	_	_
+27	la	la	DET	_	Definite=Def|PronType=Art	28	det	_	_
+28	kreinto	kreinto	NOUN	_	Case=Nom|Number=Sing	25	nmod	_	_
+29	de	de	ADP	_	_	30	case	_	_
+30	Esperanto	Esperanto	NOUN	_	Case=Nom|Number=Sing	28	nmod	_	_
+31	,	,	PUNCT	_	_	36	punct	_	_
+32	kiu	kiu	PRON	_	Case=Nom|Number=Sing|PronType=Int	36	nsubj	_	_
+33	la	la	DET	_	Definite=Def|PronType=Art	35	det	_	_
+34	plej	plej	ADV	_	_	35	advmod	_	_
+35	multe	multe	ADV	_	_	36	advmod	_	_
+36	laboris	labori	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	28	acl:relcl	_	_
+37	por	por	ADP	_	_	40	case	_	_
+38	kaj	kaj	CCONJ	_	_	39	cc	_	_
+39	en	en	ADP	_	_	37	conj	_	_
+40	Esperanto	Esperanto	NOUN	_	Case=Nom|Number=Sing	36	obl	_	_
+41	kaj	kaj	CCONJ	_	_	45	cc	_	_
+42	la	la	DET	_	Definite=Def|PronType=Art	44	det	_	_
+43	plej	plej	ADV	_	_	44	advmod	_	_
+44	bone	bone	ADV	_	_	45	advmod	_	_
+45	konas	koni	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	36	conj	_	_
+46	ĝian	ĝian	PRON	_	Case=Acc|Gender=Neut|Gender[psor]=Neut|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Poss=Yes|PronType=Prs	47	nmod:poss	_	_
+47	spiriton	spirito	NOUN	_	Case=Acc|Number=Sing	45	obj	_	_
+48	.	.	PUNCT	_	_	12	punct	_	_
+
