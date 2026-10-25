@@ -4411,3 +4411,22 @@
 47	spiriton	spirito	NOUN	_	Case=Acc|Number=Sing	45	obj	_	SpaceAfter=No
 48	.	.	PUNCT	_	_	12	punct	_	_
 
+# sent_id = DB-008-002
+# text = Apartenado al ia aktiva societo Esperantista por ĉiu Esperantisto estas rekomendinda, sed ne deviga.
+1	Apartenado	Apartenado	NOUN	_	Case=Nom|Number=Sing	11	nsubj	_	_
+2	al	al	ADP	_	_	5	case	_	_
+3	ia	ia	ADJ	_	Case=Nom|Number=Sing	5	amod	_	_
+4	aktiva	aktiva	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	5	amod	_	_
+5	societo	societo	NOUN	_	Case=Nom|Number=Sing	1	nmod	_	_
+6	Esperantista	Esperantista	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	5	amod	_	_
+7	por	por	ADP	_	_	9	case	_	_
+8	ĉiu	ĉiu	PRON	_	Case=Nom|Number=Sing|PronType=Tot	9	det	_	_
+9	Esperantisto	Esperantisto	NOUN	_	Case=Nom|Number=Sing	11	obl	_	_
+10	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	rekomendinda	rekomendinda	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	0	root	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	15	punct	_	_
+13	sed	sed	CCONJ	_	_	15	cc	_	_
+14	ne	ne	ADV	_	_	15	advmod	_	_
+15	deviga	deviga	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	11	conj	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	11	punct	_	_
+
