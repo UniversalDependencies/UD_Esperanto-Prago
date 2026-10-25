@@ -12,9 +12,9 @@ Esperanto is a constructed auxiliary language for international communication, c
 ...
 
 ## References
-
 https://lingvo.org/prago/eo.php
-
+https://eo.wikisource.org/wiki/Deklaracio_pri_Homaranismo
+https://www.akademio-de-esperanto.org/fundamento/bulonja_deklaracio.html
 
 # Changelog
 
