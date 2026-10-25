@@ -4309,7 +4309,7 @@
 # sent_id = DB-007-005
 # text = Ĉiun ideon, kiu ne povas esti oportune esprimata per tiu materialo, kiu troviĝas en la "Fundamento de Esperanto", ĉiu Esperantisto havas la rajton esprimi en tia maniero, kiun li trovas la plej ĝusta, tiel same, kiel estas farate en ĉiu alia lingvo.
 1	Ĉiun	ĉiun	PRON	_	Case=Acc|Number=Sing|PronType=Tot	2	det	_	_
-2	ideon	ideo	NOUN	_	Case=Acc|Number=Sing	26	obj	_	SpaceAfter=No
+2	ideon	ideo	NOUN	_	Case=Acc|Number=Sing	29	obj	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	9	punct	_	_
 4	kiu	kiu	PRON	_	Case=Nom|Number=Sing|PronType=Int	9	nsubj	_	_
 5	ne	ne	ADV	_	_	9	advmod	_	_
@@ -4318,7 +4318,7 @@
 8	oportune	oportune	ADV	_	_	9	advmod	_	_
 9	esprimata	esprimi	VERB	_	Case=Nom|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	2	acl:relcl	_	_
 10	per	per	ADP	_	_	11	case	_	_
-11	tiu	tiu	PRON	_	Case=Nom|Number=Sing|PronType=Dem	12	obl	_	_
+11	tiu	tiu	PRON	_	Case=Nom|Number=Sing|PronType=Dem	12	det	_	_
 12	materialo	materialo	NOUN	_	Case=Nom|Number=Sing	9	obl	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	15	punct	_	_
 14	kiu	kiu	PRON	_	Case=Nom|Number=Sing|PronType=Int	15	nsubj	_	_
@@ -4345,7 +4345,7 @@
 35	li	li	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	36	nsubj	_	_
 36	trovas	trovi	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	32	acl:relcl	_	_
 37	la	la	DET	_	Definite=Def|PronType=Art	39	det	_	_
-38	plej	plej	_	_	_	39	dep	_	_
+38	plej	plej	ADV	_	_	39	advmod	_	_
 39	ĝusta	ĝusta	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	36	xcomp	_	SpaceAfter=No
 40	,	,	PUNCT	_	_	42	punct	_	_
 41	tiel	tiel	ADV	_	_	42	advmod	_	_
