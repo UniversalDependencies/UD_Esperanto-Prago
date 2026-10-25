@@ -4380,7 +4380,7 @@
 16	plej	plej	ADV	_	_	17	advmod	_	_
 17	multe	multe	ADV	_	_	15	advmod	_	_
 18	tiun	tiun	PRON	_	Case=Acc|Number=Sing|PronType=Dem	19	det	_	_
-19	stilon	stilo	NOUN	_	Case=Acc|Number=Sing	13	obj	_	_
+19	stilon	stilo	NOUN	_	Case=Acc|Number=Sing	13	obj	_	SpaceAfter=No
 20	,	,	PUNCT	_	_	22	punct	_	_
 21	kiu	kiu	PRON	_	Case=Nom|Number=Sing|PronType=Int	22	nsubj	_	_
 22	troviĝas	troviĝi	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	19	acl:relcl	_	_
@@ -4391,7 +4391,7 @@
 27	la	la	DET	_	Definite=Def|PronType=Art	28	det	_	_
 28	kreinto	kreinto	NOUN	_	Case=Nom|Number=Sing	25	nmod	_	_
 29	de	de	ADP	_	_	30	case	_	_
-30	Esperanto	Esperanto	NOUN	_	Case=Nom|Number=Sing	28	nmod	_	_
+30	Esperanto	Esperanto	NOUN	_	Case=Nom|Number=Sing	28	nmod	_	SpaceAfter=No
 31	,	,	PUNCT	_	_	36	punct	_	_
 32	kiu	kiu	PRON	_	Case=Nom|Number=Sing|PronType=Int	36	nsubj	_	_
 33	la	la	DET	_	Definite=Def|PronType=Art	35	det	_	_
@@ -4408,6 +4408,6 @@
 44	bone	bone	ADV	_	_	45	advmod	_	_
 45	konas	koni	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	36	conj	_	_
 46	ĝian	ĝian	PRON	_	Case=Acc|Gender=Neut|Gender[psor]=Neut|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Poss=Yes|PronType=Prs	47	nmod:poss	_	_
-47	spiriton	spirito	NOUN	_	Case=Acc|Number=Sing	45	obj	_	_
+47	spiriton	spirito	NOUN	_	Case=Acc|Number=Sing	45	obj	_	SpaceAfter=No
 48	.	.	PUNCT	_	_	12	punct	_	_
 
