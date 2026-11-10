@@ -1,6 +1,6 @@
 # Summary
 
-UD Esperanto-Prago is the Universal Dependencies syntax annotation on Manifesto de Prago (Prague Manifesto) and Deklaratio pri Homaranismo.
+UD Esperanto-Prago is the Universal Dependencies syntax annotation on _Manifesto de Prago_ (Prague Manifesto) (1996), _Deklaratio pri Homaranismo_ (1913), and _Deklaracio pri la Esenco de la Esperantismo_ (Bulonja deklaracio) (1905). 
 
 # Introduction
 
@@ -12,9 +12,11 @@ Esperanto is a constructed auxiliary language for international communication, c
 ...
 
 ## References
-
 https://lingvo.org/prago/eo.php
 
+https://eo.wikisource.org/wiki/Deklaracio_pri_Homaranismo
+
+https://www.akademio-de-esperanto.org/fundamento/bulonja_deklaracio.html
 
 # Changelog
 
